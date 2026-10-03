@@ -4,6 +4,8 @@ App local para estudiar el examen teórico de la licencia de conducir B1 de la P
 
 ## Usar la app
 
+**Online:** https://fpaus.github.io/apuntes-licencia-ba/app/ — se puede instalar en el teléfono y funciona sin internet.
+
 Un solo archivo ejecutable, sin instalar nada. Trae todo el contenido adentro.
 
 - **Windows:** copiá `dist/licencia.exe` a la otra computadora y hacé doble clic. Se abre el navegador en `http://127.0.0.1:8642/app/`. Para salir, cerrá la ventana negra.
