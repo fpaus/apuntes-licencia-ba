@@ -166,12 +166,14 @@ function lesson(view, id, k) {
   };
 }
 
+const tableHtml = t => t ? `<div class="table-wrap"><table>
+  <thead><tr>${t.head.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>
+  <tbody>${t.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>` : "";
+
 function cardEl(card) {
   const el = document.createElement("article");
   el.className = "panel card";
-  const table = card.table ? `<div class="table-wrap"><table>
-      <thead><tr>${card.table.head.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>
-      <tbody>${card.table.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>` : "";
+  const table = tableHtml(card.table);
   el.innerHTML = `
     <h2>${esc(card.title)}</h2>
     ${card.image ? `<figure><img src="${C}${esc(card.image)}" data-zoom="${C}${esc(card.image)}" alt="" loading="lazy"></figure>` : ""}
@@ -238,13 +240,14 @@ function questionEl(q) {
 function noteEl(n, heading) {
   const el = document.createElement("section");
   el.className = "panel note stack";
-  const src = C + n.image; // our own illustration: the source photos are third-party ads
+  const src = n.image && C + n.image; // our own illustration: the source photos are third-party ads
   el.innerHTML = `
     <div class="row spread"><h3 style="margin:0">${heading ? `${esc(heading)}: ` : ""}${esc(n.title)}</h3>
       ${n.status === "outside_manual" ? `<span class="tag">no está en el manual</span>` : ""}</div>
     ${n.warning ? `<p class="warn">⚠ ${esc(n.warning)}</p>` : ""}
+    ${tableHtml(n.table)}
     <div class="row" style="align-items:flex-start">
-      <img src="${src}" data-zoom="${src}" alt="" loading="lazy" style="width:140px" onerror="this.remove()">
+      ${src ? `<img src="${src}" data-zoom="${src}" alt="" loading="lazy" style="width:140px" onerror="this.remove()">` : ""}
       <ul style="flex:1;min-width:220px;margin:0">${n.facts.filter(f => !f.startsWith("TODO")).map(f => `<li>${esc(f)}</li>`).join("")}</ul>
     </div>`;
   return el;
@@ -336,9 +339,9 @@ async function downloadAll() {
     ...Array.from({ length: 185 }, (_, i) => pageImg(i + 1)),
     ...D.lessons.flatMap(l => l.cards.filter(c => c.image).map(c => C + c.image)),
     ...D.questions.flatMap(q => q.images.map(i => C + i.file)),
-    ...D.notes.map(n => C + n.image),
+    ...D.notes.filter(n => n.image).map(n => C + n.image),
   ]);
-  const cache = await caches.open("licencia-v1"); // same name as CACHE in sw.js
+  const cache = await caches.open("licencia-v2"); // same name as CACHE in sw.js
   let done = 0, failed = 0;
   const list = [...urls];
   for (let i = 0; i < list.length; i += 8) {

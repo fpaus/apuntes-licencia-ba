@@ -143,8 +143,8 @@
   ],
   "facts": [
    "Mejor: 9 y 3 — máximo control y acceso rápido al volante.",
-   "Normal: 10 y 2 — equilibrio entre control y comodidad.",
-   "Peligro: 12, 6, 7 y 5 — menos control y reacciones más lentas.",
+   "Normal: 10 y 2, también 8 y 4 — equilibrio entre control y comodidad.",
+   "Peligro: 12, 11, 1, 7, 6 y 5 — menos control y reacciones más lentas.",
    "El manual solo pide ambas manos en el volante (p. 21)."
   ],
   "status": "outside_manual",
@@ -201,7 +201,7 @@
    "La rotonda es una intersección circular; se circula alrededor de la isla central en sentido antihorario.",
    "Cedé el paso a los vehículos que ya circulan dentro de la rotonda.",
    "Señalizá la salida con anticipación.",
-   "Usá el carril exterior para entrar y salir; hacé los cambios de carril dentro de la rotonda.",
+   "Circulá por el carril interior (izquierdo) y pasá al exterior (derecho) solo para salir.",
    "Nunca cruces la rotonda en línea recta ni salgas desde un carril interior.",
    "El manual agrega: quien circula por la rotonda debe ceder el paso al que egresa, salvo señalización (p. 105)."
   ],
@@ -216,15 +216,136 @@
    "4.3"
   ],
   "facts": [
-   "Es la tabla de la página 57 del manual, con mínimas escritas a mano: 40 km/h en semiautopistas y autovías, 65 km/h en autopistas.",
-   "El 65 km/h a mano coincide con la celda combinada de autopistas del manual.",
-   "El 40 km/h a mano para semiautopistas es una lectura de la columna rural: el manual muestra '40 km/h' en carreteras y debajo una celda combinada 'salvo maquinaria especial'. TODO: verify con el instructor."
+   "Tabla de la página 57 del manual, con tus anotaciones.",
+   "✍ = mínima anotada a mano. El manual no da un valor propio para semiautopistas: muestra la celda combinada 'salvo maquinaria especial'."
   ],
   "status": "consistent",
   "conflict_refs": [
    "minima-semiautopista"
   ],
   "warning": "La mínima de 40 km/h en semiautopistas es una interpretación de la tabla del manual (p. 57). Confirmala con tu instructor.",
-  "image": "img/manual/p057.jpg"
+  "table": {
+   "head": [
+    "Zona",
+    "Lugar",
+    "Vehículo",
+    "Máxima",
+    "Mínima"
+   ],
+   "rows": [
+    [
+     "Urbana",
+     "Calles",
+     "Todos",
+     "40 km/h",
+     "20 km/h"
+    ],
+    [
+     "Urbana",
+     "Avenidas",
+     "Todos",
+     "60 km/h",
+     "30 km/h"
+    ],
+    [
+     "Urbana",
+     "Vías semaforizadas",
+     "Solo motos y autos",
+     "Coordinación semafórica",
+     "Mitad del máximo"
+    ],
+    [
+     "Urbana",
+     "Intersecciones",
+     "Todos",
+     "30 km/h",
+     "15 km/h"
+    ],
+    [
+     "Urbana",
+     "Establecimientos de alta concentración (escuelas, cines, estadios)",
+     "Todos",
+     "20 km/h",
+     "10 km/h"
+    ],
+    [
+     "Urbana",
+     "Rutas que cruzan la ciudad",
+     "Todos",
+     "60 km/h",
+     "30 km/h"
+    ],
+    [
+     "Rural",
+     "Carreteras o caminos comunes",
+     "Motos y automóviles",
+     "110 km/h",
+     "40 km/h"
+    ],
+    [
+     "Rural",
+     "Carreteras o caminos comunes",
+     "Camionetas, micros, buses, autocasas autopropulsadas",
+     "90 km/h",
+     "salvo maquinaria especial"
+    ],
+    [
+     "Rural",
+     "Carreteras o caminos comunes",
+     "Camiones, autos con casa rodante",
+     "80 km/h",
+     "salvo maquinaria especial"
+    ],
+    [
+     "Rural",
+     "Semiautopista o autovías",
+     "Motos y automóviles",
+     "120 km/h",
+     "40 km/h ✍"
+    ],
+    [
+     "Rural",
+     "Semiautopista o autovías",
+     "Camionetas",
+     "110 km/h",
+     "40 km/h ✍"
+    ],
+    [
+     "Rural",
+     "Semiautopista o autovías",
+     "Restantes",
+     "ídem carreteras",
+     "salvo maquinaria especial"
+    ],
+    [
+     "Ambas",
+     "Autopistas",
+     "Motos y automóviles",
+     "130 km/h",
+     "65 km/h"
+    ],
+    [
+     "Ambas",
+     "Autopistas",
+     "Ómnibus y autocasas",
+     "100 km/h",
+     "65 km/h"
+    ],
+    [
+     "Ambas",
+     "Autopistas",
+     "Restantes",
+     "ídem carreteras",
+     "65 km/h"
+    ],
+    [
+     "Ambas",
+     "Pasos a nivel sin barrera ni semáforo",
+     "Todos",
+     "20 km/h",
+     "10 km/h"
+    ]
+   ]
+  }
  }
 ]

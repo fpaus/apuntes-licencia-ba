@@ -1,7 +1,7 @@
 // Service worker: works offline once visited.
 // App files and JSON: network first (fresh content when online), cache as fallback.
 // Images: cache first (file names are stable; "Descargar todo" in Ajustes fills this cache).
-const CACHE = "licencia-v1";
+const CACHE = "licencia-v2"; // bump when images change: they are served cache-first
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png",
   "../content/manual.json", "../content/questions.json", "../content/notes.json", "../content/question_topics.json",
   ...Array.from({ length: 10 }, (_, i) => `../content/lessons/ch${String(i + 1).padStart(2, "0")}.json`)];

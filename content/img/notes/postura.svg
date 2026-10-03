@@ -1,55 +1,115 @@
-<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
-  <rect x="0" y="0" width="600" height="450" rx="24" fill="#ffffff"/>
+<svg viewBox="0 0 600 900" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <rect x="0" y="0" width="600" height="900" rx="24" fill="#ffffff"/>
 
-  <text x="300" y="36" text-anchor="middle" font-size="25" font-weight="bold" fill="#1d2420">Postura al conducir</text>
-  <text x="300" y="58" text-anchor="middle" font-size="14" fill="#5d6a62">Apoyacabezas a la altura de la cabeza</text>
+  <text x="300" y="30" text-anchor="middle" font-size="27" font-weight="bold" fill="#1d2420">Postura correcta y referencias al conducir</text>
 
-  <!-- side view schematic: seat back, headrest, torso-hip-knee figure, steering wheel -->
+  <!-- ================= PANEL 1: AJUSTE IDEAL ================= -->
+  <rect x="16" y="46" width="568" height="30" rx="8" fill="#2f8a4f"/>
+  <text x="300" y="67" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffffff">1. AJUSTE IDEAL DEL CONDUCTOR</text>
   <g>
-    <!-- seat back -->
-    <rect x="110" y="110" width="26" height="200" rx="10" fill="#d9e0d9"/>
-    <!-- headrest -->
-    <rect x="106" y="90" width="42" height="32" rx="10" fill="#d9e0d9"/>
-    <text x="127" y="82" text-anchor="middle" font-size="12" fill="#5d6a62">Apoyacabezas</text>
+  <line x1="230" y1="342" x2="360" y2="332" stroke="#d9e0d9" stroke-width="18" stroke-linecap="round"/>
+  <line x1="234.6" y1="338.6" x2="164.5" y2="194.8" stroke="#d9e0d9" stroke-width="18" stroke-linecap="round"/>
+  <rect x="140.6" y="166.6" width="20" height="40" rx="8" fill="#d9e0d9"/>
+  <line x1="452.1" y1="340.6" x2="470.1" y2="376.6" stroke="#5d6a62" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="378.0" cy="208.2" rx="14" ry="44" transform="rotate(-20 378.0 208.2)" fill="none" stroke="#5d6a62" stroke-width="7"/>
+  <line x1="378.0" y1="208.2" x2="412.0" y2="248.2" stroke="#5d6a62" stroke-width="7" stroke-linecap="round"/>
+  <line x1="250.0" y1="320.0" x2="193.0" y2="203.2" stroke="#1d2420" stroke-width="9" stroke-linecap="round"/>
+  <line x1="250.0" y1="320.0" x2="373.8" y2="302.6" stroke="#1d2420" stroke-width="9" stroke-linecap="round"/>
+  <line x1="373.8" y1="302.6" x2="442.1" y2="368.6" stroke="#1d2420" stroke-width="9" stroke-linecap="round"/>
+  <line x1="193.0" y1="203.2" x2="278.0" y2="251.2" stroke="#1d2420" stroke-width="9" stroke-linecap="round"/>
+  <line x1="278.0" y1="251.2" x2="348.0" y2="214.2" stroke="#1d2420" stroke-width="9" stroke-linecap="round"/>
+  <line x1="442.1" y1="368.6" x2="468.1" y2="360.6" stroke="#1d2420" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="178.5" cy="173.5" r="22" fill="#1d2420"/>
+  <circle cx="250.0" cy="320.0" r="6" fill="#ffffff" stroke="#1d2420" stroke-width="3"/>
+  <circle cx="373.8" cy="302.6" r="6" fill="#ffffff" stroke="#1d2420" stroke-width="3"/>
+  <circle cx="193.0" cy="203.2" r="6" fill="#ffffff" stroke="#1d2420" stroke-width="3"/>
+  <circle cx="278.0" cy="251.2" r="6" fill="#ffffff" stroke="#1d2420" stroke-width="3"/>
+  <path d="M283.7,315.3 A34,34 0 0,0 235.1,289.4" fill="none" stroke="#2f8a4f" stroke-width="3"/>
+  <path d="M395.4,323.4 A30,30 0 1,0 344.1,306.8" fill="none" stroke="#c98a00" stroke-width="3"/>
+  <text x="120" y="332" font-size="16" font-weight="bold" fill="#2f8a4f">Cadera</text>
+  <text x="120" y="351" font-size="16" font-weight="bold" fill="#2f8a4f">100°–115°</text>
+  <text x="249" y="371" font-size="16" font-weight="bold" fill="#c98a00">Rodilla 120°–135°</text>
+  <line x1="204.5" y1="155.5" x2="288.5" y2="155.5" stroke="#5d6a62" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <path d="M280.5,149.5 L290.5,155.5 L280.5,161.5" fill="none" stroke="#5d6a62" stroke-width="2.5"/>
+  <text x="296.5" y="160.5" font-size="16" fill="#1d2420">Vista al frente</text>
+  <line x1="216.4" y1="234.6" x2="364.0" y2="234.6" stroke="#c0392b" stroke-width="2.5" stroke-dasharray="5 4"/>
+  <text x="24" y="118" font-size="16" fill="#1d2420">Apoyacabezas</text>
+  <text x="24" y="137" font-size="16" fill="#1d2420">a la altura de la cabeza</text>
+  <text x="24" y="228" font-size="16" fill="#1d2420">Respaldo con</text>
+  <text x="24" y="247" font-size="16" fill="#1d2420">leve inclinación</text>
+  <text x="213" y="195" font-size="16" fill="#1d2420">Codos flexionados</text>
+  <text x="442" y="186" font-size="16" fill="#1d2420">Manos en 9 y 3</text>
+  <text x="442" y="226" font-size="16" fill="#c0392b">Volante a</text>
+  <text x="442" y="245" font-size="16" fill="#c0392b">25–30 cm del pecho</text>
+  <text x="464" y="327" font-size="16" fill="#1d2420">Pies apoyados,</text>
+  <text x="464" y="346" font-size="16" fill="#1d2420">pedales a mano</text>
+  </g>
 
-    <!-- torso: shoulder (165,160) to hip (150,250) -->
-    <circle cx="165" cy="160" r="9" fill="#1d2420"/>
-    <line x1="165" y1="160" x2="150" y2="250" stroke="#1d2420" stroke-width="6" stroke-linecap="round"/>
-    <circle cx="150" cy="250" r="8" fill="#1d2420"/>
+  <!-- ================= PANEL 2: REFERENCIAS VISUALES ================= -->
+  <rect x="16" y="400" width="568" height="30" rx="8" fill="#2f8a4f"/>
+  <text x="300" y="421" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffffff">2. REFERENCIAS VISUALES AL VOLANTE</text>
 
-    <!-- hip angle arc (small, at the joint) + label (left margin, clear of the seat back) -->
-    <path d="M 150 250 A 20 20 0 0 1 166 236" fill="none" stroke="#2f8a4f" stroke-width="2"/>
-    <text x="100" y="236" text-anchor="end" font-size="13" fill="#2f8a4f" font-weight="bold">Cadera</text>
-    <text x="100" y="252" text-anchor="end" font-size="13" fill="#2f8a4f" font-weight="bold">100°–115°</text>
+  <g>
+    <!-- road, converging toward a vanishing point -->
+    <path d="M 290 500 L 310 500 L 490 680 L 110 680 Z" fill="#4a4f4c"/>
+    <line x1="300" y1="506" x2="300" y2="676" stroke="#f2c200" stroke-width="3" stroke-dasharray="14,12"/>
 
-    <!-- thigh: hip to knee -->
-    <line x1="150" y1="250" x2="240" y2="278" stroke="#1d2420" stroke-width="6" stroke-linecap="round"/>
-    <circle cx="240" cy="278" r="8" fill="#1d2420"/>
+    <!-- centro visual -->
+    <text x="300" y="452" text-anchor="middle" font-size="16" font-weight="bold" fill="#1d2420">Centro visual</text>
+    <line x1="300" y1="458" x2="300" y2="498" stroke="#1d2420" stroke-width="1.5" stroke-dasharray="4,4"/>
 
-    <!-- knee angle arc (small, at the joint) + label, placed to the right of the knee, clear of the shin -->
-    <path d="M 240 278 A 18 18 0 0 1 228 262" fill="none" stroke="#c98a00" stroke-width="2"/>
-    <text x="265" y="254" font-size="13" fill="#c98a00" font-weight="bold">Rodilla</text>
-    <text x="265" y="270" font-size="13" fill="#c98a00" font-weight="bold">120°–135°</text>
+    <!-- referencia izquierda -->
+    <text x="140" y="452" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f8a4f">Referencia</text>
+    <text x="140" y="470" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f8a4f">izquierda</text>
+    <line x1="150" y1="474" x2="215" y2="560" stroke="#2f8a4f" stroke-width="1.5" stroke-dasharray="4,4"/>
 
-    <!-- shin: knee to foot (pedal) -->
-    <line x1="240" y1="278" x2="255" y2="330" stroke="#1d2420" stroke-width="6" stroke-linecap="round"/>
-    <ellipse cx="266" cy="336" rx="18" ry="8" fill="#5d6a62"/>
+    <!-- referencia derecha -->
+    <text x="460" y="452" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f8a4f">Referencia</text>
+    <text x="460" y="470" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f8a4f">derecha</text>
+    <line x1="450" y1="474" x2="385" y2="560" stroke="#2f8a4f" stroke-width="1.5" stroke-dasharray="4,4"/>
 
-    <!-- arm: shoulder to steering wheel -->
-    <line x1="165" y1="160" x2="330" y2="200" stroke="#1d2420" stroke-width="5" stroke-linecap="round"/>
+    <!-- limite izquierdo del auto -->
+    <text x="22" y="598" font-size="15" font-weight="bold" fill="#1d2420">Límite</text>
+    <text x="22" y="616" font-size="15" font-weight="bold" fill="#1d2420">izquierdo</text>
+    <text x="22" y="634" font-size="15" font-weight="bold" fill="#1d2420">del auto</text>
+    <line x1="88" y1="620" x2="115" y2="674" stroke="#1d2420" stroke-width="1.5" stroke-dasharray="4,4"/>
 
-    <!-- steering wheel -->
-    <circle cx="350" cy="205" r="55" fill="none" stroke="#5d6a62" stroke-width="10"/>
-    <circle cx="350" cy="205" r="10" fill="#5d6a62"/>
-    <text x="350" y="282" text-anchor="middle" font-size="13" fill="#5d6a62">Volante</text>
+    <!-- limite derecho del auto -->
+    <text x="578" y="598" text-anchor="end" font-size="15" font-weight="bold" fill="#1d2420">Límite</text>
+    <text x="578" y="616" text-anchor="end" font-size="15" font-weight="bold" fill="#1d2420">derecho</text>
+    <text x="578" y="634" text-anchor="end" font-size="15" font-weight="bold" fill="#1d2420">del auto</text>
+    <line x1="512" y1="620" x2="485" y2="674" stroke="#1d2420" stroke-width="1.5" stroke-dasharray="4,4"/>
 
-    <!-- distance to wheel, drawn low and clear of the figure -->
-    <line x1="150" y1="390" x2="350" y2="390" stroke="#c0392b" stroke-width="2" stroke-dasharray="6,5"/>
-    <line x1="150" y1="380" x2="150" y2="400" stroke="#c0392b" stroke-width="2"/>
-    <line x1="350" y1="380" x2="350" y2="400" stroke="#c0392b" stroke-width="2"/>
-    <text x="250" y="414" text-anchor="middle" font-size="14" fill="#c0392b" font-weight="bold">25–30 cm al volante</text>
+    <!-- espejo lateral como apoyo -->
+    <rect x="18" y="700" width="30" height="20" rx="7" fill="none" stroke="#5d6a62" stroke-width="3"/>
+    <line x1="48" y1="710" x2="70" y2="710" stroke="#5d6a62" stroke-width="2"/>
+    <text x="78" y="705" font-size="15" fill="#5d6a62">Espejo lateral</text>
+    <text x="78" y="723" font-size="15" fill="#5d6a62">como apoyo</text>
 
-    <!-- floor -->
-    <line x1="60" y1="358" x2="560" y2="358" stroke="#d9e0d9" stroke-width="3"/>
+    <!-- steering wheel, driver view -->
+    <circle cx="300" cy="790" r="90" fill="none" stroke="#5d6a62" stroke-width="16"/>
+    <circle cx="300" cy="790" r="34" fill="#ffffff" stroke="#5d6a62" stroke-width="2.5"/>
+
+    <!-- hand positions 9 and 3 -->
+    <circle cx="210" cy="790" r="13" fill="#1d2420"/>
+    <text x="210" y="795" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">9</text>
+    <circle cx="390" cy="790" r="13" fill="#1d2420"/>
+    <text x="390" y="795" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">3</text>
+
+    <!-- 12 o'clock reference -->
+    <circle cx="300" cy="700" r="14" fill="#ffffff" stroke="#1d2420" stroke-width="2.5"/>
+    <text x="300" y="705" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">12</text>
+
+    <!-- manos en 9 y 3 / control del volante callout -->
+    <line x1="202" y1="786" x2="150" y2="772" stroke="#1d2420" stroke-width="1.5" stroke-dasharray="4,4"/>
+    <text x="18" y="770" font-size="15" font-weight="bold" fill="#1d2420">Manos en 9 y 3:</text>
+    <text x="18" y="788" font-size="15" font-weight="bold" fill="#1d2420">control del</text>
+    <text x="18" y="806" font-size="15" font-weight="bold" fill="#1d2420">volante</text>
+
+    <!-- referencia trasera / proximidad -->
+    <rect x="280" y="840" width="40" height="16" rx="4" fill="#5d6a62"/>
+    <path d="M 282 840 L 288 832 L 312 832 L 318 840" fill="none" stroke="#5d6a62" stroke-width="3" stroke-linejoin="round"/>
+    <text x="300" y="876" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">Referencia trasera /</text>
+    <text x="300" y="894" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">proximidad</text>
   </g>
 </svg>

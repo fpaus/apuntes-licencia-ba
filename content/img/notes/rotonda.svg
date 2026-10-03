@@ -1,47 +1,47 @@
-<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
-  <rect x="0" y="0" width="600" height="450" rx="24" fill="#ffffff"/>
-  <text x="300" y="32" text-anchor="middle" font-size="24" font-weight="bold" fill="#1d2420">La rotonda</text>
-
-  <!-- roundabout top-down, centered lower to clear the title -->
-  <!-- four approach roads -->
-  <rect x="270" y="46" width="60" height="114" fill="#4a4f4c"/>
-  <rect x="270" y="400" width="60" height="50" fill="#4a4f4c"/>
-  <rect x="0" y="230" width="160" height="60" fill="#4a4f4c"/>
-  <rect x="440" y="230" width="160" height="60" fill="#4a4f4c"/>
-  <!-- center dashed lines on approach roads -->
-  <line x1="300" y1="46" x2="300" y2="160" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
-  <line x1="300" y1="400" x2="300" y2="450" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
-  <line x1="0" y1="260" x2="160" y2="260" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
-  <line x1="440" y1="260" x2="600" y2="260" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
-
-  <!-- outer road ring -->
-  <circle cx="300" cy="260" r="140" fill="#4a4f4c"/>
-  <!-- central island -->
-  <circle cx="300" cy="260" r="65" fill="#e2f1e6" stroke="#d9e0d9" stroke-width="2"/>
-  <!-- lane divider ring (dashed white) -->
-  <circle cx="300" cy="260" r="102" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="10 10"/>
-
-  <!-- counter-clockwise circulation arrows on the ring (tangent to the dashed lane) -->
-  <g fill="#ffffff">
-    <path d="M288,158 L300,150 L300,166 Z"/>
-    <path d="M402,248 L410,260 L394,260 Z"/>
-    <path d="M312,362 L300,370 L300,354 Z"/>
-    <path d="M198,272 L190,260 L206,260 Z"/>
-  </g>
-
-  <!-- GREEN path: right-hand traffic enters from the left, circulates counter-clockwise on the outer lane, takes the first exit (down) -->
-  <path d="M30,278 L173,278 A128,128 0 0,0 282,387 L282,428" fill="none" stroke="#2f8a4f" stroke-width="5" stroke-linecap="round"/>
-  <path d="M268,404 L282,432 L296,404" fill="none" stroke="#2f8a4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <!-- RED path: crosses straight through the island line, crossed out -->
-  <path d="M30,260 L570,260" stroke="#c0392b" stroke-width="4" stroke-dasharray="10 8"/>
-  <g transform="translate(300,260)">
-    <circle r="22" fill="#ffffff" stroke="#c0392b" stroke-width="4"/>
-    <path d="M-13,-13 L13,13 M13,-13 L-13,13" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
-  </g>
-
-  <!-- label in the blank top-left corner -->
-  <rect x="16" y="56" width="172" height="58" rx="10" fill="#e2f1e6"/>
-  <text x="102" y="78" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d2420">Prioridad:</text>
-  <text x="102" y="98" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d2420">el que ya circula</text>
+<svg viewBox="0 0 600 480" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+<rect x="0" y="0" width="600" height="480" rx="24" fill="#ffffff"/>
+<text x="300" y="30" text-anchor="middle" font-size="22" font-weight="bold" fill="#1d2420">La rotonda: dos carriles</text>
+<rect x="270" y="46" width="60" height="114" fill="#4a4f4c"/>
+<rect x="270" y="400" width="60" height="80" fill="#4a4f4c"/>
+<rect x="0" y="230" width="160" height="60" fill="#4a4f4c"/>
+<rect x="440" y="230" width="160" height="60" fill="#4a4f4c"/>
+<line x1="300" y1="46" x2="300" y2="160" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="300" y1="400" x2="300" y2="480" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="0" y1="260" x2="160" y2="260" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="440" y1="260" x2="600" y2="260" stroke="#f2c200" stroke-width="2" stroke-dasharray="8 8"/>
+<circle cx="300" cy="260" r="140" fill="#4a4f4c"/>
+<circle cx="300" cy="260" r="65" fill="#e2f1e6" stroke="#d9e0d9" stroke-width="2"/>
+<circle cx="300" cy="260" r="102" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="10 10"/>
+<g fill="#ffffff">
+<path d="M288,158 L300,150 L300,166 Z"/>
+<path d="M402,248 L410,260 L394,260 Z"/>
+<path d="M312,362 L300,370 L300,354 Z"/>
+<path d="M198,272 L190,260 L206,260 Z"/>
+</g>
+<path d="M160.0,260.0 L216.0,260.0 L217.3,274.6 L221.1,288.7 L227.3,302.0 L235.7,314.0 L246.0,324.3 L258.0,332.7 L271.3,338.9 L285.4,342.7 L285.4,342.7 L289.5,380.5 L300.0,381.0 L300.0,381.0 L300.0,428.0" fill="none" stroke="#2f8a4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M286,408 L300,432 L314,408" fill="none" stroke="#2f8a4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300.0,176.0 L160.0,260.0" stroke="#c0392b" stroke-width="4" stroke-dasharray="9 7" stroke-linecap="round"/>
+<path d="M172,246 L158,260 L172,274" fill="none" stroke="#c0392b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(230.0,218.0)">
+<circle r="20" fill="#ffffff" stroke="#c0392b" stroke-width="4"/>
+<path d="M-12,-12 L12,12 M12,-12 L-12,12" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+</g>
+<path d="M30,260 L570,260" stroke="#c0392b" stroke-width="4" stroke-dasharray="10 8"/>
+<path d="M556,246 L572,260 L556,274" fill="none" stroke="#c0392b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(300,260)">
+<circle r="22" fill="#ffffff" stroke="#c0392b" stroke-width="4"/>
+<path d="M-13,-13 L13,13 M13,-13 L-13,13" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+</g>
+<rect x="14" y="48" width="160" height="56" rx="10" fill="#e2f1e6"/>
+<text x="94" y="70" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d2420">Prioridad:</text>
+<text x="94" y="90" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d2420">el que ya circula</text>
+<rect x="436" y="300" width="150" height="56" rx="10" fill="#e2f1e6"/>
+<text x="511" y="322" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d2420">Señalizá</text>
+<text x="511" y="342" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d2420">la salida</text>
+<circle cx="26" cy="410" r="7" fill="#2f8a4f"/>
+<text x="42" y="406" font-size="12" fill="#1d2420">Circulá por el interno;</text>
+<text x="42" y="422" font-size="12" fill="#1d2420">pasá al externo para salir.</text>
+<circle cx="26" cy="448" r="7" fill="#c0392b"/>
+<text x="42" y="444" font-size="12" fill="#1d2420">Nunca cortes carriles</text>
+<text x="42" y="460" font-size="12" fill="#1d2420">ni cruces en línea recta.</text>
 </svg>

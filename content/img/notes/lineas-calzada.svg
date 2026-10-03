@@ -1,42 +1,115 @@
-<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
-  <rect x="0" y="0" width="600" height="450" rx="24" fill="#ffffff"/>
+<svg viewBox="0 0 600 900" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <rect x="0" y="0" width="600" height="900" rx="24" fill="#ffffff"/>
 
   <text x="300" y="38" text-anchor="middle" font-size="27" font-weight="bold" fill="#1d2420">Líneas de la calzada</text>
 
-  <!-- 4 road segments, top-down, each a horizontal grey band -->
-  <!-- Segment 1: continuous yellow -->
-  <g>
-    <rect x="40" y="58" width="520" height="56" fill="#4a4f4c"/>
-    <line x1="40" y1="86" x2="560" y2="86" stroke="#f2c200" stroke-width="4"/>
-    <text x="300" y="130" text-anchor="middle" font-size="15" fill="#1d2420">Continua: no adelantar</text>
+  <!-- Row 1: línea continua -->
+  <g transform="translate(0,70)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <line x1="50" y1="23" x2="410" y2="23" stroke="#f2c200" stroke-width="5"/>
+    <text x="230" y="66" text-anchor="middle" font-size="15" fill="#1d2420">Línea continua: no adelantar</text>
+    <circle cx="490" cy="23" r="30" fill="#ffffff" stroke="#c0392b" stroke-width="4"/>
+    <rect x="472" y="14" width="20" height="10" rx="3" fill="#1d2420"/>
+    <rect x="482" y="22" width="20" height="10" rx="3" fill="#c0392b"/>
+    <line x1="472" y1="6" x2="508" y2="40" stroke="#c0392b" stroke-width="3"/>
   </g>
 
-  <!-- Segment 2: double continuous yellow -->
-  <g>
-    <rect x="40" y="150" width="520" height="56" fill="#4a4f4c"/>
-    <line x1="40" y1="178" x2="560" y2="178" stroke="#f2c200" stroke-width="3"/>
-    <line x1="40" y1="186" x2="560" y2="186" stroke="#f2c200" stroke-width="3"/>
-    <text x="300" y="222" text-anchor="middle" font-size="15" fill="#1d2420">Doble continua: no adelantar</text>
+  <!-- Row 2: doble continua -->
+  <g transform="translate(0,172)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <line x1="50" y1="17" x2="410" y2="17" stroke="#f2c200" stroke-width="3"/>
+    <line x1="50" y1="29" x2="410" y2="29" stroke="#f2c200" stroke-width="3"/>
+    <text x="230" y="66" text-anchor="middle" font-size="15" fill="#1d2420">Doble continua: prohibido adelantar</text>
+    <circle cx="490" cy="23" r="30" fill="#ffffff" stroke="#c0392b" stroke-width="4"/>
+    <rect x="472" y="14" width="20" height="10" rx="3" fill="#1d2420"/>
+    <rect x="482" y="22" width="20" height="10" rx="3" fill="#c0392b"/>
+    <line x1="472" y1="6" x2="508" y2="40" stroke="#c0392b" stroke-width="3"/>
   </g>
 
-  <!-- Segment 3: dashed yellow + double combined (continuous+dashed) side by side split -->
-  <g>
-    <rect x="40" y="242" width="250" height="56" fill="#4a4f4c"/>
-    <line x1="40" y1="270" x2="290" y2="270" stroke="#f2c200" stroke-width="4" stroke-dasharray="18,14"/>
-    <text x="165" y="314" text-anchor="middle" font-size="15" fill="#1d2420">Discontinua: adelantar sí</text>
-
-    <rect x="310" y="242" width="250" height="56" fill="#4a4f4c"/>
-    <line x1="310" y1="266" x2="560" y2="266" stroke="#f2c200" stroke-width="3"/>
-    <line x1="310" y1="274" x2="560" y2="274" stroke="#f2c200" stroke-width="3" stroke-dasharray="18,14"/>
-    <text x="435" y="314" text-anchor="middle" font-size="14" fill="#1d2420">Combinada: adelanta el</text>
-    <text x="435" y="332" text-anchor="middle" font-size="14" fill="#1d2420">lado discontinuo</text>
+  <!-- Row 3: línea discontinua -->
+  <g transform="translate(0,274)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <line x1="50" y1="23" x2="410" y2="23" stroke="#f2c200" stroke-width="5" stroke-dasharray="20,14"/>
+    <text x="230" y="66" text-anchor="middle" font-size="15" fill="#1d2420">Línea discontinua: adelantamiento permitido</text>
+    <circle cx="490" cy="23" r="30" fill="#ffffff" stroke="#2f8a4f" stroke-width="4"/>
+    <rect x="478" y="16" width="24" height="12" rx="4" fill="#2f8a4f"/>
+    <rect x="483" y="9" width="14" height="8" rx="3" fill="#2f8a4f"/>
   </g>
 
-  <!-- Segment 4: lane lines (white dashed, same direction) + edge line (white solid) -->
-  <g>
-    <rect x="40" y="356" width="520" height="56" fill="#4a4f4c"/>
-    <line x1="40" y1="384" x2="560" y2="384" stroke="#ffffff" stroke-width="4" stroke-dasharray="18,14"/>
-    <line x1="40" y1="360" x2="560" y2="360" stroke="#ffffff" stroke-width="3"/>
-    <text x="300" y="428" text-anchor="middle" font-size="14" fill="#1d2420">Carril (blanca): cambiar de carril · Borde: no sobrepasar</text>
+  <!-- Row 4: doble combinada -->
+  <g transform="translate(0,376)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <line x1="50" y1="17" x2="410" y2="17" stroke="#f2c200" stroke-width="3"/>
+    <line x1="50" y1="29" x2="410" y2="29" stroke="#f2c200" stroke-width="3" stroke-dasharray="18,12"/>
+    <text x="230" y="60" text-anchor="middle" font-size="14" fill="#1d2420">Doble combinada: adelanta solo</text>
+    <text x="230" y="78" text-anchor="middle" font-size="14" fill="#1d2420">el lado discontinuo</text>
+    <circle cx="490" cy="23" r="30" fill="#ffffff" stroke="#c98a00" stroke-width="3"/>
+    <line x1="482" y1="11" x2="482" y2="35" stroke="#c98a00" stroke-width="3"/>
+    <line x1="498" y1="12" x2="498" y2="18" stroke="#c98a00" stroke-width="3"/>
+    <line x1="498" y1="24" x2="498" y2="30" stroke="#c98a00" stroke-width="3"/>
+  </g>
+
+  <!-- Row 5: líneas de carril -->
+  <g transform="translate(0,478)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <line x1="50" y1="23" x2="410" y2="23" stroke="#ffffff" stroke-width="5" stroke-dasharray="20,14"/>
+    <text x="230" y="66" text-anchor="middle" font-size="15" fill="#1d2420">Líneas de carril: delimitan el cambio</text>
+    <circle cx="490" cy="23" r="30" fill="#1f5fa8"/>
+    <line x1="490" y1="10" x2="490" y2="36" stroke="#ffffff" stroke-width="4" stroke-dasharray="6,5"/>
+  </g>
+
+  <!-- Row 6: línea de borde -->
+  <g transform="translate(0,580)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <line x1="50" y1="36" x2="410" y2="36" stroke="#ffffff" stroke-width="5"/>
+    <text x="230" y="66" text-anchor="middle" font-size="15" fill="#1d2420">Línea de borde: no sobrepasarla</text>
+    <circle cx="490" cy="23" r="30" fill="#1f5fa8"/>
+    <line x1="478" y1="36" x2="502" y2="10" stroke="#ffffff" stroke-width="4"/>
+  </g>
+
+  <!-- Row 7: paso peatonal -->
+  <g transform="translate(0,682)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <rect x="60" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="94" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="128" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="162" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="196" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="230" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="264" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="298" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="332" y="5" width="16" height="36" fill="#ffffff"/>
+    <rect x="366" y="5" width="16" height="36" fill="#ffffff"/>
+    <text x="230" y="66" text-anchor="middle" font-size="15" fill="#1d2420">Paso peatonal: prioridad del peatón</text>
+    <circle cx="490" cy="23" r="30" fill="#1f5fa8"/>
+    <circle cx="490" cy="11" r="4" fill="#ffffff"/>
+    <line x1="490" y1="15" x2="490" y2="28" stroke="#ffffff" stroke-width="3"/>
+    <line x1="490" y1="19" x2="480" y2="24" stroke="#ffffff" stroke-width="3"/>
+    <line x1="490" y1="28" x2="482" y2="38" stroke="#ffffff" stroke-width="3"/>
+    <line x1="490" y1="28" x2="500" y2="36" stroke="#ffffff" stroke-width="3"/>
+  </g>
+
+  <!-- Row 8: dirección obligatoria -->
+  <g transform="translate(0,784)">
+    <rect x="40" y="0" width="380" height="46" rx="4" fill="#4a4f4c"/>
+    <line x1="166" y1="2" x2="166" y2="44" stroke="#ffffff" stroke-width="3" stroke-dasharray="8,6"/>
+    <line x1="292" y1="2" x2="292" y2="44" stroke="#ffffff" stroke-width="3" stroke-dasharray="8,6"/>
+    <!-- lane 1: curved left arrow -->
+    <path d="M 103 38 C 103 14, 78 14, 70 20" stroke="#ffffff" stroke-width="4" fill="none"/>
+    <polygon points="70,20 80,18 76,28" fill="#ffffff"/>
+    <!-- lane 2: straight arrow -->
+    <line x1="229" y1="40" x2="229" y2="12" stroke="#ffffff" stroke-width="4"/>
+    <polygon points="229,6 221,18 237,18" fill="#ffffff"/>
+    <!-- lane 3: curved right arrow -->
+    <path d="M 357 38 C 357 14, 382 14, 390 20" stroke="#ffffff" stroke-width="4" fill="none"/>
+    <polygon points="390,20 380,18 384,28" fill="#ffffff"/>
+    <text x="230" y="66" text-anchor="middle" font-size="15" fill="#1d2420">Dirección obligatoria del carril</text>
+    <circle cx="490" cy="23" r="30" fill="#1f5fa8"/>
+    <line x1="490" y1="34" x2="490" y2="14" stroke="#ffffff" stroke-width="3"/>
+    <polygon points="490,8 485,16 495,16" fill="#ffffff"/>
+    <line x1="490" y1="24" x2="474" y2="14" stroke="#ffffff" stroke-width="3"/>
+    <polygon points="472,10 474,19 481,13" fill="#ffffff"/>
+    <line x1="490" y1="24" x2="506" y2="14" stroke="#ffffff" stroke-width="3"/>
+    <polygon points="508,10 499,13 506,19" fill="#ffffff"/>
   </g>
 </svg>
