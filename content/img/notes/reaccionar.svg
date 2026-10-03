@@ -4,8 +4,8 @@
 
   <!-- top-down two-lane road, vertical -->
   <rect x="190" y="56" width="220" height="330" fill="#4a4f4c"/>
-  <!-- lane divider dashed yellow -->
-  <line x1="300" y1="56" x2="300" y2="386" stroke="#f2c200" stroke-width="3" stroke-dasharray="14 12"/>
+  <!-- lane divider: dashed white, both lanes run the same way -->
+  <line x1="300" y1="56" x2="300" y2="386" stroke="#ffffff" stroke-width="3" stroke-dasharray="14 12"/>
   <!-- edge lines white -->
   <line x1="190" y1="56" x2="190" y2="386" stroke="#ffffff" stroke-width="3"/>
   <line x1="410" y1="56" x2="410" y2="386" stroke="#ffffff" stroke-width="3"/>
@@ -17,22 +17,23 @@
     <path d="M20,-14 L8,2 L32,2 Z" fill="#2f8a4f"/>
   </g>
 
-  <!-- other car cutting in from the right -->
-  <g transform="translate(430,190) rotate(-38)">
-    <rect x="0" y="0" width="38" height="60" rx="10" fill="#c0392b"/>
-    <rect x="6" y="9" width="26" height="15" rx="4" fill="#fbe7e4"/>
+  <!-- other car in the right lane, ahead of you, nose turned toward your lane (windscreen = front) -->
+  <g transform="translate(360,250) rotate(-20)">
+    <rect x="-19" y="-30" width="38" height="60" rx="10" fill="#c0392b"/>
+    <rect x="-13" y="-21" width="26" height="15" rx="4" fill="#fbe7e4"/>
   </g>
-  <!-- cutting-in path arrow (red, dashed, crossed) -->
-  <path d="M452,170 Q400,210 330,230" fill="none" stroke="#c0392b" stroke-width="3" stroke-dasharray="8 6"/>
-  <path d="M345,222 L330,230 L340,245" fill="none" stroke="#c0392b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- its path: from its nose, up and left into your lane -->
+  <path d="M349,218 Q335,180 292,150" fill="none" stroke="#c0392b" stroke-width="3" stroke-dasharray="8 6"/>
+  <path d="M298,163 L292,150 L306,151" fill="none" stroke="#c0392b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- straight green arrow: mantene tu carril -->
   <path d="M265,300 L265,100" stroke="#2f8a4f" stroke-width="5" stroke-linecap="round"/>
   <path d="M250,122 L265,96 L280,122" fill="none" stroke="#2f8a4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- swerve arrow crossed out (red dashed) -->
-  <path d="M265,300 Q210,220 290,160 Q340,120 265,96" fill="none" stroke="#c0392b" stroke-width="3" stroke-dasharray="7 6"/>
-  <g transform="translate(265,180)">
+  <path d="M262,300 Q205,250 208,170" fill="none" stroke="#c0392b" stroke-width="3" stroke-dasharray="7 6"/>
+  <path d="M199,183 L208,168 L217,183" fill="none" stroke="#c0392b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(220,232)">
     <circle r="16" fill="#ffffff" stroke="#c0392b" stroke-width="3"/>
     <path d="M-9,-9 L9,9 M9,-9 L-9,9" stroke="#c0392b" stroke-width="3" stroke-linecap="round"/>
   </g>
@@ -41,8 +42,12 @@
   <line x1="415" y1="100" x2="280" y2="108" stroke="#2f8a4f" stroke-width="1.5" stroke-dasharray="3 3"/>
   <text x="420" y="104" font-size="15" font-weight="bold" fill="#2f8a4f">Mantené tu carril</text>
 
-  <line x1="415" y1="138" x2="290" y2="172" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="3 3"/>
-  <text x="420" y="142" font-size="15" font-weight="bold" fill="#c0392b">Sin volantazo</text>
+  <line x1="150" y1="232" x2="203" y2="232" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="145" y="226" text-anchor="end" font-size="15" font-weight="bold" fill="#c0392b">Sin</text>
+  <text x="145" y="244" text-anchor="end" font-size="15" font-weight="bold" fill="#c0392b">volantazo</text>
+  <line x1="415" y1="190" x2="372" y2="235" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="420" y="186" font-size="15" font-weight="bold" fill="#c0392b">Se te mete</text>
+  <text x="420" y="204" font-size="15" font-weight="bold" fill="#c0392b">desde la derecha</text>
 
   <!-- 5 steps as short numbered labels at bottom -->
   <g font-size="13" fill="#1d2420">

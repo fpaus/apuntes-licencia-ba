@@ -344,7 +344,7 @@ async function downloadAll() {
     ...D.questions.flatMap(q => q.images.map(i => C + i.file)),
     ...D.notes.filter(n => n.image).map(n => C + n.image),
   ]);
-  const cache = await caches.open("licencia-v2"); // same name as CACHE in sw.js
+  const cache = await caches.open("licencia-v3"); // same name as CACHE in sw.js
   let done = 0, failed = 0;
   const list = [...urls];
   for (let i = 0; i < list.length; i += 8) {
