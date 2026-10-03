@@ -168,7 +168,10 @@ function lesson(view, id, k) {
 
 const tableHtml = t => t ? `<div class="table-wrap"><table>
   <thead><tr>${t.head.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>
-  <tbody>${t.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>` : "";
+  <tbody>${t.rows.map(r => `<tr>${r.map(cell).join("")}</tr>`).join("")}</tbody></table></div>` : "";
+// Effect labels in note tables render as coloured tags.
+const EFFECT = { "ahorra": "ok", "gasta más": "bad", "depende": "" };
+const cell = c => c in EFFECT ? `<td><span class="tag ${EFFECT[c]}">${esc(c)}</span></td>` : `<td>${esc(c)}</td>`;
 
 function cardEl(card) {
   const el = document.createElement("article");
@@ -304,7 +307,7 @@ function search(view, query = "") {
       const ok = q.options.filter(o => o.correct).map(o => o.text).join(" / ");
       hits.push(`<div class="hit"><span class="tag">Pregunta</span> ${mark(q.text)}<div class="small"><strong>Respuesta:</strong> ${esc(ok || "sin verificar")}</div></div>`);
     }
-    for (const n of D.notes) if (match([n.title, ...n.facts].join(" "))) hits.push(`<div class="hit"><span class="tag">Apunte</span> <a href="#/extra">${mark(n.title)}</a></div>`);
+    for (const n of D.notes) if (match([n.title, ...n.facts, ...(n.table?.rows.flat() ?? [])].join(" "))) hits.push(`<div class="hit"><span class="tag">Apunte</span> <a href="#/extra">${mark(n.title)}</a></div>`);
     out.innerHTML = hits.length ? `<p class="small muted">${hits.length} resultados</p>${hits.slice(0, 80).join("")}` : `<p class="muted">Sin resultados.</p>`;
   };
   input.addEventListener("input", () => { history.replaceState(null, "", `#/buscar/${encodeURIComponent(input.value)}`); run(); });

@@ -116,14 +116,116 @@
    "extra.practica"
   ],
   "facts": [
-   "El consumo depende más de cómo se maneja que de la velocidad sola.",
-   "Velocidad constante y manejo suave reducen el consumo; frenar y acelerar seguido, semáforos y tránsito pesado lo aumentan.",
-   "Ir demasiado rápido aumenta el consumo por la resistencia del aire; subidas, peso extra y neumáticos desinflados también.",
-   "Aire acondicionado en ciudad: +5% a +20% de consumo (fuente citada: EPA de EE. UU.; no figura en el manual).",
-   "Coincide con el manual: acelerar fuerte exige más potencia y más combustible (p. 63)."
+   "El consumo depende más de cómo manejás que de la velocidad sola.",
+   "Fuente citada en la imagen: EPA (EE. UU.). El manual solo dice que acelerar fuerte exige más potencia y más combustible (p. 63)."
   ],
   "status": "outside_manual",
-  "image": "img/notes/consumo.svg"
+  "table": {
+   "head": [
+    "N°",
+    "Situación",
+    "Efecto",
+    "Por qué"
+   ],
+   "rows": [
+    [
+     "1",
+     "¿Las avenidas rápidas ahorran?",
+     "depende",
+     "No toda velocidad significa ahorro."
+    ],
+    [
+     "2",
+     "Tráfico pesado",
+     "gasta más",
+     "Frenar y acelerar todo el tiempo gasta mucho combustible."
+    ],
+    [
+     "3",
+     "Velocidad constante",
+     "ahorra",
+     "El motor trabaja más parejo y eficiente."
+    ],
+    [
+     "4",
+     "Ir demasiado rápido",
+     "gasta más",
+     "Más velocidad, más resistencia del aire, más combustible."
+    ],
+    [
+     "5",
+     "Avenidas fluidas",
+     "ahorra",
+     "Menos frenadas bruscas, menos combustible."
+    ],
+    [
+     "6",
+     "Semáforos",
+     "gasta más",
+     "Cada arranque desde cero gasta más que mantener la marcha."
+    ],
+    [
+     "7",
+     "Aire acondicionado",
+     "gasta más",
+     "En ciudad puede subir el consumo entre 5 % y 20 %."
+    ],
+    [
+     "8",
+     "Subidas",
+     "gasta más",
+     "El motor necesita más fuerza para mantener la velocidad."
+    ],
+    [
+     "9",
+     "Neumáticos desinflados",
+     "gasta más",
+     "Más resistencia al avance, más esfuerzo del motor."
+    ],
+    [
+     "10",
+     "Manejo agresivo",
+     "gasta más",
+     "Aceleraciones bruscas, frenazos y altas revoluciones."
+    ],
+    [
+     "11",
+     "Híbridos en ciudad",
+     "depende",
+     "Recuperan energía al frenar; el tránsito los afecta menos."
+    ],
+    [
+     "12",
+     "Peso extra",
+     "gasta más",
+     "Más peso, más energía, más combustible."
+    ],
+    [
+     "13",
+     "Manejo suave",
+     "ahorra",
+     "Mantiene el motor en su rango más eficiente."
+    ],
+    [
+     "14",
+     "Autopistas",
+     "ahorra",
+     "Velocidad constante y sin interrupciones."
+    ],
+    [
+     "15",
+     "Tipo de motor",
+     "depende",
+     "Motor, peso y tecnología cambian el resultado."
+    ],
+    [
+     "16",
+     "Equilibrio",
+     "ahorra",
+     "Ni muy lento ni muy rápido: la estabilidad es eficiencia."
+    ]
+   ]
+  }
  },
  {
   "file": "WhatsApp Image 2026-10-03 at 08.21.29.jpeg",

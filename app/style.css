@@ -64,7 +64,9 @@ main { max-width: 780px; margin: 0 auto; padding: 20px 16px 64px; outline: none;
 .chapter:hover { border-color: var(--accent); }
 .chapter .num { font-size: .8rem; font-weight: 700; color: var(--accent); letter-spacing: .04em; text-transform: uppercase; }
 .chapter h3 { margin: 4px 0 10px; }
-.tag { display: inline-block; font-size: .75rem; padding: 2px 8px; border-radius: 999px; background: var(--surface-2); color: var(--muted); }
+.tag { display: inline-block; font-size: .75rem; padding: 2px 8px; border-radius: 999px; background: var(--surface-2); color: var(--muted); white-space: nowrap; }
+.tag.ok { background: var(--ok-soft); color: var(--ok); font-weight: 600; }
+.tag.bad { background: var(--warn-soft); color: var(--warn); font-weight: 600; }
 
 .lessons { list-style: none; padding: 0; margin: 0; }
 .lessons li a { display: flex; gap: 12px; align-items: baseline; padding: 12px 4px; border-bottom: 1px solid var(--line); text-decoration: none; color: inherit; }
@@ -129,7 +131,8 @@ input[type=search] {
 
 dialog#lightbox { border: 0; padding: 0; background: transparent; max-width: 96vw; max-height: 96vh; }
 dialog#lightbox::backdrop { background: rgb(0 0 0 / .8); }
-dialog#lightbox img { display: block; max-width: 96vw; max-height: 88vh; border-radius: 8px; background: #fff; }
+/* Explicit width: SVGs carry no intrinsic size (they would render at 300×150) and question photos are small. */
+dialog#lightbox img { display: block; width: min(96vw, 1000px); max-height: 88vh; object-fit: contain; border-radius: 8px; background: #fff; }
 dialog#lightbox form { text-align: center; margin-top: 8px; }
 
 @media (max-width: 520px) {
