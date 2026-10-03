@@ -1,0 +1,560 @@
+{
+  "chapter": 4,
+  "lessons": [
+    {
+      "id": "4.1",
+      "title": "Condiciones y forma de conducir",
+      "summary": "El factor humano causa la mayoría de los siniestros: conocé qué se espera de vos como conductor.",
+      "cards": [
+        {
+          "title": "El conductor es la causa principal",
+          "body": "De los tres factores de la circulación (vía, vehículo, persona), **la persona causa entre el 70 y el 75% de los siniestros**. En zonas urbanas ocurren entre el 50 y el 70% de los siniestros y más de la mitad de las muertes viales.",
+          "page": 53
+        },
+        {
+          "title": "Para ser un buen conductor",
+          "body": "Antes de manejar, chequeá que cumplís esto:",
+          "page": 54,
+          "table": {
+            "head": [
+              "Requisito"
+            ],
+            "rows": [
+              [
+                "Estar en buena forma física y emocional"
+              ],
+              [
+                "Controlar los elementos de seguridad y la documentación del vehículo"
+              ],
+              [
+                "Conocer y respetar las normas de tránsito"
+              ],
+              [
+                "Observar siempre adelante, atrás y a los costados"
+              ],
+              [
+                "Mantener el dominio total del vehículo"
+              ]
+            ]
+          },
+          "callout": "Si alguna condición falla, no manejes hasta solucionarla."
+        },
+        {
+          "title": "Pautas obligatorias en la vía pública",
+          "body": "- Usá únicamente la calzada.\n- Circulá por la derecha o en el sentido señalizado.\n- Avisá cualquier maniobra antes de hacerla.\n- Respetá carriles exclusivos y horarios restringidos.\n- Cumplí las órdenes del agente de tránsito, aunque modifiquen la señalización.",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "id": "4.2",
+      "title": "Percepción y reacción",
+      "summary": "Reaccionar ante un peligro lleva tiempo, y ese tiempo se multiplica con distracción o sueño.",
+      "cards": [
+        {
+          "title": "El proceso de reacción",
+          "body": "Reaccionar implica cuatro pasos: **percepción, análisis, decisión y acción**. En zona urbana, atento, tardás entre **½ y ¾ de segundo**; en zona rural, hasta **2½ segundos**. Con distracción, ese tiempo se duplica; con somnolencia, supera los 2 segundos.",
+          "page": 55,
+          "callout": "La primera prohibición de la ley: manejar con alcohol, drogas, fatiga o emoción profunda."
+        },
+        {
+          "title": "Cuánto recorrés por segundo",
+          "body": "A mayor velocidad, menos tiempo tenés para reaccionar. Esta tabla muestra cuántos metros por segundo avanza tu auto:",
+          "page": 55,
+          "image": "img/manual/p055-0.jpg",
+          "table": {
+            "head": [
+              "Velocidad",
+              "Metros por segundo"
+            ],
+            "rows": [
+              [
+                "40 km/h",
+                "11 m/s"
+              ],
+              [
+                "60 km/h",
+                "16,5 m/s"
+              ],
+              [
+                "80 km/h",
+                "22 m/s"
+              ],
+              [
+                "100 km/h",
+                "27,5 m/s"
+              ],
+              [
+                "120 km/h",
+                "33 m/s"
+              ],
+              [
+                "140 km/h",
+                "39 m/s"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "4.3",
+      "title": "La velocidad potencia el riesgo",
+      "summary": "Conocé los límites máximos y mínimos de velocidad según la zona y el vehículo.",
+      "cards": [
+        {
+          "title": "La velocidad, principal causa de siniestros",
+          "body": "Manejá a una velocidad que te permita mantener el **dominio total** del vehículo, según su estado, la carga, la visibilidad, el pavimento, el clima y tu propio estado psicofísico. Un problema menor (un estornudo, una curva) puede ser inofensivo a baja velocidad y fatal a alta velocidad.",
+          "page": 56
+        },
+        {
+          "title": "Límites máximos y mínimos de velocidad",
+          "body": "Esta es la tabla completa de límites por zona, lugar y tipo de vehículo. Memorizala: el examen la pregunta tal cual.",
+          "page": 57,
+          "table": {
+            "head": [
+              "Zona",
+              "Lugar",
+              "Vehículo",
+              "Máxima",
+              "Mínima"
+            ],
+            "rows": [
+              [
+                "Urbana",
+                "Calles",
+                "Todos",
+                "40 km/h",
+                "20 km/h"
+              ],
+              [
+                "Urbana",
+                "Avenidas",
+                "Todos",
+                "60 km/h",
+                "30 km/h"
+              ],
+              [
+                "Urbana",
+                "Vías semaforizadas",
+                "Solo motos y autos",
+                "Coordinación semafórica",
+                "Mitad del máximo"
+              ],
+              [
+                "Urbana",
+                "Intersecciones",
+                "Todos",
+                "30 km/h",
+                "15 km/h"
+              ],
+              [
+                "Urbana",
+                "Establecimientos de alta concentración (escuelas, cines, estadios)",
+                "Todos",
+                "20 km/h",
+                "10 km/h"
+              ],
+              [
+                "Urbana",
+                "Rutas que cruzan la ciudad",
+                "Todos",
+                "60 km/h",
+                "30 km/h"
+              ],
+              [
+                "Rural",
+                "Carreteras o caminos comunes",
+                "Motos y automóviles",
+                "110 km/h",
+                "40 km/h"
+              ],
+              [
+                "Rural",
+                "Carreteras o caminos comunes",
+                "Camionetas, micros, buses, autocasas autopropulsadas",
+                "90 km/h",
+                "salvo maquinaria especial"
+              ],
+              [
+                "Rural",
+                "Carreteras o caminos comunes",
+                "Camiones, autos con casa rodante",
+                "80 km/h",
+                "salvo maquinaria especial"
+              ],
+              [
+                "Rural",
+                "Semiautopista o autovías",
+                "Motos y automóviles",
+                "120 km/h",
+                "salvo maquinaria especial"
+              ],
+              [
+                "Rural",
+                "Semiautopista o autovías",
+                "Camionetas",
+                "110 km/h",
+                "salvo maquinaria especial"
+              ],
+              [
+                "Rural",
+                "Semiautopista o autovías",
+                "Restantes",
+                "ídem carreteras",
+                "salvo maquinaria especial"
+              ],
+              [
+                "Ambas",
+                "Autopistas",
+                "Motos y automóviles",
+                "130 km/h",
+                "65 km/h"
+              ],
+              [
+                "Ambas",
+                "Autopistas",
+                "Ómnibus y autocasas",
+                "100 km/h",
+                "65 km/h"
+              ],
+              [
+                "Ambas",
+                "Autopistas",
+                "Restantes",
+                "ídem carreteras",
+                "65 km/h"
+              ],
+              [
+                "Ambas",
+                "Pasos a nivel sin barrera ni semáforo",
+                "Todos",
+                "20 km/h",
+                "10 km/h"
+              ]
+            ]
+          },
+          "callout": "Mínima rural: 40 km/h en carreteras. Para semiautopistas el manual no da un número propio (celda combinada 'salvo maquinaria especial'); tus apuntes dicen 40 km/h: confirmalo con el instructor."
+        }
+      ]
+    },
+    {
+      "id": "4.4",
+      "title": "Uso de las luces",
+      "summary": "Cada luz del vehículo tiene un color, una ubicación y un momento de uso obligatorio.",
+      "cards": [
+        {
+          "title": "Luces de alumbrado de la vía",
+          "body": "Estas luces iluminan el camino para que vos veas:",
+          "page": 58,
+          "table": {
+            "head": [
+              "Luz",
+              "Uso"
+            ],
+            "rows": [
+              [
+                "Baja o alcance medio",
+                "Encendida siempre con poca luz solar, salvo que corresponda la alta"
+              ],
+              [
+                "Alta o largo alcance",
+                "Solo en zona rural o autopista, sin niebla y sin encandilar al de enfrente"
+              ],
+              [
+                "Antiniebla",
+                "Opcional; máximo un par adelante y otro atrás"
+              ],
+              [
+                "De retroceso",
+                "Se enciende siempre que el vehículo retrocede"
+              ],
+              [
+                "De patente",
+                "Se enciende automáticamente con las frontales y de posición"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Luces de señalización",
+          "body": "Avisan tus maniobras a los demás:",
+          "page": 59,
+          "table": {
+            "head": [
+              "Luz",
+              "Color",
+              "Uso"
+            ],
+            "rows": [
+              [
+                "Destellador",
+                "Amarillo",
+                "En intersecciones y sobrepasos, a toda hora"
+              ],
+              [
+                "De posición",
+                "Blanco/rojo",
+                "Siempre encendidas con poca luz solar"
+              ],
+              [
+                "De freno",
+                "Rojo intenso",
+                "Se enciende automáticamente al accionar el freno"
+              ],
+              [
+                "De giro",
+                "Amarillo intenso",
+                "Al girar o cambiar de carril, del lado de la maniobra"
+              ],
+              [
+                "De emergencia",
+                "Amarillo intenso",
+                "Para emergencias; encienden todas las de posición juntas"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Luces bajas obligatorias en ruta",
+          "body": "En **rutas nacionales o provinciales**, las luces bajas o las luces diurnas (sistema DRL) deben estar siempre encendidas, de día y de noche, salvo que corresponda la luz alta o en cruces ferroviarios.",
+          "page": 60,
+          "callout": "Un vehículo con encendido automático de luces bajas o DRL cumple con esta obligación."
+        }
+      ]
+    },
+    {
+      "id": "4.5",
+      "title": "Leyes físicas que rigen tu conducción",
+      "summary": "La física no se negocia: fuerza centrífuga, energía cinética y fricción determinan cuánto control tenés del auto.",
+      "cards": [
+        {
+          "title": "Fuerza centrífuga",
+          "body": "En una curva, la fuerza centrífuga empuja tu vehículo en línea recta: **a mayor velocidad, mayor riesgo** de salirte del camino, invadir la otra mano o volcar. El peralte (inclinación de la calzada hacia el interior de la curva) compensa esta fuerza, pero solo hasta la velocidad máxima señalizada.",
+          "page": 61,
+          "image": "img/manual/p061-0.jpg"
+        },
+        {
+          "title": "Energía cinética: el peso de la velocidad",
+          "body": "La energía de un impacto se calcula con la masa por el **cuadrado de la velocidad**. Si duplicás la velocidad, el impacto es **4 veces mayor**; si la triplicás, es **9 veces mayor**. La velocidad pesa más que el peso del vehículo en esta cuenta.",
+          "page": 62,
+          "callout": "Doble velocidad = 4x impacto. Triple velocidad = 9x impacto."
+        },
+        {
+          "title": "El cinturón de seguridad salva vidas",
+          "body": "Sin cinturón, un impacto a **40 km/h se considera fatal**. Con cinturón, la fatalidad aparece recién después de los **80 km/h**. En caso de vuelco, el cinturón puede salvarte la vida hasta al doble de esa velocidad.",
+          "page": 63,
+          "image": "img/manual/p062-1.jpg",
+          "callout": "40 km/h sin cinturón puede ser fatal. Con cinturón, el umbral sube a 80 km/h."
+        },
+        {
+          "title": "Fricción: el agarre entre neumático y camino",
+          "body": "El \"efecto de fricción\" depende de estos factores:",
+          "page": 64,
+          "table": {
+            "head": [
+              "Factor",
+              "Qué incluye"
+            ],
+            "rows": [
+              [
+                "A",
+                "Tipo de material del neumático, diámetro, ancho, presión de inflado y trato recibido"
+              ],
+              [
+                "B",
+                "Características de las piezas del material rodante, velocidad y peso de la carga"
+              ],
+              [
+                "C",
+                "Condiciones del camino: seco, húmedo, mojado, deteriorado, áspero, con nieve o hielo"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Distancia de frenado",
+          "body": "Es el trayecto total desde que advertís el peligro hasta detenerte. Incluye dos etapas: la **distancia de reacción** (percibís, decidís y empezás a frenar) y la **distancia de frenado efectivo**. El tiempo de reacción de un conductor tipo varía entre ½ y 2½ segundos.",
+          "page": 64
+        },
+        {
+          "title": "Ejemplo a 100 km/h",
+          "body": "Con un tiempo de reacción conservador de 2,5 segundos:",
+          "page": 65,
+          "image": "img/manual/p065-0.jpg",
+          "table": {
+            "head": [
+              "Etapa",
+              "Distancia"
+            ],
+            "rows": [
+              [
+                "Reacción (2,5 s)",
+                "69,43 m"
+              ],
+              [
+                "Frenado efectivo",
+                "62,88 m"
+              ],
+              [
+                "Total",
+                "132,30 m"
+              ]
+            ]
+          },
+          "callout": "Un conductor muy atento (0,2 s de reacción) recorre solo 90,65 m en total a 100 km/h."
+        }
+      ]
+    },
+    {
+      "id": "4.6",
+      "title": "Cómo cuidarte de los demás",
+      "summary": "El manejo defensivo supone que los otros no siempre serán tan cuidadosos como vos.",
+      "cards": [
+        {
+          "title": "Conducción preventiva y defensiva",
+          "body": "No abuses de tu vehículo ni de tus derechos: intervenir en un siniestro que pudiste evitar es una falta grave, aunque la ley esté de tu lado. No ganás tiempo real yendo más rápido. Usá siempre el **cinturón de seguridad** y exigíselo a tus acompañantes.",
+          "page": 66
+        },
+        {
+          "title": "Prestá atención",
+          "body": "Para manejar a la defensiva necesitás:\n\n- Reconocer el peligro a tiempo.\n- Saber cómo actuar en cada caso.\n- Proceder rápido, sin demorar los pasos.\n- Anticipar la conducta de los demás conductores.",
+          "page": 67
+        },
+        {
+          "title": "Distancia de seguridad",
+          "body": "La regla de oro es mantener **2 segundos de distancia** con el vehículo de adelante. Si sospechás algo raro, aumentá esa distancia y bajá la velocidad. Evitá siempre la frenada de pánico.",
+          "page": 67,
+          "image": "img/manual/p067-0.jpg",
+          "callout": "Distancia de seguridad mínima: 2 segundos respecto al vehículo de adelante."
+        },
+        {
+          "title": "Cómo evitar los siniestros más comunes",
+          "body": "- **Encrucijada**: nunca cruces a más de 30 km/h, respetá la prioridad y tené el pie sobre el freno.\n- **Adelantamiento**: si te adelantan, facilitá la maniobra bajando la velocidad.\n- **De frente**: nunca te adelantes sin seguridad absoluta de que no viene nadie.",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "id": "4.7",
+      "title": "Condiciones especiales de la vía y del clima",
+      "summary": "De noche, en la montaña o con mal clima, tenés que bajar la velocidad y extremar las precauciones.",
+      "cards": [
+        {
+          "title": "Conducción nocturna",
+          "body": "De noche, tus faros solo iluminan hasta **150 metros** adelante. Si no podés detenerte dentro de esa distancia, vas demasiado rápido. No mires los faros del auto que viene de frente: guiate por el borde de la calzada.",
+          "page": 69,
+          "callout": "Si encandilás o te encandilan, no respondas con la misma conducta: dos conductores encandilados duplican el riesgo."
+        },
+        {
+          "title": "Montaña y pendientes",
+          "body": "En caminos de montaña, cuando no caben dos vehículos a la par, tiene **prioridad el que sube**. Esa prioridad se invierte si el que baja es un camión con acoplado o semirremolque. En bajadas largas, regulá la velocidad con el motor, no solo con el freno, para evitar que se recaliente.",
+          "page": 70,
+          "image": "img/manual/p070-0.jpg"
+        },
+        {
+          "title": "Ripio y barro",
+          "body": "En ripio, la adherencia se reduce mucho. Es imprescindible colocar un protector de vidrios, al menos en el parabrisas. En barro, si no tenés experiencia ni conocés el camino, evitá meterte: hasta cierta profundidad, solo es aconsejable la doble tracción.",
+          "page": 71,
+          "image": "img/manual/p071-0.jpg"
+        },
+        {
+          "title": "Condiciones atmosféricas adversas",
+          "body": "Cada clima exige una respuesta distinta:",
+          "page": 72,
+          "image": "img/manual/p072-0.jpg",
+          "table": {
+            "head": [
+              "Condición",
+              "Qué hacer"
+            ],
+            "rows": [
+              [
+                "Lluvia",
+                "Bajar velocidad, triplicar distancia de seguridad, encender luces de posición y bajas"
+              ],
+              [
+                "Viento",
+                "Corregir constantemente la tendencia del vehículo a salirse del carril"
+              ],
+              [
+                "Niebla",
+                "Bajar velocidad, triplicar distancia de seguridad, poner luces bajas y de emergencia"
+              ],
+              [
+                "Nieve",
+                "Mismos recaudos que niebla; adherencia casi nula, ayuda la doble tracción"
+              ],
+              [
+                "Hielo",
+                "Usar cadenas o cubiertas especiales; suelen ser obligatorias"
+              ]
+            ]
+          },
+          "callout": "Con lluvia, niebla o nieve: triplicá la distancia de seguridad."
+        }
+      ]
+    },
+    {
+      "id": "4.8",
+      "title": "Accidentes o siniestros",
+      "summary": "Saber qué hacer (y qué no hacer) en un siniestro puede salvar vidas, incluida la tuya.",
+      "cards": [
+        {
+          "title": "Qué es un siniestro vial",
+          "body": "Para la ley, es **accidente de tránsito** todo hecho que produce daño en personas o cosas por la circulación. Se presume responsable a quien no tenía prioridad de paso, adelantó mal o cometió una infracción relacionada con la causa del choque.",
+          "page": 73
+        },
+        {
+          "title": "Si estás involucrado: 6 pasos",
+          "body": "En orden, si participás de un siniestro:",
+          "page": 74,
+          "table": {
+            "head": [
+              "Paso",
+              "Acción"
+            ],
+            "rows": [
+              [
+                "1",
+                "Detenerte en un lugar seguro y colocar balizas"
+              ],
+              [
+                "2",
+                "Llamar al 911 o avisar a la policía o bomberos"
+              ],
+              [
+                "3",
+                "Cortar la energía (desconectar la batería) si hay riesgo de incendio"
+              ],
+              [
+                "4",
+                "Prestar el auxilio a tu alcance, sin mover heridos sin necesidad"
+              ],
+              [
+                "5",
+                "Suministrar tus datos de licencia y seguro"
+              ],
+              [
+                "6",
+                "Denunciar el hecho ante la policía o la aseguradora"
+              ]
+            ]
+          },
+          "callout": "Nunca te des a la fuga: eso empeora tu situación legal."
+        },
+        {
+          "title": "Si no fuiste parte del siniestro",
+          "body": "No te involucres ni disminuyas la velocidad: eso puede causar otro siniestro. Lo único útil que podés hacer es llamar al 911, sin detenerte. Si no podés, no te preocupes: alguien más lo hará.",
+          "page": 75
+        },
+        {
+          "title": "Primeros auxilios básicos",
+          "body": "- No muevas a los heridos si no es necesario: podés agravar lesiones internas.\n- Transmití calma, no angusties ni asustes.\n- En hemorragias de miembros, apretá con torniquete y aflojá cada 10 a 15 minutos.\n- **Nunca le saques el casco a un motociclista herido**: debe hacerlo un médico.",
+          "page": 76,
+          "callout": "Nunca saques el casco de un motociclista accidentado."
+        }
+      ]
+    }
+  ]
+}

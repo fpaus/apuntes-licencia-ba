@@ -1,0 +1,81 @@
+{
+ "_doc": "Key: '<page>|<question text prefix>'. correct = 0-based option indexes (answer from the manual). fix = override the PDF's green marking. warning = note shown with the official answer. todo = no manual page settles it.",
+ "54|¿Cuál es la distancia aproximada recorrida circulando a 80km/h": {
+  "correct": [
+   1
+  ],
+  "page": 55,
+  "note": "Tabla 'metros por segundo': a 80 km/h recorre 22 m/s."
+ },
+ "156|Los dispositivos comprendidos en la Seguridad Pasiva reducen al minimo": {
+  "correct": [
+   0
+  ],
+  "page": 124,
+  "note": "La seguridad pasiva atenúa o evita que se agraven las consecuencias de un siniestro."
+ },
+ "156|Los dispositivos comprendidos en la Seguridad Pasiva reducen al mínimo": {
+  "correct": [
+   0
+  ],
+  "page": 124,
+  "note": "La seguridad pasiva atenúa o evita que se agraven las consecuencias de un siniestro."
+ },
+ "156|La Seguridad Preventiva es": {
+  "todo": "El manual (p. 124) define seguridad activa y pasiva; no usa el término 'seguridad preventiva'."
+ },
+ "156|Los cinturones de seguridad son un dispositivo perteneciente a la denominada seguridad pasiva": {
+  "correct": [
+   0
+  ],
+  "page": 124,
+  "note": "Correaje y airbags son elementos de retención pasiva."
+ },
+ "156|El casco se incluye dentro de la denominada seguridad preventiva": {
+  "correct": [
+   1
+  ],
+  "page": 126,
+  "note": "Casco y anteojos son elementos de seguridad pasiva."
+ },
+ "157|Las partes elementales de una motocicleta son": {
+  "todo": "El manual (cap. 8) no enumera 'partes elementales' con estos nombres (cuadro, pipa de dirección)."
+ },
+ "157|Para circular en moto son aptos los casos de uso industrial": {
+  "correct": [
+   0
+  ],
+  "page": 94,
+  "note": "No son aptos los cascos de uso industrial; el casco debe cumplir la norma IRAM."
+ },
+ "157|¿Los ciclomotores pueden llevar carga y/ o pasajero": {
+  "correct": [
+   0
+  ],
+  "page": 93,
+  "note": "Los ciclomotores no pueden llevar carga ni pasajero de más de 40 kg."
+ },
+ "157|Cuales de los siguientes elementos comprenden la Seguridad Pasiva de un vehiculo automotor": {
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "page": 125,
+  "note": "Correaje (p. 124), cabezal y deformación programada de chasis y carrocería (p. 125). La suspensión integra el tren de rodamiento (p. 114)."
+ },
+ "175|Uno de los dispositivos de seguridad que como minimo deben tener los automoviles es": {
+  "todo": "El manual no menciona paragolpes y guardabarros como dispositivo mínimo."
+ },
+ "51|En vía semaforizada, avanzando con luz verde": {
+  "fix": true,
+  "correct": [
+   1
+  ],
+  "page": 105,
+  "note": "Al girar, permita el paso de peatones si están cruzando. El cuestionario marca también 'No está obligado a detenerse', que contradice esta regla."
+ },
+ "68|Para realizar un giro o circular en rotondas se debe": {
+  "warning": "Respuesta oficial del cuestionario. El manual (p. 105) dice otra cosa: en la rotonda tiene prioridad el que circula por ella, aunque el que ingresa venga por la derecha."
+ }
+}

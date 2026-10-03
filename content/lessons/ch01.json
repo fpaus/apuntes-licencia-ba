@@ -1,0 +1,381 @@
+{
+  "chapter": 1,
+  "lessons": [
+    {
+      "id": "1.1",
+      "title": "La licencia habilitante y tu responsabilidad",
+      "summary": "Vas a entender qué significa tener una licencia de conducir y por qué tenés que llevarla siempre.",
+      "cards": [
+        {
+          "title": "El tránsito es convivencia",
+          "body": "Conducir es un acto social: tus decisiones afectan a los demás. Respetar las normas de tránsito y los requisitos de tu vehículo es lo que garantiza tu libertad de circular y el respeto de los otros hacia vos.",
+          "page": 4
+        },
+        {
+          "title": "Qué significa tener la licencia",
+          "body": "Tener la licencia dice que reunís las **aptitudes, destrezas y conocimientos** para conducir sin riesgo. También implica que aceptás las órdenes de la autoridad y te sometés a los controles de tránsito.",
+          "page": 4
+        },
+        {
+          "title": "Dónde vale tu licencia",
+          "body": "La licencia la otorga la autoridad de tu domicilio y te habilita a conducir en **todo el país**, y en los países adheridos a la Convención de Ginebra de 1949 (casi todo el mundo). En Argentina rige la ley 24.449; en la provincia de Buenos Aires, la ley 13.927.",
+          "page": 5,
+          "callout": "La licencia habilita en todo el país y en casi todo el mundo (Convención de Ginebra, 1949)."
+        },
+        {
+          "title": "Llevala siempre con vos",
+          "body": "Tenés que portar la licencia y entregarla a la autoridad si te la pide. Ella debe devolvértela después de verificarla, salvo que esté vencida, caduca, falsificada, adulterada, o hayas perdido la aptitud psicofísica o estés inhabilitado.",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "title": "Clases de licencia y edades mínimas",
+      "summary": "Vas a conocer la edad mínima y la validez de cada clase de licencia.",
+      "cards": [
+        {
+          "title": "Motos y cuatriciclos",
+          "body": "La edad mínima y la validez de la licencia dependen de la clase que pedís.",
+          "page": 6,
+          "table": {
+            "head": [
+              "Edad",
+              "Validez",
+              "Clases"
+            ],
+            "rows": [
+              [
+                "16",
+                "1 año",
+                "A.1.1"
+              ],
+              [
+                "17",
+                "1 año (renueva por 3)",
+                "A.1.1; A.1.2; A.2.1; A3"
+              ],
+              [
+                "18 a 20",
+                "5 años",
+                "A.1.1; A.1.2; A.1.3; A.2.1; A.2.2; A3"
+              ],
+              [
+                "21 a 65",
+                "5 años",
+                "A.1.1 a A.1.4; A.2.1; A.2.2; A3"
+              ],
+              [
+                "66 a 70",
+                "3 años",
+                "A.1.1 a A.1.4; A.2.1; A.2.2; A3"
+              ],
+              [
+                "71 o más",
+                "1 año",
+                "A.1.1 a A.1.4; A.2.1; A.2.2; A3"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Autos, camionetas y maquinarias",
+          "body": "Clases B y G: autos, camionetas, casas rodantes, tractores, maquinarias y tren agrícola.",
+          "page": 7,
+          "table": {
+            "head": [
+              "Edad",
+              "Validez",
+              "Clases"
+            ],
+            "rows": [
+              [
+                "17",
+                "1 año (renueva por 3)",
+                "B.1; G.1; G.2"
+              ],
+              [
+                "18 a 65",
+                "5 años",
+                "B.1; B.2; G.1; G.2; G.3"
+              ],
+              [
+                "66 a 70",
+                "3 años",
+                "B.1; B.2; G.1; G.2; G.3"
+              ],
+              [
+                "71 o más",
+                "1 año",
+                "B.1; B.2; G.1; G.2; G.3"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Licencias profesionales",
+          "body": "Para manejar transporte de pasajeros o carga (clases C, D, E) necesitás ser mayor y tener antigüedad en clase B.",
+          "page": 7,
+          "table": {
+            "head": [
+              "Edad",
+              "Validez",
+              "Clases"
+            ],
+            "rows": [
+              [
+                "21 a 45",
+                "2 años",
+                "C.1 a C.3; D.1 a D.4; E.1; E.2"
+              ],
+              [
+                "46 o más",
+                "1 año",
+                "C.1 a C.3; D.1 a D.4; E.1; E.2"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Un solo conductor, una sola licencia",
+          "body": "Tenés que tener una única licencia y mantener tus datos actualizados. Si cambiás de jurisdicción, pedí el reemplazo ante la nueva autoridad. Si no denunciás el cambio, **la licencia caduca a los 90 días**.",
+          "page": 8,
+          "callout": "La licencia caduca a los 90 días de un cambio de domicilio no denunciado."
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "title": "Requisitos para obtener la licencia",
+      "summary": "Vas a conocer los requisitos generales y los exámenes que pide el municipio.",
+      "cards": [
+        {
+          "title": "Requisitos generales",
+          "body": "Para tramitar tu licencia, el municipio te pide:\n\n- Saber leer y escribir en español.\n- Estar habilitado para la clase que pedís.\n- No tener deudas de infracciones con sentencia firme.\n- Aprobar los exámenes médico, teórico y práctico.\n- Pagar los aranceles.\n- No estar inscripto en el REDAM (deudores alimentarios).",
+          "page": 9
+        },
+        {
+          "title": "Trámite en la provincia",
+          "body": "La provincia de Buenos Aires usa la **Licencia Única de Conducir** en sus 135 municipios. Hacés el trámite y rendís los exámenes en el municipio donde vivís; tus datos se verifican online con la DPPSV.",
+          "page": 10
+        },
+        {
+          "title": "Para licencia particular",
+          "body": "Necesitás:\n\n- Ser mayor de 18 años (o menor, con autorización de ambos padres o tutor).\n- Presentar el DNI con domicilio en el partido.\n- Aprobar los exámenes médico, teórico y práctico.\n- Presentar grupo y factor sanguíneo.\n- No tener deudas de infracciones.\n\nLos primeros 6 meses sos **principiante**.",
+          "page": 11,
+          "callout": "18 años es la edad mínima general; con autorización de los padres, podés tramitarla antes."
+        },
+        {
+          "title": "Para licencia profesional",
+          "body": "Necesitás ser **mayor de 21 años** para las clases C, D o E, con un año de antigüedad en clase B. Los primeros 6 meses sos aprendiz, y si manejás vehículos de emergencia tenés que ir acompañado de un profesional experimentado.",
+          "page": 11,
+          "callout": "21 años y 1 año de antigüedad en clase B, mínimo para licencia profesional."
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "title": "Características de la licencia",
+      "summary": "Vas a saber qué datos lleva tu licencia, qué tipos existen y cuánto dura.",
+      "cards": [
+        {
+          "title": "Qué datos tiene tu licencia",
+          "body": "Como mínimo, tu licencia incluye:\n\n- Número de licencia, igual al DNI.\n- Foto de frente.\n- Nombre, apellido y domicilio.\n- Fecha de otorgamiento y de vencimiento.\n- Clases habilitadas.\n- Firma tuya y del funcionario que la emite.",
+          "page": 12,
+          "image": "img/manual/p004-0.jpg"
+        },
+        {
+          "title": "Tipos de licencia",
+          "body": "- **Original**: la primera vez que te la dan.\n- **Duplicada** (o triplicada, etc.): por pérdida, destrucción o deterioro.\n- **Reemplazada**: por cambio de jurisdicción.\n- **Renovada**: al vencer el plazo de vigencia.",
+          "page": 12
+        },
+        {
+          "title": "Cuándo renovarla",
+          "body": "Podés gestionar la renovación hasta **un mes antes** del vencimiento. Si se vence, tenés 90 días para renovarla; pasado ese plazo, tenés que tramitarla como original y rendir todos los exámenes de nuevo.",
+          "page": 13,
+          "callout": "90 días después del vencimiento para renovar; pasado ese plazo, es trámite de licencia original."
+        },
+        {
+          "title": "Cuánto dura la licencia",
+          "body": "La vigencia depende de tu edad y de si la licencia es particular o profesional.",
+          "page": 13,
+          "table": {
+            "head": [
+              "Categoría",
+              "Edad",
+              "Vigencia"
+            ],
+            "rows": [
+              [
+                "Particular",
+                "Menor de 18",
+                "1 año (renueva por 3)"
+              ],
+              [
+                "Particular",
+                "18 a 65",
+                "5 años"
+              ],
+              [
+                "Particular",
+                "66 a 70",
+                "3 años"
+              ],
+              [
+                "Particular",
+                "Más de 70",
+                "1 año"
+              ],
+              [
+                "Profesional",
+                "21 a 45",
+                "2 años"
+              ],
+              [
+                "Profesional",
+                "46 a 65",
+                "1 año"
+              ],
+              [
+                "Profesional",
+                "Más de 65",
+                "1 año"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Cuándo podés perder la habilitación",
+          "body": "Podés perder la licencia si:\n\n- Causás un siniestro grave.\n- Reincidís en infracciones graves.\n- Conducís alcoholizado o drogado.\n- Perdés la aptitud física (vista, un miembro).\n- No denunciás un cambio de domicilio: la licencia caduca.",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "title": "Formación del conductor",
+      "summary": "Vas a entender para qué sirven los exámenes de la licencia.",
+      "cards": [
+        {
+          "title": "El objetivo de los exámenes",
+          "body": "Los exámenes comprueban que estés apto física, sensorial y psicológicamente para conducir, que domines el vehículo y que conozcas las reglas de conducción segura. Cada examen es **eliminatorio**: si no alcanzás el nivel mínimo, no aprobás esa etapa.",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "title": "Principiante",
+      "summary": "Vas a conocer las reglas y los exámenes que tenés que cumplir cuando sacás la licencia por primera vez.",
+      "cards": [
+        {
+          "title": "Quién es principiante",
+          "body": "Si sacaste tu licencia por primera vez, durante los primeros **6 meses** tenés que llevar, adelante y atrás del vehículo, el cartel de PRINCIPIANTE (fondo verde, letras blancas, 30x15 cm). En ese período no podés circular por rutas, autopistas ni semiautopistas.",
+          "page": 16,
+          "callout": "6 meses como principiante; cartel de 30 cm x 15 cm; prohibido circular por rutas y autopistas."
+        },
+        {
+          "title": "El curso de educación vial",
+          "body": "Es obligatorio y presencial, en el municipio donde vivís. Dura un mínimo de **5 horas**, repartidas en una semana, y tiene una validez de **1 año** desde que lo hacés.",
+          "page": 16,
+          "callout": "Curso obligatorio: mínimo 5 horas en una semana; vale 1 año."
+        },
+        {
+          "title": "Si no aprobás un examen",
+          "body": "Si desaprobás cualquier examen, tenés que esperar al menos **30 días** antes de volver a rendirlo.",
+          "page": 16,
+          "callout": "30 días de espera mínima para volver a rendir un examen desaprobado."
+        },
+        {
+          "title": "El examen médico",
+          "body": "Evalúa tu aptitud psicofísica con cuatro pruebas: examen clínico e inspección física, aptitud visual, aptitud auditiva y aptitud psicológica. Si tenés algún problema de salud, debe estar compensado con un tratamiento adecuado.",
+          "page": 17
+        },
+        {
+          "title": "La vista al volante",
+          "body": "La vista es el sentido más importante al conducir. Se evalúan la agudeza visual, la visión de profundidad, el campo visual, la visión nocturna y la reacción al encandilamiento. Adaptarse a la oscuridad lleva unos **30 minutos**.",
+          "page": 18,
+          "callout": "La adaptación de la vista a la oscuridad tarda unos 30 minutos."
+        },
+        {
+          "title": "El examen teórico",
+          "body": "Tiene un mínimo de 40 preguntas, 5 de ellas eliminatorias. Necesitás **75% o más** de respuestas correctas y contestar bien todas las eliminatorias. Vale 30 días. Tenés 3 oportunidades por año, con al menos 30 días entre cada una.",
+          "page": 19,
+          "table": {
+            "head": [
+              "Dato",
+              "Valor"
+            ],
+            "rows": [
+              [
+                "Preguntas mínimas",
+                "40"
+              ],
+              [
+                "Preguntas eliminatorias",
+                "5"
+              ],
+              [
+                "Nota mínima para aprobar",
+                "75%"
+              ],
+              [
+                "Validez del examen aprobado",
+                "30 días corridos"
+              ],
+              [
+                "Intentos por año",
+                "3, con 30 días entre cada uno"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "El examen práctico",
+          "body": "Es la prueba de manejo, obligatoria y eliminatoria, y corresponde a la clase de licencia que pedís. El vehículo debe estar en buen estado y cumplir con la revisión técnica y el seguro obligatorios.",
+          "page": 20
+        },
+        {
+          "title": "Algunos números del examen práctico",
+          "body": "Durante la prueba, te piden circular a **40 km/h**, avisar los giros **30 metros antes**, retroceder unos **15 metros** a baja velocidad, y estacionar en paralelo en 3 maniobras, a no más de **20 cm** del cordón.",
+          "page": 21,
+          "callout": "40 km/h, aviso de giro 30 m antes, retroceso 15 m, estacionamiento a menos de 20 cm del cordón."
+        }
+      ]
+    },
+    {
+      "id": "1.7",
+      "title": "Otros roles de las personas en la vía pública",
+      "summary": "Vas a identificar los distintos roles que cumplís en la vía además de conducir.",
+      "cards": [
+        {
+          "title": "No solo sos conductor",
+          "body": "En la vía pública también cumplís otros roles, como peatón, pasajero, trabajador vial o autoridad de control. Todos están regulados por las normas de tránsito.",
+          "page": 23
+        },
+        {
+          "title": "Todos somos peatones",
+          "body": "El peatón circula por la vereda, preferentemente por la derecha, y cruza la calzada por la senda peatonal (o por la esquina si no está demarcada). Tiene **prioridad de paso** en zona urbana, pero no en zona rural.",
+          "page": 23,
+          "callout": "El peatón tiene prioridad de paso en zona urbana, no en zona rural."
+        },
+        {
+          "title": "El pasajero",
+          "body": "Es quien viaja en un vehículo sin responsabilidad en la conducción ni en las tareas de a bordo. Puede ser un servicio pago o un viaje \"de favor\".",
+          "page": 23
+        },
+        {
+          "title": "El trabajador en la vía pública",
+          "body": "Repara la calzada, recolecta residuos, reparte diarios o asiste en emergencias, y queda expuesto al riesgo de caídas o atropellos. La ley exige que use **chalecos y elementos reflectivos**.",
+          "page": 24,
+          "callout": "Chaleco y elementos reflectivos, obligatorios para trabajar en la vía pública."
+        },
+        {
+          "title": "La autoridad de fiscalización",
+          "body": "Controla, previene y ordena la circulación (agentes de tránsito). Puede pertenecer a la policía, a organismos de seguridad o a la administración municipal. Debe distinguirse por su uniforme, equipo o vehículo.",
+          "page": 24
+        }
+      ]
+    }
+  ]
+}

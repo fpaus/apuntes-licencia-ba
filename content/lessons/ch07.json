@@ -1,0 +1,293 @@
+{
+  "chapter": 7,
+  "lessons": [
+    {
+      "id": "7.0",
+      "title": "Funcionamiento del vehículo",
+      "summary": "Por qué el estado del vehículo también influye en los siniestros de tránsito.",
+      "cards": [
+        {
+          "title": "El vehículo también es causa de siniestros",
+          "body": "Los siniestros de tránsito se explican por tres factores: el humano, la vía y el vehículo. El vehículo rara vez es la causa única, pero puede agravar un error humano o un problema de la ruta si está mal mantenido.",
+          "page": 111,
+          "callout": "Factor humano: 70–75 %. Vía: menos del 5 %. Vehículo (fallas): 22–25 %."
+        }
+      ]
+    },
+    {
+      "id": "7.1",
+      "title": "La función del vehículo",
+      "summary": "Por qué el mantenimiento es responsabilidad del conductor, y para qué sirve la VTV.",
+      "cards": [
+        {
+          "title": "El triángulo accidentológico",
+          "body": "Un vehículo bien mantenido puede compensar un error humano o un defecto de la ruta, por ejemplo en una frenada de pánico. Pero también puede ser cocausante del siniestro, o agravar sus consecuencias, si está mal mantenido o tiene fallas.",
+          "page": 112
+        },
+        {
+          "title": "Reparar seguridad exige idoneidad",
+          "body": "Solo personas idóneas y responsables pueden reparar los sistemas y elementos vinculados a la seguridad del vehículo. Deben poder advertir y evaluar el riesgo que una reparación mal hecha genera para terceros.",
+          "page": 112
+        },
+        {
+          "title": "Por qué existe la VTV",
+          "body": "Los vehículos modernos incorporan mucha tecnología de seguridad, pero solo sirve si se conserva en buen estado durante toda la vida útil del auto. Como la mayoría de los dueños no mantiene sus vehículos por propia iniciativa, se creó la revisión técnica obligatoria (VTV).",
+          "page": 113
+        }
+      ]
+    },
+    {
+      "id": "7.2",
+      "title": "Los elementos básicos de la seguridad",
+      "summary": "Los 7 sistemas vitales de un vehículo y qué función cumple cada uno.",
+      "cards": [
+        {
+          "title": "Frenado, dirección y tren de rodamiento",
+          "body": "Todo vehículo tiene sistemas vitales desde el punto de vista de la seguridad vial. El examen puede preguntar qué incluye cada uno.",
+          "page": 114,
+          "table": {
+            "head": [
+              "Sistema",
+              "Qué comprende"
+            ],
+            "rows": [
+              [
+                "De frenado",
+                "3 sistemas: estacionamiento (mano), servicio y emergencia (doble circuito)"
+              ],
+              [
+                "De dirección",
+                "Permite conducir, circular y girar con el menor esfuerzo"
+              ],
+              [
+                "Tren de rodamiento",
+                "Suspensión, amortiguación y neumáticos"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Eléctrico, escape, alimentación y visión",
+          "body": "Los otros cuatro sistemas vitales del vehículo también son parte de la seguridad vial.",
+          "page": 114,
+          "table": {
+            "head": [
+              "Sistema",
+              "Qué comprende"
+            ],
+            "rows": [
+              [
+                "Eléctrico",
+                "Generación de energía, encendido, luces y servicios (limpiaparabrisas, etc.)"
+              ],
+              [
+                "De escape",
+                "Evacúa humo y sonido; evita la contaminación"
+              ],
+              [
+                "De alimentación",
+                "Suministra el insumo que el motor transforma en energía"
+              ],
+              [
+                "De visión",
+                "Parabrisas, vidrios y espejos retrovisores limpios y sin obstrucciones"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "7.3",
+      "title": "La verificación técnica vehicular (VTV)",
+      "summary": "Quién debe hacer la VTV, cada cuánto, y qué pasa si no se aprueba o no se presenta.",
+      "cards": [
+        {
+          "title": "Obligatoria, anual, desde los 2 años",
+          "body": "Todo vehículo de más de dos años de antigüedad debe aprobar la VTV para poder circular. En la provincia de Buenos Aires es anual, tanto para autos particulares como para transporte.",
+          "page": 115,
+          "callout": "Sin VTV al día no podés hacer el seguro, la patente ni ningún trámite del vehículo.",
+          "image": "img/manual/p115-0.jpg"
+        },
+        {
+          "title": "Para circular alcanza la oblea",
+          "body": "La planta entrega una oblea para el parabrisas y una planilla con el detalle de la verificación. Para circular, alcanza con la oblea; la planilla se usa para trámites o dudas.",
+          "page": 115
+        },
+        {
+          "title": "Si no aprobás o no te presentás",
+          "body": "Si no aprobás, te dan un plazo para una nueva verificación solo del ítem que falló; si la falla no es grave podés circular mientras tanto. Si no te presentás en el plazo, la VTV caduca. Si la falla es grave, no podés circular hasta aprobar la nueva verificación.",
+          "page": 115
+        },
+        {
+          "title": "VTV vencida: infracción, salvo que vayas espontáneamente",
+          "body": "Circular con la VTV vencida es infracción y te pueden impedir circular. Pero si te presentás espontáneamente en la planta para hacerla, no se configura la infracción. También se hacen inspecciones móviles a la vera del camino, sin cobrar arancel.",
+          "page": 116
+        }
+      ]
+    },
+    {
+      "id": "7.4",
+      "title": "Los talleres de servicios de mantenimiento",
+      "summary": "Qué responsabilidades asume un taller que repara elementos de seguridad.",
+      "cards": [
+        {
+          "title": "Solo personal idóneo puede reparar seguridad",
+          "body": "Reparar sistemas vinculados a la seguridad solo lo puede hacer personal idóneo, habilitado por la autoridad local. El taller debe estar habilitado y el responsable técnico debe tener título oficial o certificado de idoneidad.",
+          "page": 117
+        },
+        {
+          "title": "Una reparación mala tiene consecuencias penales",
+          "body": "Si una reparación defectuosa causa o agrava un siniestro, el tallerista y el técnico responsable pueden enfrentar sanciones penales por homicidio o lesiones culposas, además de responsabilidad civil por los daños y sanciones contravencionales por incumplir la ley de tránsito.",
+          "page": 117
+        }
+      ]
+    },
+    {
+      "id": "7.5",
+      "title": "Los repuestos y accesorios de seguridad",
+      "summary": "Por qué los repuestos truchos son peligrosos y cuál es la profundidad mínima del neumático.",
+      "cards": [
+        {
+          "title": "Usá repuestos originales u homologados",
+          "body": "Un repuesto de seguridad de mala calidad o no original puede poner en riesgo la vida de las personas: por ejemplo, un líquido de frenos que se evapora hace perder toda eficacia al sistema. Fabricantes y comerciantes de repuestos de seguridad tienen responsabilidad penal y civil.",
+          "page": 118
+        },
+        {
+          "title": "Neumáticos recauchutados: sí, con normas",
+          "body": "Un neumático recauchutado (con banda de rodamiento nueva) es seguro si cumple la norma IRAM: banda de calidad, casco en buen estado y buen pegado. No se permite en las ruedas directrices de vehículos de transporte.",
+          "page": 118
+        },
+        {
+          "title": "Profundidad mínima: 1,6 mm",
+          "body": "Los canales de la banda de rodamiento desagotan el agua del pavimento mojado. Con menos de 1,6 mm de profundidad no se puede circular: el neumático pierde adherencia y dirección (aquaplaning).",
+          "page": 119,
+          "callout": "Profundidad mínima de los canales: 1,6 mm."
+        }
+      ]
+    },
+    {
+      "id": "7.6",
+      "title": "Fallas y desgastes que afectan",
+      "summary": "Qué indica un desgaste irregular de los neumáticos y otras fallas comunes.",
+      "cards": [
+        {
+          "title": "El desgaste del neumático indica la falla",
+          "body": "El tipo de desgaste de la banda de rodamiento señala la causa: en el centro, por exceso de presión; en los bordes, por falta de presión; irregular o en zonas, por mala alineación, balanceo o fallas de dirección y suspensión.",
+          "page": 123
+        },
+        {
+          "title": "Pedal de freno esponjoso: hay aire en el circuito",
+          "body": "Si el pedal de freno queda blando y con mucho recorrido, suele haber aire en las tuberías o líquido de mala calidad. Si el pedal vibra al frenar, puede haber tambores o discos deformados.",
+          "page": 121
+        },
+        {
+          "title": "El volante tira hacia un lado",
+          "body": "Si el volante tira hacia un lado, las causas típicas son: ruedas delanteras desalineadas, presión desigual de los neumáticos, frenos mal regulados o desgaste en las articulaciones de un solo lado.",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "id": "7.7",
+      "title": "La seguridad activa y pasiva",
+      "summary": "Qué diferencia a la seguridad activa de la pasiva, y por qué usar cinturón, cabezal y casco.",
+      "cards": [
+        {
+          "title": "Activa evita el siniestro, pasiva reduce el daño",
+          "body": "La seguridad activa (frenos, luces, neumáticos) trata de evitar que el siniestro ocurra. La seguridad pasiva (cinturón, airbag) reduce las consecuencias una vez que ya ocurrió.",
+          "page": 124
+        },
+        {
+          "title": "El cinturón reduce la mortalidad un 80 %",
+          "body": "El cinturón de seguridad baja un 80 % la mortalidad en siniestros. Sin él, el riesgo de morir por golpe contra el volante o el parabrisas es cinco veces mayor. También te mantiene detrás del volante en un derrape o pinchazo, y evita que salgas despedido en un vuelco.",
+          "page": 124,
+          "callout": "Correaje obligatorio: de 3 puntos adelante, de cintura atrás. Usalo también en zona urbana."
+        },
+        {
+          "title": "Más de la mitad de las muertes son a baja velocidad y cerca de casa",
+          "body": "Más del 50 % de las heridas graves y muertes ocurren a menos de 50 km/h (un choque a 40 km/h ya se considera letal) y a 40 km del propio domicilio.",
+          "page": 125,
+          "callout": "Choque letal desde 40 km/h. Más del 50 % de las víctimas, a menos de 50 km/h y a 40 km de su casa."
+        },
+        {
+          "title": "El cabezal evita el latigazo cervical",
+          "body": "El apoyacabezas es obligatorio en autos y camionetas que lo traen de fábrica. Evita el efecto látigo en la columna ante un choque por detrás. Los que se cuelgan del respaldo (tipo poncho) no sirven.",
+          "page": 125
+        },
+        {
+          "title": "Habitáculo indeformable, carrocería que absorbe el golpe",
+          "body": "El habitáculo debe resistir el vuelco sin deformarse, para no atrapar a los ocupantes. El resto de la carrocería (paragolpes, motor, chapa) está diseñado para deformarse y absorber el impacto antes de que llegue a los pasajeros.",
+          "page": 125
+        },
+        {
+          "title": "Casco y anteojos en moto: obligatorios",
+          "body": "El casco es obligatorio para conductor y acompañante: reduce en un 80 % el riesgo de lesión grave en una caída. Los anteojos son obligatorios solo para el conductor.",
+          "page": 126,
+          "callout": "Casco: reduce un 80 % el riesgo de lesión."
+        }
+      ]
+    },
+    {
+      "id": "7.8",
+      "title": "Casos especiales",
+      "summary": "Requisitos para llevar un acoplado y límites para conducir motos y ciclomotores.",
+      "cards": [
+        {
+          "title": "Licencia B.2 y límites del acoplado",
+          "body": "La licencia clase B.2 habilita a llevar un acoplado (casa rodante, trailer) de hasta 750 kg. La velocidad máxima con acoplado es 80 km/h, porque en curva, pendiente o viento el acoplado arrastra al auto.",
+          "page": 127,
+          "table": {
+            "head": [
+              "Requisito",
+              "Valor"
+            ],
+            "rows": [
+              [
+                "Peso máximo del acoplado",
+                "750 kg en marcha"
+              ],
+              [
+                "Velocidad máxima",
+                "80 km/h"
+              ],
+              [
+                "Lanza",
+                "Rígida"
+              ],
+              [
+                "Acople",
+                "No debe sobresalir del paragolpes"
+              ],
+              [
+                "Si el acoplado es más ancho",
+                "Agregar espejos retrovisores laterales"
+              ],
+              [
+                "Luces traseras del acoplado",
+                "Posición, freno y giro"
+              ]
+            ]
+          },
+          "image": "img/manual/p127-0.jpg"
+        },
+        {
+          "title": "Moto: el vehículo con más víctimas fatales",
+          "body": "La moto es, proporcionalmente, el vehículo con más víctimas fatales, porque al no tener carrocería no protege a sus ocupantes en un choque. Por eso es clave el uso del casco reglamentario.",
+          "page": 127
+        },
+        {
+          "title": "Ciclomotores: restricciones para menores de 18",
+          "body": "Un menor de 18 años que conduce un ciclomotor no puede llevar pasajero, ni circular por zonas céntricas de alta concentración de vehículos, ni por vías rápidas (autopistas, autovías, rutas de acceso). Tampoco puede ir tomado de otro vehículo ni pegado a él.",
+          "page": 128
+        },
+        {
+          "title": "Carga y acompañante en moto y ciclomotor",
+          "body": "El ciclomotor no puede llevar carga ni pasajero de más de **40 kg** (p. 93 lo dice igual). La moto admite hasta **100 kg** de carga. En los dos casos, un solo acompañante, con pedalines para apoyar los pies.",
+          "page": 128,
+          "callout": "Carga máxima: ciclomotor 40 kg, moto 100 kg."
+        }
+      ]
+    }
+  ]
+}

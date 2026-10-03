@@ -1,0 +1,154 @@
+{
+  "chapter": 8,
+  "lessons": [
+    {
+      "id": "8.0",
+      "title": "Motocicletas: qué vas a aprender",
+      "summary": "Una introducción a la seguridad y la técnica de manejo en moto.",
+      "cards": [
+        {
+          "title": "Un vehículo que exige equilibrio",
+          "body": "La moto no se sostiene sola como un auto: vos sostenés el equilibrio todo el tiempo. Por eso la seguridad depende mucho más de tu casco, tu ropa y tu técnica de manejo.\n\nEste capítulo es opcional para la licencia de auto (clase B1), pero te sirve si manejás moto o compartís la calle con motociclistas.",
+          "page": 129
+        }
+      ]
+    },
+    {
+      "id": "8.1",
+      "title": "Funcionamiento de la motocicleta",
+      "summary": "Los controles de seguridad que tenés que revisar antes de salir.",
+      "cards": [
+        {
+          "title": "Neumáticos: presión y desgaste",
+          "body": "Revisá la presión con el neumático frío (al menos 2 horas sin rodar). Un neumático gastado reduce el agarre, sobre todo con lluvia.\n\n- Menos de 1,6 mm de surco: hay que cambiarlo.\n- Menos de 3 mm: ya hay riesgo de aquaplaning.",
+          "page": 137,
+          "table": {
+            "head": ["Medición", "Valor"],
+            "rows": [
+              ["Profundidad mínima de surco", "1,6 mm"],
+              ["Riesgo de aquaplaning", "menos de 3 mm"]
+            ]
+          }
+        },
+        {
+          "title": "Luces y espejos obligatorios",
+          "body": "La ley exige que la moto tenga, adelante, luz baja y alta, y atrás, luz roja fija, luz de freno y dos luces de giro. También elementos reflectantes: ámbar adelante, rojo atrás.\n\nAdemás, tiene que tener un espejo retrovisor a cada lado del manubrio.",
+          "page": 138
+        },
+        {
+          "title": "Antes de arrancar, controlá",
+          "body": "- Neumáticos y presión de aire.\n- Combustible y nivel de aceite.\n- Frenos y luces, sobre todo freno y giro.\n- Espejos retrovisores.\n- Que el soporte esté levantado.\n- Que el motor y el escape no hagan ruidos raros.",
+          "page": 139
+        }
+      ]
+    },
+    {
+      "id": "8.2",
+      "title": "Seguridad pasiva",
+      "summary": "El casco y el equipo que reducen la gravedad de una caída.",
+      "cards": [
+        {
+          "title": "El casco, tu protección principal",
+          "body": "El casco absorbe el impacto en una caída. Tiene que quedar bien ajustado: ni suelto ni doloroso, y girar junto con tu cabeza sin jugar.\n\nBuscá que tenga buena ventilación, visera que proteja los ojos y la oblea de homologación.",
+          "page": 141,
+          "image": "img/manual/p141-0.jpg"
+        },
+        {
+          "title": "Especificaciones mínimas del casco",
+          "body": "El visor y la correa de sujeción (barbijo) tienen medidas mínimas que garantizan su resistencia. Verificá que el casco tenga la oblea de homologación antes de comprarlo.",
+          "page": 140,
+          "table": {
+            "head": ["Elemento", "Mínimo exigido"],
+            "rows": [
+              ["Espesor del visor", "0,8 mm"],
+              ["Ancho de la correa (barbijo)", "20 mm"],
+              ["Carga que soporta la correa", "15 kg"]
+            ]
+          }
+        },
+        {
+          "title": "Cuándo descartar un casco",
+          "body": "Un casco con roturas o daño en la correa o el cierre no sirve más. Si recibió un golpe fuerte, descartalo aunque no se vean daños por fuera: el relleno amortiguador ya perdió su función.\n\nAntes de tirarlo, cortá las correas para que nadie lo vuelva a usar.",
+          "page": 143
+        },
+        {
+          "title": "Guantes, calzado y ropa",
+          "body": "Usá guantes que cubran toda la mano: en una caída, el primer reflejo es apoyarlas. Sumá calzado cerrado que cubra el tobillo, con suela antideslizante, y ropa que cubra piernas y brazos, resistente al roce.\n\nLa protección ocular es obligatoria si el casco no la trae incorporada.",
+          "page": 143
+        },
+        {
+          "title": "Protección adicional",
+          "body": "Un traje integral con protecciones en rodillas, hombros y codos reduce lesiones serias. Sumale protección para la espalda: hasta una caída leve puede lastimar la columna.\n\nLas botas con refuerzo de acero en la tibia y los dedos protegen más que una zapatilla.",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "id": "8.3",
+      "title": "Técnicas de conducción",
+      "summary": "Postura, mirada, frenada y manejo en curva: la base de una conducción segura.",
+      "cards": [
+        {
+          "title": "Postura, equilibrio y acompañante",
+          "body": "Sentate cómodo, con el peso en los glúteos y los pies libres para accionar freno y cambios. Por debajo de los 10 km/h cuesta más mantener el equilibrio.\n\nSi llevás acompañante, que se sujete de la moto (no de vos) y que acompañe tu inclinación en las curvas. No pueden circular más de dos motos en paralelo.",
+          "page": 146,
+          "table": {
+            "head": ["Dato", "Valor"],
+            "rows": [
+              ["Velocidad bajo la cual cuesta mantener el equilibrio", "10 km/h"],
+              ["Motos permitidas en paralelo", "2"]
+            ]
+          }
+        },
+        {
+          "title": "La mirada marca el camino",
+          "body": "La moto va hacia donde mirás. Si aparece un obstáculo, mirá la salida, no el obstáculo: mirarlo fijo casi garantiza el choque.\n\nEn una curva, dirigí la mirada al **punto de fuga**: donde convergen las líneas del pavimento. Ese punto te indica a qué velocidad y con qué trazado entrar.",
+          "page": 147
+        },
+        {
+          "title": "Frenada segura",
+          "body": "Usá los dos frenos juntos: el delantero detiene más, el trasero estabiliza. Frená primero apenas con el trasero y después con el delantero, de forma progresiva.\n\nNo frenes en plena curva: podés perder el agarre. Con pastillas nuevas, frenás menos en los primeros 50 km.",
+          "page": 148
+        },
+        {
+          "title": "El trazado en la curva",
+          "body": "Reducí la velocidad antes de entrar: frenar dentro de la curva es riesgoso. Mirá primero el punto de inicio, después el ápice (el punto más cerrado) y por último la salida.\n\nFrenás y cambiás antes del inicio; cruzás inclinado sin acelerar hasta el ápice; acelerás progresivamente hacia la salida.",
+          "page": 150,
+          "image": "img/manual/p150-0.jpg"
+        },
+        {
+          "title": "Clima adverso y caídas",
+          "body": "Con lluvia, nieve, viento o niebla: bajá la velocidad, aumentá la distancia con el de adelante y evitá movimientos bruscos. Con niebla, usá luz baja y dejá el visor apenas abierto para que no se empañe.\n\nSi la caída es inevitable, soltá la moto: no trates de retenerla ni de levantarte hasta frenar del todo.",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "id": "8.4",
+      "title": "Seguridad vial",
+      "summary": "Cómo reducir el riesgo de accidente y qué hacer si ocurre uno.",
+      "cards": [
+        {
+          "title": "Hacete ver",
+          "body": "4 de cada 5 choques entre moto y auto pasan porque el conductor del auto no vio la moto. Evitá los puntos ciegos de otros vehículos, usá ropa de colores claros o con elementos reflectantes, y regulá bien tus espejos.",
+          "page": 158,
+          "table": {
+            "head": ["Dato", "Valor"],
+            "rows": [["Choques moto-auto por falta de visibilidad", "4 de cada 5"]]
+          }
+        },
+        {
+          "title": "La fatiga también es un riesgo",
+          "body": "En viajes largos, planificá paradas para descansar. Mantener mucho tiempo la misma posición adormece las extremidades, y apretar fuerte el manubrio puede causar el síndrome del túnel carpiano.\n\nUsá ropa cómoda que no apriete brazos ni manos.",
+          "page": 159
+        },
+        {
+          "title": "Si hay un accidente",
+          "body": "Si el motociclista está inconsciente, no lo muevas ni le muevas la cabeza. Llamá al 911.\n\nNunca le saques el casco: podés agravar una lesión en el cuello.",
+          "page": 160,
+          "callout": "Nunca le quites el casco a un motociclista accidentado."
+        }
+      ]
+    }
+  ]
+}

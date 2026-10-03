@@ -1,0 +1,431 @@
+{
+  "chapter": 6,
+  "lessons": [
+    {
+      "id": "6.0",
+      "title": "Las reglas de tu seguridad",
+      "summary": "Vas a ver qué factores intervienen en la conducción y a quién le aplican las reglas de tránsito.",
+      "cards": [
+        {
+          "title": "Conducir es un sistema",
+          "body": "La conducción combina tres elementos: el **vehículo**, la **vía pública** y el **conductor**. También influyen factores técnicos, jurídicos (leyes y códigos), humanos y ambientales.\n\nLas reglas de este capítulo rigen para todos los que usan la vía pública: peatones, pasajeros, conductores, tracción a sangre, trabajadores viales y agentes de fiscalización.",
+          "page": 90
+        }
+      ]
+    },
+    {
+      "id": "6.1",
+      "title": "Requisitos para circular",
+      "summary": "Vas a repasar qué documentos y elementos tenés que llevar, y las reglas especiales para motovehículos.",
+      "cards": [
+        {
+          "title": "Documentación obligatoria",
+          "body": "Tenés que portar: **Licencia** habilitante de tu clase, **seguro** vigente, oblea de **VTV** en vigencia y **cédula verde**. El auto debe tener placas legibles, sin cubiertas plásticas.\n\nNo llevar algo de esto no te impide seguir circulando: es una infracción, no un impedimento.",
+          "page": 91
+        },
+        {
+          "title": "La cédula verde vencida",
+          "body": "Si tu **cédula verde** está vencida, podés seguir circulando, siempre que no esté robada, falsificada o sin transferir al dueño actual en el RNPA. El vencimiento es una infracción leve.\n\nControla el vencimiento del impuesto al automotor la **ARBA**: es una infracción tributaria, no de tránsito.",
+          "page": 91
+        },
+        {
+          "title": "Elementos obligatorios a bordo",
+          "body": "Tenés que llevar: **matafuego** de 1 kg habilitado (con indicador de presión), sujeto dentro del habitáculo, y un par de **balizas** portátiles amarillas intermitentes o el **triángulo** reflectivo rojo, normalizados.\n\nTodos los ocupantes deben usar **correaje de seguridad**.",
+          "page": 91
+        },
+        {
+          "title": "Pasajeros y menores",
+          "body": "No pueden ser más ocupantes que los diseñados para el vehículo, y no deben estorbarte. Los **chicos hasta 10 años** viajan en el asiento trasero. Los **bebés hasta 4 años** van en sillas especiales sujetas al asiento trasero, nunca en brazos ni en sillas colgantes del respaldo.",
+          "page": 92
+        },
+        {
+          "title": "Vidrios y accesorios",
+          "body": "En los vidrios solo se admiten elementos de identificación oficiales o privados; las **calcomanías no van**. El tonalizado debe ajustarse a la norma IRAM: no puede ser más oscuro que el original de fábrica.",
+          "page": 92,
+          "callout": "La Licencia Nacional de Conducir digital (app Mi Argentina) tiene la misma validez que la física, mientras esté vigente."
+        },
+        {
+          "title": "Motocicletas: casco y chaleco",
+          "body": "Conductor y acompañante de moto, ciclomotor o triciclo motorizado deben usar **casco reglamentario** y **chaleco reflectante**, con el dominio del vehículo impreso en el chaleco. No cumplirlo es **falta grave**.\n\nEl casco debe cumplir la norma IRAM 3621/62. Si recibió un golpe fuerte, hay que reemplazarlo aunque no se vea dañado.",
+          "page": 93,
+          "callout": "Ciclomotor: máximo 40 kg de carga/pasajero. Moto: máximo 1 acompañante (detrás del conductor) y 100 kg de carga."
+        }
+      ]
+    },
+    {
+      "id": "6.2",
+      "title": "Las intersecciones",
+      "summary": "Vas a aprender cómo acercarte a un cruce y qué reglas rigen cuando no está semaforizado.",
+      "cards": [
+        {
+          "title": "Cómo atravesar un cruce",
+          "body": "Las intersecciones concentran la mayoría de los siniestros urbanos. Antes de cruzar: prestá atención al semáforo y a la señalización, mirá hacia ambos lados, controlá que el que te sigue pueda frenar, y **bajá la velocidad antes** de entrar (no mientras cruzás).",
+          "page": 95
+        },
+        {
+          "title": "Cruces no controlados",
+          "body": "En el sector entre las líneas de pare o sendas peatonales, además de respetar la prioridad de paso, regís: **no adelantar**, **no cambiar de carril**, **no superar los 30 km/h** y **no detenerte**.\n\nNinguna de estas reglas rige si la esquina tiene semáforo.",
+          "page": 95,
+          "callout": "Velocidad máxima en cruce no controlado: 30 km/h."
+        },
+        {
+          "title": "No obstruyas la bocacalle",
+          "body": "No entres a una intersección si no hay lugar libre del otro lado, tenga o no semáforo: obstruir el cruce es **falta grave** y la causa más común de congestión.\n\nCon luz roja, frená antes de la línea o la senda peatonal y no te muevas hasta el verde. Si quedaste en medio del cruce, dejá terminar a los que ya venían cruzando.",
+          "page": 96
+        }
+      ]
+    },
+    {
+      "id": "6.3",
+      "title": "Derecho de paso",
+      "summary": "Vas a aprender la regla de la prioridad de la derecha y sus once excepciones.",
+      "cards": [
+        {
+          "title": "La prioridad de la derecha",
+          "body": "¿Quién pasa primero en una esquina? **El que viene por la derecha.** Si otro conductor se te presenta por tu derecha en una intersección, tenés que cederle el paso siempre. Esta prioridad es absoluta, salvo excepciones puntuales.",
+          "page": 97
+        },
+        {
+          "title": "Excepciones a la prioridad de la derecha",
+          "body": "La prioridad de la derecha se pierde, en este orden, ante:\n\nTODO: verify (p. 97): la fila 3 dice \"calle respecto a una avenida\"; probablemente quiera decir que tiene prioridad quien va por la avenida. Consultalo con tu instructor.",
+          "page": 97,
+          "table": {
+            "head": [
+              "#",
+              "Excepción"
+            ],
+            "rows": [
+              [
+                "1",
+                "Los del servicio público de urgencia, en cumplimiento de una emergencia"
+              ],
+              [
+                "2",
+                "Quien circula por una vía de mayor jerarquía (ej. semiautopista sobre carretera común)"
+              ],
+              [
+                "3",
+                "Los que circulan por una calle respecto a una avenida (zona urbana) — así figura en el manual"
+              ],
+              [
+                "4",
+                "Peatones que cruzan por la senda peatonal"
+              ],
+              [
+                "5",
+                "Rotondas: prioridad para el que circula dentro"
+              ],
+              [
+                "6",
+                "Quien sale de un camino de tierra a uno pavimentado"
+              ],
+              [
+                "7",
+                "Quien ya se detuvo"
+              ],
+              [
+                "8",
+                "Quien gira hacia otra vía transversal"
+              ],
+              [
+                "9",
+                "Filas en ambas vías: avanza uno por vez de cada una, alternando"
+              ],
+              [
+                "10",
+                "Zona rural: quien arrea animales o va con tracción a sangre, salvo senda específica"
+              ]
+            ]
+          },
+          "callout": "Si se dan varias excepciones juntas, manda el orden de esta lista."
+        },
+        {
+          "title": "El peatón siempre protegido",
+          "body": "El peatón es el usuario principal del espacio público y goza del beneficio de la duda, salvo que viole gravemente las reglas (cruzar sin senda o con el semáforo en rojo). Al salir de una cochera o garaje a la vía pública, el peatón **siempre conserva su prioridad**.",
+          "page": 98
+        },
+        {
+          "title": "Errores comunes y otras maniobras",
+          "body": "Los dos errores más comunes son: **asumir** que el otro te va a ceder el paso, y **no ceder nunca** el paso a otros.\n\nPara cualquier otra maniobra, tiene prioridad quien conserva su derecha. En cuestas estrechas, retrocede el que desciende, salvo que el otro lleve acoplado.",
+          "page": 98
+        }
+      ]
+    },
+    {
+      "id": "6.4",
+      "title": "Vías con semaforización coordinada",
+      "summary": "Vas a ver qué reglas comunes se suspenden en la onda verde y cuándo se comete infracción de semáforo.",
+      "cards": [
+        {
+          "title": "Qué es la onda verde",
+          "body": "Cuando varios semáforos de una misma mano están coordinados (**onda verde**), podés mantener una marcha constante sin interrupciones, casi como en una autopista. Esto solo funciona si todos respetan las reglas de circulación.",
+          "page": 99
+        },
+        {
+          "title": "Qué reglas se suspenden",
+          "body": "En intersecciones con semáforo **no se aplican** las reglas comunes: no rige el límite de 30 km/h, ni la prioridad de la derecha, ni la prohibición de adelantar o de cambiar de carril.\n\nSi la velocidad de coordinación supera los 60 km/h, tampoco rigen los límites máximos de zona urbana.",
+          "page": 99,
+          "callout": "Nunca superes la velocidad de coordinación semafórica, aunque esté por encima del límite urbano."
+        },
+        {
+          "title": "Lo que sí se mantiene",
+          "body": "Si el semáforo cambia a rojo, **no apures** la marcha para alcanzar la onda verde: es causa de accidentes graves. Detenete siempre antes de la línea de frenado o la senda peatonal, y dejá terminar de cruzar a los peatones aunque ya esté el verde. No gires a la izquierda en vías de doble mano semaforizadas.",
+          "page": 99
+        },
+        {
+          "title": "Cuándo es infracción el semáforo en rojo",
+          "body": "Cruzar con semáforo en rojo se configura **solo** si la luz ya estaba roja cuando pasaste la línea de frenado. Si cruzaste esa línea con la luz amarilla, aunque cambie enseguida a roja, no es infracción.",
+          "page": 99
+        }
+      ]
+    },
+    {
+      "id": "6.5",
+      "title": "Adelantamiento",
+      "summary": "Vas a aprender cuándo nunca adelantar y los pasos para hacerlo de forma segura.",
+      "cards": [
+        {
+          "title": "Antes de decidir adelantar",
+          "body": "Adelantar mal es la **primera causa de siniestros fatales**, sobre todo en zona rural con choques frontales. Antes de intentarlo, evaluá el riesgo frente al beneficio y mantené distancia del vehículo hasta iniciar la maniobra.",
+          "page": 100
+        },
+        {
+          "title": "Nunca adelantes",
+          "body": "No adelantes: a **más de un vehículo** por vez, a quien te indica con luz de giro izquierda que también va a adelantar, ni cerca de **puentes, túneles, cuestas, cruces o curvas**. Tampoco si hay doble línea amarilla continua o continua de tu lado.",
+          "page": 100
+        },
+        {
+          "title": "Cómo adelantar por la izquierda",
+          "body": "La regla general es adelantar por la **izquierda**, salvo que el de adelante indique que va a girar o detenerse de ese lado, que tu fila avance más rápido en una congestión, o que estés en una autopista.\n\nUsá siempre las luces de giro: izquierda al salir, derecha al retomar.",
+          "page": 100
+        },
+        {
+          "title": "Antes de salir a adelantar",
+          "body": "Calculá si vas a poder superarlo según la velocidad y el largo del otro vehículo. Verificá que el carril de contramano esté libre de obstáculos adelante y atrás. Mirá los espejos y los **ángulos ciegos**. Prendé la luz de giro izquierda y esperá unos 5 segundos antes de salir.",
+          "page": 100
+        },
+        {
+          "title": "Durante y después de adelantar",
+          "body": "Durante la maniobra podés superar el límite de velocidad legal, solo mientras dure el adelantamiento. Retomá tu carril con la luz de giro derecha cuando veas al otro vehículo por el retrovisor interno, y no frenés ni bajes de la velocidad que traía.",
+          "page": 101
+        },
+        {
+          "title": "Si te están adelantando",
+          "body": "Si notás que alguien quiere adelantarte, facilitale la maniobra: mantené tu derecha y tu velocidad, o incluso reducila o correte a la banquina si es consolidada. Los vehículos lentos en vías angostas deben hacerlo periódicamente.",
+          "page": 101
+        }
+      ]
+    },
+    {
+      "id": "6.6",
+      "title": "Autopistas",
+      "summary": "Vas a repasar las características de las autopistas, quién no puede circular por ellas y qué está prohibido.",
+      "cards": [
+        {
+          "title": "Características de la autopista",
+          "body": "Las autopistas no tienen cruces a nivel, las manos están separadas físicamente y no hay accesos directos. Tienen carriles de aceleración y desaceleración. El **carril derecho** es para transportes y el **carril izquierdo**, solo para adelantar.",
+          "page": 102,
+          "image": "img/manual/p102-0.jpg"
+        },
+        {
+          "title": "Quién no puede circular",
+          "body": "No pueden circular por autopista: peatones y bicicletas (salvo senda especial), animales y jinetes, carros y tracción a sangre, ciclomotores y cuatriciclos, carretones y maquinaria especial, autos que remolquen a otro, y vehículos que no superen los **65 km/h**.",
+          "page": 102
+        },
+        {
+          "title": "Qué no se debe hacer",
+          "body": "En autopista no se debe: estacionar (ni en la banquina), detenerse voluntariamente, dar marcha atrás, cambiar de carril abruptamente, adelantarse en el carril auxiliar o ramal, cargar o descargar, ni hacer controles manuales de tránsito.",
+          "page": 102
+        },
+        {
+          "title": "Los mayores riesgos",
+          "body": "Los principales riesgos en autopista son: cambiar de carril bruscamente para no perder una salida, adelantamientos mal calculados por la alta velocidad, y frenadas bruscas. Por eso es clave mantener la **distancia de seguridad** y programar el viaje con anticipación.",
+          "page": 102
+        },
+        {
+          "title": "Entrar y salir de la autopista",
+          "body": "Al ingresar, tenés que **ceder el paso** a quien ya circula por ella. En el carril de desaceleración o el ramal de conexión no te adelantes a otro: usalo para adaptarte a la menor velocidad de la vía a la que accedés. Ubicate en el carril derecho con anticipación para salir.",
+          "page": 102
+        },
+        {
+          "title": "Semiautopistas o autovías",
+          "body": "Tienen las mismas prohibiciones que una autopista, pero pueden tener cruces a nivel (generalmente con rotonda), sendas para peatones y accesos directos desde predios frentistas. La prioridad de paso es absoluta, pero cuidado con los accesos secundarios.",
+          "page": 103,
+          "callout": "Velocidad en semiautopista o autovía: máxima 120 km/h, mínima 60 km/h."
+        }
+      ]
+    },
+    {
+      "id": "6.7",
+      "title": "Distancia de seguridad entre vehículos",
+      "summary": "Vas a aprender la regla de los dos segundos para mantener distancia del vehículo de adelante.",
+      "cards": [
+        {
+          "title": "Qué es la distancia de seguridad",
+          "body": "Es el espacio necesario para frenar sin chocar al vehículo de adelante si se detiene de golpe. Se mide en **tiempo**, no en metros, porque varía según la velocidad.",
+          "page": 104
+        },
+        {
+          "title": "La regla de los dos segundos",
+          "body": "Cuando el vehículo de adelante pase por un punto fijo (poste, señal, marca), empezá a contar: si llegás a ese punto antes de terminar de contar hasta tres (o decir una palabra de 2 segundos), estás **muy cerca**. Levantá el pie del acelerador.\n\nCon mal clima u otras condiciones adversas, aumentá la distancia y bajá la velocidad por debajo del límite habitual.",
+          "page": 104,
+          "callout": "Distancia de seguridad: regla de los 2 segundos."
+        }
+      ]
+    },
+    {
+      "id": "6.8",
+      "title": "Giros y rotondas",
+      "summary": "Vas a aprender a girar correctamente y la regla de prioridad dentro de una rotonda.",
+      "cards": [
+        {
+          "title": "Cómo girar bien",
+          "body": "Encendé la luz de giro con anticipación y tomá el carril correspondiente **al menos 30 metros antes**. Bajá la velocidad progresivamente, hasta un máximo de **30 km/h**, y dejá pasar a los peatones que estén cruzando cualquiera de las dos bocacalles.",
+          "page": 105,
+          "callout": "Anticipación mínima para girar: 30 m. Velocidad máxima en el giro: 30 km/h."
+        },
+        {
+          "title": "Giro a la izquierda",
+          "body": "Si girás a la izquierda, tiene prioridad el vehículo que viene de frente. En vías de doble mano con semáforo, este giro está **prohibido** salvo que una señal lo permita expresamente. Los giros a la izquierda siempre son riesgosos: evitalos cuando puedas.",
+          "page": 105
+        },
+        {
+          "title": "Prioridad en las rotondas",
+          "body": "En una rotonda, la circulación es continua y la zona central no transitable queda siempre a tu izquierda. La **prioridad es de quien ya circula dentro** de la rotonda sobre quien quiere ingresar, aunque este último venga de la derecha.\n\nPero quien circula dentro debe **cederle el paso a quien egresa**, salvo señalización en contrario.",
+          "page": 105,
+          "callout": "Rotonda: prioridad para el que circula dentro, que a su vez cede el paso al que sale."
+        }
+      ]
+    },
+    {
+      "id": "6.9",
+      "title": "Cruces ferroviales a nivel",
+      "summary": "Vas a aprender a reconocer la señalización de un paso a nivel y cómo cruzarlo con seguridad.",
+      "cards": [
+        {
+          "title": "Señalización del cruce",
+          "body": "Las señales preventivas (cuadrado amarillo, triángulo blanco con borde rojo, Cruz de San Andrés y marcas en la calzada) te avisan que hay un paso a nivel. Las señales prescriptivas —luz roja intermitente, timbre y barreras bajas— indican que **no podés cruzar**.",
+          "page": 106,
+          "table": {
+            "head": [
+              "Señal",
+              "Dónde aparece",
+              "Equivale a"
+            ],
+            "rows": [
+              [
+                "Cuadrado/triángulo preventivo",
+                "100 a 300 m antes",
+                "Atención"
+              ],
+              [
+                "Marcas en la calzada",
+                "15 a 120 m antes",
+                "Atención"
+              ],
+              [
+                "Barreras levantadas",
+                "Sobre el cruce",
+                "Verde"
+              ],
+              [
+                "Barreras bajando/subiendo",
+                "Sobre el cruce",
+                "Amarillo"
+              ],
+              [
+                "Luz roja, timbre, barreras bajas",
+                "Sobre el cruce",
+                "Rojo"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Cómo cruzar sin barreras bajas",
+          "body": "Cruzá a no más de **20 km/h**, en segunda velocidad y sin cambiar de marcha, en forma paralela a la calzada. No te detengas sobre las vías ni a menos de **5 metros** de ellas, y no entres a la zona de vías si no hay lugar para salir del otro lado.\n\nSi notás que se acerca un tren, aunque no se activen las señales, **no pases**: la prioridad es siempre del ferrocarril.",
+          "page": 106,
+          "callout": "Velocidad máxima para cruzar: 20 km/h. Distancia mínima a las vías para detenerte: 5 m."
+        },
+        {
+          "title": "Con barreras bajas o activadas",
+          "body": "No cruces. Detenete sobre la derecha de la calzada, antes de la barrera o, si no la hay, a más de 5 metros de la vía. Tampoco cruces si desde la zona ferroviaria te hacen señas de advertencia.\n\nSi las barreras están descompuestas (bajas o en movimiento permanente), una persona debe ubicarse cerca de las vías e indicar cuándo es seguro cruzar.",
+          "page": 106
+        }
+      ]
+    },
+    {
+      "id": "6.10",
+      "title": "Estacionamiento",
+      "summary": "Vas a aprender dónde y cómo estacionar en zona urbana y rural, y qué maniobras y objetos están prohibidos en la vía pública.",
+      "cards": [
+        {
+          "title": "Cómo estacionar en zona urbana",
+          "body": "Estacioná a la **derecha** de la vía, en paralelo a la acera (salvo que una señal indique otra forma). Dejá un espacio aproximado de **50 cm** entre vehículos (se recomienda 20 cm desde el cordón). Apagá el motor, sacá la marcha, cerrá el auto y poné el freno de mano.",
+          "page": 107,
+          "callout": "Espacio entre vehículos estacionados: 50 cm (20 cm recomendado desde el cordón)."
+        },
+        {
+          "title": "Dónde no podés estacionar",
+          "body": "No se puede estacionar donde se afecte la seguridad, visibilidad o fluidez, ni tapando señales; en esquinas, antes de la línea de la ochava; sobre vereda, rieles, sendas o rampas para discapacitados; ni sobre la entrada de garajes en uso.",
+          "page": 107,
+          "table": {
+            "head": [
+              "Lugar prohibido",
+              "Distancia mínima"
+            ],
+            "rows": [
+              [
+                "Antes y después de una parada de colectivo",
+                "10 m"
+              ],
+              [
+                "A cada lado del acceso a hospitales y escuelas",
+                "10 m"
+              ],
+              [
+                "Frente a salida de cines o teatros",
+                "Mientras funcionan"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Otras formas prohibidas de estacionar",
+          "body": "No podés estacionar en **doble fila** (además de ilegal, es egoísta), por más de **5 días** seguidos (se considera abandono) ni con ómnibus, camiones, casas rodantes o maquinaria especial, salvo en lugares habilitados por la autoridad local.",
+          "page": 107,
+          "callout": "Más de 5 días estacionado en el mismo lugar = abandono."
+        },
+        {
+          "title": "Estacionar en zona rural",
+          "body": "Estacioná a la derecha de la vía, lejos de la calzada y la banquina. No lo hagas frente al acceso de una propiedad, ni a menos de **10 m** de paradas de pasajeros, encrucijadas, pasos a nivel, puentes o alcantarillas, ni a menos de **50 m** de curvas o cimas de cuestas.",
+          "page": 107,
+          "callout": "Zona rural: mínimo 10 m de cruces y paradas, 50 m de curvas o cimas."
+        },
+        {
+          "title": "La maniobra de estacionar",
+          "body": "Tenés que estacionar en no más de **tres maniobras** y sin tocar otros vehículos. Para reingresar al tránsito: poné la luz de giro, mirá sobre el hombro y por el retrovisor para asegurarte de que el camino está despejado, y **cedé el paso** al salir.",
+          "page": 108,
+          "image": "img/manual/p108-0.jpg"
+        },
+        {
+          "title": "Franquicias para estacionar",
+          "body": "Personas con discapacidad, diplomáticos, médicos, periodistas y funcionarios judiciales tienen franquicias para estacionar en lugares prohibidos, pero solo en el ejercicio concreto de su función, no cuando están en su oficina. Tampoco pueden afectar la fluidez del tránsito ni crear riesgos.",
+          "page": 109
+        },
+        {
+          "title": "Maniobras prohibidas al circular",
+          "body": "Está prohibido: bajar la velocidad bruscamente sin motivo, hacer zigzag o maniobras intempestivas, circular marcha atrás (salvo para estacionar o salir de un garaje o calle sin salida), detenerte en banquina o curvas (salvo emergencia), y ceder el volante a quien no tiene licencia.",
+          "page": 110,
+          "image": "img/manual/p110-0.jpg"
+        },
+        {
+          "title": "Objetos y cargas prohibidos",
+          "body": "No se puede circular con cubiertas con menos de **1,6 mm** de dibujo, con defensas o enganches que sobresalgan de la carrocería, remolcando vehículos (salvo grúa habilitada), con carga que tape la visibilidad, ni usando auriculares o celular de operación manual.",
+          "page": 110,
+          "callout": "Profundidad mínima del dibujo de la cubierta: 1,6 mm."
+        }
+      ]
+    }
+  ]
+}

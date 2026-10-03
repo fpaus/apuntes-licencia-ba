@@ -1,0 +1,227 @@
+{
+  "chapter": 5,
+  "lessons": [
+    {
+      "id": "5.1",
+      "title": "A cualquiera le puede pasar",
+      "summary": "Un malestar simple también te saca de condición para manejar.",
+      "cards": [
+        {
+          "title": "Cuando tu estado de salud cambia",
+          "body": "Un dolor de cabeza, un resfrío, la fatiga o un problema personal pueden bajar tu capacidad de concentrarte, ver con claridad y reaccionar rápido al manejar.\n\nSi tu estado normal varía de forma transitoria, no podés conducir. La autoridad puede retenerte hasta que te recuperes.",
+          "page": 78,
+          "callout": "Somnolencia, fatiga o alteración de la atención y la coordinación motora son parámetros alterados comprobables por la autoridad."
+        }
+      ]
+    },
+    {
+      "id": "5.2",
+      "title": "Fatiga",
+      "summary": "Reconocé los síntomas de la fatiga y la única forma real de vencerla.",
+      "cards": [
+        {
+          "title": "Qué es y qué consecuencias trae",
+          "body": "La fatiga es la disminución de la capacidad de distintos órganos del cuerpo. Es la pérdida transitoria de aptitud más frecuente al conducir.\n\nPuede causarte pérdida de control del vehículo, quedarte dormido al volante o aumentar tu tiempo de reacción.",
+          "page": 79
+        },
+        {
+          "title": "Síntomas de la fatiga",
+          "body": "Reconocer estos síntomas a tiempo te permite parar antes de que sea tarde.\n\n- Trastornos digestivos, sed, dolor de cabeza\n- Pesadez de párpados y de músculos, calambres\n- Dolor de nuca o espalda, picazón del cuero cabelludo\n- Irritabilidad, ansiedad, menor estado de alerta\n- Alteración del sueño, cambios de posición en el asiento",
+          "page": 79
+        },
+        {
+          "title": "Fatiga visual",
+          "body": "La fatiga también afecta específicamente a la vista: ojos enrojecidos, picazón o quemazón, fallas de percepción visual, fallas de adaptación a la luz y a la oscuridad, y disminución de la audición.",
+          "page": 79
+        },
+        {
+          "title": "La fatiga solo se vence durmiendo",
+          "body": "Si sentís sueño o somnolencia, buscá un lugar seguro lejos de la calzada y dormí una siesta. No hace falta dormir muchas horas.",
+          "page": 79,
+          "callout": "La fatiga solamente se vence durmiendo."
+        },
+        {
+          "title": "En viajes largos",
+          "body": "Estas acciones solo retrasan el inicio de la fatiga hasta 15 minutos, el tiempo justo para buscar un lugar seguro y dormir. Nunca reemplazan al sueño: no te esfuerces en seguir manejando.\n\n- Tomar café, mojarse la cara, comer algo dulce\n- Mantener aire fresco, no usar calefacción fuerte\n- Hacer paradas para caminar o correr\n- Conversar o cantar fuerte, poner la radio fuerte\n- No comer en exceso ni tomar alcohol",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "5.3",
+      "title": "Monóxido de carbono",
+      "summary": "Un gas que no se ve ni se huele y puede matar en minutos.",
+      "cards": [
+        {
+          "title": "Un gas invisible y mortal",
+          "body": "El monóxido de carbono es tóxico, incoloro, sin olor e imperceptible. Se origina en la combustión del motor nafter cuando no funciona bien.\n\nNormalmente sale por el caño de escape, pero si este está roto puede entrar al habitáculo.",
+          "page": 81
+        },
+        {
+          "title": "Qué le hace a tu cuerpo",
+          "body": "En pocos minutos causa dolor de cabeza, somnolencia y mareos: no vas a poder pensar ni reaccionar con precisión.\n\nSi lo inhalás por más tiempo, puede causar desmayo y, si la situación persiste, la muerte. La inhalación habitual de pequeñas cantidades también causa trastornos graves, con mayor riesgo en niños y bebés.\n\nFumar dentro del habitáculo produce trastornos similares.",
+          "page": 81,
+          "callout": "Nunca enciendas el motor en un lugar cerrado."
+        }
+      ]
+    },
+    {
+      "id": "5.4",
+      "title": "Alcohol",
+      "summary": "Los límites de alcoholemia por tipo de conductor y por qué el 'bebedor social' es el de mayor riesgo.",
+      "cards": [
+        {
+          "title": "El verdadero riesgo: el bebedor social",
+          "body": "El alcohol y la conducción son absolutamente incompatibles. El problema no es el que está ebrio, sino el **bebedor social**: la persona normal que toma unas copas y no se siente alcoholizada.\n\nEl riesgo no es visible ni perceptible para esa persona, pero su tiempo de reacción se retarda igual.",
+          "page": 82
+        },
+        {
+          "title": "Límites de alcohol en sangre según licencia",
+          "body": "La normativa provincial fija niveles máximos de alcohol en sangre permitidos, distintos según el tipo de conductor. Algunos municipios tienen ordenanzas más estrictas.",
+          "page": 83,
+          "table": {
+            "head": ["Tipo de conductor", "Límite máximo"],
+            "rows": [
+              ["Particulares", "0,5 g/l"],
+              ["Motociclistas", "0,2 g/l"],
+              ["Profesionales (pasajeros y carga)", "0 g/l"]
+            ]
+          },
+          "callout": "0,5 g/l particulares · 0,2 g/l motos · 0 g/l profesionales."
+        },
+        {
+          "title": "Cómo se calcula el alcohol en gramos",
+          "body": "Cada grado de una bebida (Gay-Lussac) es el porcentaje de alcohol etílico en 100 ml. La densidad del alcohol es 0,79: multiplicá los ml de alcohol por 0,79 para obtener los gramos.\n\nEjemplo: 340 ml de cerveza al 5% tienen 17 ml de alcohol puro, que equivalen a 13 g de alcohol.",
+          "page": 83
+        },
+        {
+          "title": "Cuánto alcohol tiene cada bebida",
+          "body": "Los valores son aproximados y la graduación puede variar por región. La cantidad para llegar a 0,5 g/l también depende de tu masa corporal, si comiste, tu habitualidad y otros factores personales.",
+          "page": 84,
+          "table": {
+            "head": ["Bebida", "Graduación media", "Cantidad aprox. para 0,5 g/l"],
+            "rows": [
+              ["Cerveza / sidra", "4° a 6°", "Porrón o lata: 500 cm³"],
+              ["Vino / champagne", "10° a 13° (máx. 17°)", "2 vasos: 350 cm³"],
+              ["Licores", "30° a 40°", "2 copitas: 120 cm³"],
+              ["Aguardientes", "40° a 50°", "2 medidas: 100 cm³"]
+            ]
+          },
+          "image": "img/manual/p084-0.jpg"
+        },
+        {
+          "title": "Efectos según el grado de alcoholemia",
+          "body": "A medida que sube la alcoholemia, los efectos emocionales, conductuales y psicosomáticos se agravan progresivamente, hasta volver imposible conducir.",
+          "page": 82,
+          "table": {
+            "head": ["Alcoholemia", "Efecto principal"],
+            "rows": [
+              ["0,3 a 0,5 g/l", "Alarma: inicio de riesgo, baja la agudeza mental"],
+              ["0,5 a 0,8 g/l", "Zona de riesgo: más tiempo de reacción, euforia"],
+              ["0,8 a 1,5 g/l", "Conducción peligrosa: embriaguez, mala coordinación"],
+              ["1,5 a 2,5 g/l", "Manejo descontrolado: confusión mental, visión doble"],
+              ["Más de 3 g/l", "Conducción imposible: parálisis, riesgo de coma"]
+            ]
+          },
+          "image": "img/manual/p082-1.jpg"
+        },
+        {
+          "title": "Nada apura la sobriedad",
+          "body": "Tomar café o gaseosas, hacer ejercicio, bañarte o tomar aire fresco no te ayuda a volver a la sobriedad. Solo el tiempo que tu cuerpo tarda en metabolizar el alcohol lo hace, y nunca es menos de un par de horas.",
+          "page": 84
+        },
+        {
+          "title": "Detección de drogas en orina",
+          "body": "Es posible determinar el consumo de sustancias que afectan la conducción analizando la orina, dentro de estos plazos después de haberlas consumido.",
+          "page": 85,
+          "table": {
+            "head": ["Sustancia", "Período de detección"],
+            "rows": [
+              ["Alcohol", "6 a 18 horas"],
+              ["Anfetaminas", "2 a 3 días"],
+              ["Heroína", "2 a 3 días"],
+              ["Cocaína y metabolitos", "1 a 4 días"],
+              ["Benzodiacepinas", "3 a 5 días"],
+              ["Metadona (éxtasis)", "3 a 5 días"],
+              ["Marihuana (cannabis)", "15 a 30 días"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5.5",
+      "title": "Medicamentos",
+      "summary": "Algunos remedios afectan tu manejo igual que el alcohol o la fatiga.",
+      "cards": [
+        {
+          "title": "Consultá antes de manejar",
+          "body": "Muchos medicamentos causan efectos similares al alcohol o la fatiga. Consultá siempre con tu médico sobre cómo tus remedios afectan tu estado de alerta al conducir.\n\nMezclar remedios con alcohol o fatiga aumenta mucho el riesgo de perder aptitud para manejar. Si el medicamento altera tus parámetros normales, no conduzcas.",
+          "page": 86
+        },
+        {
+          "title": "Efectos según tipo de fármaco",
+          "body": "Distintos tipos de medicamentos afectan la conducción de formas distintas.",
+          "page": 86,
+          "table": {
+            "head": ["Tipo de fármaco", "Efecto principal"],
+            "rows": [
+              ["Analgésicos", "Somnolencia, baja presión, náuseas"],
+              ["Antiespasmódicos", "Alteración ocular y auditiva"],
+              ["Antibióticos", "Somnolencia, fatiga temprana"],
+              ["Sedantes y estimulantes", "Confusión mental, alucinaciones, agresividad"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5.6",
+      "title": "Consecuencias de conducir intoxicado",
+      "summary": "Riesgos legales y personales de manejar bajo alcohol o drogas.",
+      "cards": [
+        {
+          "title": "El riesgo más alto en la madrugada",
+          "body": "Conducir intoxicado por alcohol, drogas o medicamentos puede causar heridas, sufrimiento y muerte a gente inocente, a tu familia o a vos mismo.\n\nEl alcohol es una de las principales causas de siniestros graves, sobre todo en zona urbana. El domingo de madrugada es el horario con más muertos según la estadística.",
+          "page": 87
+        },
+        {
+          "title": "Sanciones y seguro",
+          "body": "Si te controlan manejando intoxicado, corresponden sanciones graves: arresto, inhabilitación y multas.\n\nSi además causás un accidente en ese estado, las penalidades son mayores: arresto, pérdida de la licencia y el pago de indemnizaciones, porque las pólizas de seguro suelen excluir los daños causados bajo efectos de alcohol o drogas.",
+          "page": 87
+        }
+      ]
+    },
+    {
+      "id": "5.7",
+      "title": "Procedimientos de control",
+      "summary": "Cómo controla la autoridad la alcoholemia y qué pasa si das positivo.",
+      "cards": [
+        {
+          "title": "Retención y fiscalización",
+          "body": "La autoridad debe retener al conductor sorprendido en evidente estado de intoxicación y avisar de inmediato al Juez de Faltas. Esta retención no puede durar más de 12 horas.\n\nEl control en la vía pública puede incluir policía, personal sanitario o del Órgano de Atención de las Adicciones, con equipamiento homologado.",
+          "page": 88
+        },
+        {
+          "title": "Inhabilitación según alcoholemia",
+          "body": "Si el resultado es positivo, se secuestra el vehículo (salvo que un acompañante pueda conducirlo o un tercero lo retire). El tiempo de inhabilitación depende de cuánto dio la alcoholemia.",
+          "page": 88,
+          "table": {
+            "head": ["Alcoholemia", "Inhabilitación"],
+            "rows": [
+              ["0,50 a 0,99 g/l", "6 meses"],
+              ["1,00 a 1,49 g/l", "12 meses"],
+              ["1,50 g/l o más", "18 meses"]
+            ]
+          }
+        },
+        {
+          "title": "Negarte a soplar es una falta grave",
+          "body": "El control se hace soplando en un dispositivo u otro método no invasivo. También se puede verificar con análisis de sangre u orina, o por diagnóstico clínico.\n\nNegarte a hacer la prueba es en sí mismo una infracción grave y se sanciona como tal.",
+          "page": 88,
+          "callout": "Si toma, no conduzca. Si debe conducir, no tome."
+        }
+      ]
+    }
+  ]
+}

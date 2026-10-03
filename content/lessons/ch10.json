@@ -1,0 +1,221 @@
+{
+  "chapter": 10,
+  "lessons": [
+    {
+      "id": "10.0",
+      "title": "Las infracciones de tránsito",
+      "summary": "De qué trata el capítulo: delitos, faltas y sanciones de tránsito.",
+      "cards": [
+        {
+          "title": "Delitos y faltas de tránsito",
+          "body": "Este capítulo explica cómo se clasifican las infracciones de tránsito, quién las controla y las juzga, y qué sanciones puede aplicar la autoridad.",
+          "page": 165
+        }
+      ]
+    },
+    {
+      "id": "10.1",
+      "title": "Las prohibiciones",
+      "summary": "La ley de tránsito de la provincia de Buenos Aires y sus adhesiones nacionales.",
+      "cards": [
+        {
+          "title": "El Código de Tránsito provincial",
+          "body": "La Ley 13.927 (vigente desde el 1 de enero de 2009) es el Código de Tránsito de la provincia de Buenos Aires. Adhiere a las leyes nacionales 24.449 y 26.363, y creó la Justicia Administrativa de Infracciones de Tránsito Provincial.",
+          "page": 166
+        },
+        {
+          "title": "Para qué sirve esta ley",
+          "body": "La ley provincial integra a la Provincia al Consejo Federal de Seguridad Vial y crea el Consejo Provincial de Seguridad Vial y el Acta Única de Infracción, el documento con el que se labra cada infracción.",
+          "page": 166
+        }
+      ]
+    },
+    {
+      "id": "10.2",
+      "title": "La autoridad de controlador o comprobación",
+      "summary": "Quién puede labrar un acta de infracción según sea delito o falta.",
+      "cards": [
+        {
+          "title": "Delito o falta: cambia quién controla",
+          "body": "Si la infracción es un delito, actúan las fuerzas de seguridad. Si es una falta (contravencional), actúan organismos administrativos, con las fuerzas de seguridad como apoyo.",
+          "page": 167
+        },
+        {
+          "title": "Quiénes son autoridad de comprobación",
+          "body": "Son autoridad de comprobación: la Policía de Seguridad Vial, las policías de la Provincia, Vialidad, el Transporte provincial, Jefatura de Gabinete y las Municipalidades. El Ministerio de Salud interviene en controles de alcoholemia y estupefacientes.",
+          "page": 167
+        }
+      ]
+    },
+    {
+      "id": "10.3",
+      "title": "La autoridad de juzgamiento",
+      "summary": "Qué juzgado interviene según dónde se cometió la infracción.",
+      "cards": [
+        {
+          "title": "Quién juzga cada infracción",
+          "body": "Si es delito, juzga el Poder Judicial. Si es falta en rutas, autopistas o semiautopistas (provinciales o nacionales), juzga la Justicia Administrativa de Infracciones de Tránsito Provincial. Si es falta en territorio municipal, juzgan los juzgados de Faltas Municipal.",
+          "page": 168
+        },
+        {
+          "title": "Las decisiones son revisables",
+          "body": "Las decisiones de los jueces de faltas o de infracciones de tránsito siempre quedan sujetas a revisión judicial.",
+          "page": 168
+        }
+      ]
+    },
+    {
+      "id": "10.4",
+      "title": "Clasificación de las faltas de tránsito",
+      "summary": "Qué conductas son falta grave: velocidad, alcohol, casco, cinturón y otras.",
+      "cards": [
+        {
+          "title": "Delito o falta grave, según el resultado",
+          "body": "Una misma conducta de riesgo puede ser solo una falta grave, o convertirse en delito si produce un daño concreto a una persona o a bienes. El Decreto 532/09 (reglamentario de la ley provincial) enumera las faltas graves.",
+          "page": 169
+        },
+        {
+          "title": "Faltas graves: documentación y habilitación",
+          "body": "Son falta grave: conducir sin estar habilitado, no llevar la documentación exigible, circular sin chapa patente o sin seguro obligatorio, y negarse a dar documentación o información cuando corresponde.",
+          "page": 169
+        },
+        {
+          "title": "Faltas graves: alcohol, velocidad y distancia",
+          "body": "Son falta grave: conducir con alcohol, estupefacientes u otra sustancia que disminuya tus condiciones; superar el límite de velocidad con un margen de tolerancia del 10 %; y no guardar la distancia prudente con el vehículo de adelante en rutas, autopistas y semiautopistas.",
+          "page": 170,
+          "callout": "Tolerancia de velocidad: 10 % sobre el límite."
+        },
+        {
+          "title": "Faltas graves: semáforo, casco y cinturón",
+          "body": "Son falta grave: no respetar el semáforo, circular con sobrecupo de pasajeros, usar auriculares o pantallas de video al conducir, ir a contramano, no usar casco en moto o no usar el cinturón de seguridad.",
+          "page": 170
+        },
+        {
+          "title": "Faltas graves: menores, adelantamiento y VTV",
+          "body": "Son falta grave: llevar menores de 10 años en un lugar que no sea el asiento trasero, adelantar sin respetar los requisitos de la ley, y conducir sin el comprobante de la Revisión Técnica Obligatoria aprobada.",
+          "page": 171,
+          "callout": "Menores de 10 años: siempre en el asiento trasero."
+        },
+        {
+          "title": "Control de infracciones y antecedentes",
+          "body": "Se usan cinemómetros y sistemas fijos o móviles, homologados, para controlar velocidad y otras infracciones. Toda acta de infracción se informa al Registro Nacional de Antecedentes de Tránsito (RENAT).",
+          "page": 172
+        }
+      ]
+    },
+    {
+      "id": "10.5",
+      "title": "Medidas cautelares",
+      "summary": "La libertad de tránsito tiene como contrapartida habilitación y controles.",
+      "cards": [
+        {
+          "title": "La Constitución garantiza la libertad de tránsito",
+          "body": "La Garantía de Libertad de Tránsito es el derecho de todas las personas a circular libremente por el país, según la Constitución Nacional. Ejercerla exige respetar las reglas básicas de convivencia en la vía pública.",
+          "page": 173
+        },
+        {
+          "title": "Conducir exige más controles que caminar",
+          "body": "Si además de circular querés hacerlo con un vehículo, necesitás una habilitación y debés aceptar mayores exigencias y controles, porque estás introduciendo una máquina riesgosa en un espacio de convivencia humana.",
+          "page": 173
+        }
+      ]
+    },
+    {
+      "id": "10.6",
+      "title": "Retención preventiva",
+      "summary": "Qué puede retener la autoridad —al conductor, la licencia, el vehículo— y por cuánto tiempo.",
+      "cards": [
+        {
+          "title": "Retención del conductor: máximo 12 horas",
+          "body": "La autoridad puede retenerte (no es una detención) si te sorprende en estado de intoxicación alcohólica o por estupefacientes, si fugás tras un siniestro, si carecés de habilitación, si participás en \"picadas\", si violás la luz roja por tercera vez, o si cruzás las vías con la barrera baja.",
+          "page": 174,
+          "callout": "La retención nunca puede superar las 12 horas."
+        },
+        {
+          "title": "Retención de la licencia habilitante",
+          "body": "Te pueden retener la licencia si está vencida, si no cumplís los límites de edad, si fue adulterada, si hay una violación evidente de los requisitos legales, si tus condiciones psicofísicas disminuyeron notablemente, o si estás inhabilitado o suspendido para conducir.",
+          "page": 174
+        },
+        {
+          "title": "Retención del vehículo",
+          "body": "Pueden retener el vehículo si no cumple las exigencias de seguridad, si lo conduce alguien no habilitado para ese tipo de vehículo, si circula excedido en peso o dimensión, si presta servicio de pasajeros o carga sin permiso, si está mal estacionado u obstruye la circulación, o si está abandonado y no se repara de inmediato.",
+          "page": 175
+        },
+        {
+          "title": "Retención de documentación",
+          "body": "Se retiene la documentación del vehículo (particular, de pasajeros o de carga) si no cumple los requisitos exigidos, si está adulterada, si no coincide con lo verificado, o si presta un servicio de transporte sin el permiso correspondiente.",
+          "page": 176
+        },
+        {
+          "title": "Boleta de citación: 30 días para presentarte",
+          "body": "Si cometés una falta grave de alcohol, velocidad, semáforo, casco, contramano o falta del comprobante de VTV o del artículo 68, te retienen la licencia y te entregan una Boleta de Citación, que te habilita a conducir por un máximo de 30 días corridos. En ese plazo debés presentarte a pagar la multa o a ejercer tu defensa.",
+          "page": 176,
+          "callout": "Boleta de citación: válida 30 días corridos."
+        },
+        {
+          "title": "Suspensión preventiva de la licencia",
+          "body": "Un Juez Administrativo puede suspender preventivamente tu licencia si, por una falta grave, pusiste en grave riesgo la vida o la salud de las personas. La suspensión dura hasta que la sentencia quede firme. Podés apelarla ante el Juez Correccional dentro de los 3 días de notificado, pero apelar no suspende la medida.",
+          "page": 177,
+          "callout": "Plazo para apelar la suspensión preventiva: 3 días. Apelar no frena la suspensión."
+        }
+      ]
+    },
+    {
+      "id": "10.7",
+      "title": "Sanciones",
+      "summary": "Qué sanciones existen y cómo aumentan con la reincidencia.",
+      "cards": [
+        {
+          "title": "Las sanciones son de cumplimiento efectivo",
+          "body": "Las sanciones de tránsito no admiten condena condicional ni en suspenso. Son: arresto, inhabilitación para conducir, multa, curso de capacitación vial (en vez de la multa) y decomiso de elementos prohibidos.",
+          "page": 178
+        },
+        {
+          "title": "Alcohol: multa más inhabilitación",
+          "body": "Si conducís con una tasa de alcohol en sangre mayor a la permitida, la inhabilitación se aplica junto con la multa.\n\nTODO: verify (p. 178): el manual no completa cuál es el plazo de esa inhabilitación (la frase queda cortada en la fuente).",
+          "page": 178
+        },
+        {
+          "title": "El curso de capacitación puede reemplazar la multa",
+          "body": "Podés reemplazar la multa por un curso especial de capacitación vial. Si aprobás el curso, te libera de la multa. Si no lo cumplís, la multa se triplica.",
+          "page": 178,
+          "callout": "No completar el curso: la multa se triplica."
+        },
+        {
+          "title": "Reincidencia: leve 1 año, grave 2 años",
+          "body": "Hay reincidencia si cometés una nueva falta dentro de 1 año (faltas leves) o 2 años (faltas graves) desde la sanción anterior, en cualquier jurisdicción de la Provincia. Se cuenta por separado para leves y graves; la inhabilitación solo se aplica en faltas graves.",
+          "page": 178,
+          "callout": "Plazo de reincidencia: 1 año (leves), 2 años (graves)."
+        },
+        {
+          "title": "Cómo aumenta la multa por reincidencia",
+          "body": "La multa aumenta un cuarto en la primera reincidencia, la mitad en la segunda, tres cuartos en la tercera. De ahí en más, se multiplica el valor original por la cantidad de reincidencias menos dos.",
+          "page": 179,
+          "table": {
+            "head": ["Reincidencia", "Aumento de la multa"],
+            "rows": [
+              ["1ª", "+ 1/4"],
+              ["2ª", "+ 1/2"],
+              ["3ª", "+ 3/4"],
+              ["Siguientes", "× (cantidad de reincidencias − 2)"]
+            ]
+          }
+        },
+        {
+          "title": "Cómo aumenta la inhabilitación por reincidencia grave",
+          "body": "En faltas graves, la inhabilitación se suma a la multa y crece con cada reincidencia, hasta volverse obligatoria en la tercera.",
+          "page": 179,
+          "table": {
+            "head": ["Reincidencia (falta grave)", "Inhabilitación"],
+            "rows": [
+              ["1ª", "hasta 9 meses, a criterio del juez"],
+              ["2ª", "hasta 12 meses, a criterio del juez"],
+              ["3ª", "18 meses, obligatoria"],
+              ["Siguientes", "se duplica sucesivamente"]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

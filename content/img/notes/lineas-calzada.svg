@@ -1,0 +1,42 @@
+<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <rect x="0" y="0" width="600" height="450" rx="24" fill="#ffffff"/>
+
+  <text x="300" y="38" text-anchor="middle" font-size="27" font-weight="bold" fill="#1d2420">Líneas de la calzada</text>
+
+  <!-- 4 road segments, top-down, each a horizontal grey band -->
+  <!-- Segment 1: continuous yellow -->
+  <g>
+    <rect x="40" y="58" width="520" height="56" fill="#4a4f4c"/>
+    <line x1="40" y1="86" x2="560" y2="86" stroke="#f2c200" stroke-width="4"/>
+    <text x="300" y="130" text-anchor="middle" font-size="15" fill="#1d2420">Continua: no adelantar</text>
+  </g>
+
+  <!-- Segment 2: double continuous yellow -->
+  <g>
+    <rect x="40" y="150" width="520" height="56" fill="#4a4f4c"/>
+    <line x1="40" y1="178" x2="560" y2="178" stroke="#f2c200" stroke-width="3"/>
+    <line x1="40" y1="186" x2="560" y2="186" stroke="#f2c200" stroke-width="3"/>
+    <text x="300" y="222" text-anchor="middle" font-size="15" fill="#1d2420">Doble continua: no adelantar</text>
+  </g>
+
+  <!-- Segment 3: dashed yellow + double combined (continuous+dashed) side by side split -->
+  <g>
+    <rect x="40" y="242" width="250" height="56" fill="#4a4f4c"/>
+    <line x1="40" y1="270" x2="290" y2="270" stroke="#f2c200" stroke-width="4" stroke-dasharray="18,14"/>
+    <text x="165" y="314" text-anchor="middle" font-size="15" fill="#1d2420">Discontinua: adelantar sí</text>
+
+    <rect x="310" y="242" width="250" height="56" fill="#4a4f4c"/>
+    <line x1="310" y1="266" x2="560" y2="266" stroke="#f2c200" stroke-width="3"/>
+    <line x1="310" y1="274" x2="560" y2="274" stroke="#f2c200" stroke-width="3" stroke-dasharray="18,14"/>
+    <text x="435" y="314" text-anchor="middle" font-size="14" fill="#1d2420">Combinada: adelanta el</text>
+    <text x="435" y="332" text-anchor="middle" font-size="14" fill="#1d2420">lado discontinuo</text>
+  </g>
+
+  <!-- Segment 4: lane lines (white dashed, same direction) + edge line (white solid) -->
+  <g>
+    <rect x="40" y="356" width="520" height="56" fill="#4a4f4c"/>
+    <line x1="40" y1="384" x2="560" y2="384" stroke="#ffffff" stroke-width="4" stroke-dasharray="18,14"/>
+    <line x1="40" y1="360" x2="560" y2="360" stroke="#ffffff" stroke-width="3"/>
+    <text x="300" y="428" text-anchor="middle" font-size="14" fill="#1d2420">Carril (blanca): cambiar de carril · Borde: no sobrepasar</text>
+  </g>
+</svg>

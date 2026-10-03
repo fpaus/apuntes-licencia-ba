@@ -1,0 +1,9 @@
+# Third-party ads with names and phone numbers: never published (content/notes.json transcribes them).
+Docs/WhatsApp*
+# Personal quiz history and generated questions.
+progress/
+# Build outputs.
+dist/
+_site/
+# Local dev server config.
+.claude/launch.json

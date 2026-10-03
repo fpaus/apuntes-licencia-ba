@@ -1,0 +1,94 @@
+<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <rect x="0" y="0" width="600" height="450" rx="24" fill="#ffffff"/>
+  <text x="300" y="34" text-anchor="middle" font-size="24" font-weight="bold" fill="#1d2420">Cómo arrancar en subida</text>
+
+  <!-- car on uphill slope -->
+  <g transform="translate(40,60)">
+    <path d="M0,160 L220,40 L220,160 Z" fill="#e2f1e6" stroke="#d9e0d9" stroke-width="2"/>
+    <g transform="translate(118,92) rotate(-29)">
+      <rect x="-38" y="-24" width="76" height="30" rx="10" fill="#2f8a4f"/>
+      <path d="M-24,-24 L-14,-42 L22,-42 L30,-24 Z" fill="#2f8a4f"/>
+      <rect x="-10" y="-38" width="26" height="14" rx="3" fill="#e2f1e6"/>
+      <circle cx="-22" cy="8" r="9" fill="#1d2420"/>
+      <circle cx="22" cy="8" r="9" fill="#1d2420"/>
+    </g>
+  </g>
+
+  <!-- 5-step sequence, row of pedal diagrams -->
+  <!-- step geometry: 5 cells across width, start x=20 y=230, each 112 wide 190 tall -->
+  <g font-size="13" fill="#1d2420">
+    <!-- step 1: freno -->
+    <g transform="translate(20,236)">
+      <rect width="108" height="170" rx="10" fill="#fbe7e4"/>
+      <circle cx="54" cy="24" r="16" fill="#ffffff" stroke="#c0392b" stroke-width="2"/>
+      <text x="54" y="29" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">1</text>
+      <rect x="40" y="56" width="28" height="44" rx="6" fill="#c0392b"/>
+      <path d="M54,100 L54,118" stroke="#1d2420" stroke-width="3" stroke-linecap="round"/>
+      <path d="M44,112 L54,120 L64,112" fill="none" stroke="#1d2420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="54" y="146" text-anchor="middle">Freno</text>
+      <text x="54" y="162" text-anchor="middle" font-size="11" fill="#5d6a62">mantenido</text>
+    </g>
+
+    <!-- step 2: embrague + primera -->
+    <g transform="translate(136,236)">
+      <rect width="108" height="170" rx="10" fill="#fbe7e4"/>
+      <circle cx="54" cy="24" r="16" fill="#ffffff" stroke="#c0392b" stroke-width="2"/>
+      <text x="54" y="29" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">2</text>
+      <rect x="24" y="56" width="24" height="44" rx="6" fill="#5d6a62"/>
+      <rect x="60" y="56" width="24" height="44" rx="6" fill="#c0392b"/>
+      <path d="M54,110 L54,128" stroke="#1d2420" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="54" cy="108" r="5" fill="#1d2420"/>
+      <text x="54" y="150" text-anchor="middle">Embrague +</text>
+      <text x="54" y="164" text-anchor="middle">1ª</text>
+    </g>
+
+    <!-- step 3: punto de friccion -->
+    <g transform="translate(252,236)">
+      <rect width="108" height="170" rx="10" fill="#fbe7e4"/>
+      <circle cx="54" cy="24" r="16" fill="#ffffff" stroke="#c0392b" stroke-width="2"/>
+      <text x="54" y="29" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">3</text>
+      <rect x="24" y="56" width="24" height="30" rx="6" fill="#c98a00"/>
+      <path d="M24,86 L48,86 L48,100 L24,100 Z" fill="#c98a00" opacity="0.4"/>
+      <rect x="60" y="56" width="24" height="44" rx="6" fill="#5d6a62"/>
+      <text x="54" y="118" text-anchor="middle" font-size="11" fill="#c98a00" font-weight="bold">Punto de</text>
+      <text x="54" y="132" text-anchor="middle" font-size="11" fill="#c98a00" font-weight="bold">fricción</text>
+      <text x="54" y="156" text-anchor="middle">Embrague a</text>
+      <text x="54" y="170" text-anchor="middle">medio soltar</text>
+    </g>
+
+    <!-- step 4: soltar freno mientras acelera -->
+    <g transform="translate(368,236)">
+      <rect width="108" height="170" rx="10" fill="#fbe7e4"/>
+      <circle cx="54" cy="24" r="16" fill="#ffffff" stroke="#c0392b" stroke-width="2"/>
+      <text x="54" y="29" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">4</text>
+      <rect x="24" y="76" width="24" height="24" rx="6" fill="#c0392b" opacity="0.35"/>
+      <path d="M24,74 L48,74 L48,88 L24,88 Z" fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="3 3"/>
+      <rect x="60" y="56" width="24" height="44" rx="6" fill="#2f8a4f"/>
+      <text x="54" y="150" text-anchor="middle">Soltá freno,</text>
+      <text x="54" y="164" text-anchor="middle">acelerá suave</text>
+    </g>
+
+    <!-- step 5: soltar embrague -->
+    <g transform="translate(484,236)">
+      <rect width="108" height="170" rx="10" fill="#fbe7e4"/>
+      <circle cx="54" cy="24" r="16" fill="#ffffff" stroke="#c0392b" stroke-width="2"/>
+      <text x="54" y="29" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">5</text>
+      <rect x="24" y="56" width="24" height="24" rx="6" fill="#5d6a62" opacity="0.3"/>
+      <path d="M24,54 L48,54 L48,78 L24,78 Z" fill="none" stroke="#5d6a62" stroke-width="2" stroke-dasharray="3 3"/>
+      <rect x="60" y="56" width="24" height="44" rx="6" fill="#2f8a4f"/>
+      <text x="54" y="150" text-anchor="middle">Soltá del</text>
+      <text x="54" y="164" text-anchor="middle">todo el embrague</text>
+    </g>
+  </g>
+
+  <!-- connecting arrows between steps -->
+  <g stroke="#5d6a62" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M130,320 L134,320"/>
+    <path d="M129,316 L137,320 L129,324" fill="#5d6a62" stroke="none"/>
+    <path d="M245,316 L253,320 L245,324" fill="#5d6a62" stroke="none"/>
+    <path d="M361,316 L369,320 L361,324" fill="#5d6a62" stroke="none"/>
+    <path d="M477,316 L485,320 L477,324" fill="#5d6a62" stroke="none"/>
+  </g>
+
+  <text x="300" y="422" text-anchor="middle" font-size="13" fill="#5d6a62">Pedales: izquierda embrague, derecha freno/acelerador</text>
+</svg>

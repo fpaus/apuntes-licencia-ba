@@ -1,0 +1,237 @@
+{
+  "chapter": 2,
+  "lessons": [
+    {
+      "id": "2.1",
+      "title": "El uso de la vía pública",
+      "summary": "Vas a entender para qué sirve regular la vía pública.",
+      "cards": [
+        {
+          "title": "Un espacio compartido",
+          "body": "La vía pública es el lugar donde conviven personas, vehículos y animales. La libertad de circular es un derecho, pero tiene regulaciones para garantizar la seguridad, la igualdad y la paz pública. El objetivo central de las normas de tránsito es la **seguridad vial**: prevenir siniestros.",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "title": "Las funciones de la vía pública",
+      "summary": "Vas a conocer las funciones que cumple la vía pública y cómo afecta tu conducción.",
+      "cards": [
+        {
+          "title": "Las cuatro funciones",
+          "body": "- **Convivencia y esparcimiento**: no debe ser interferida por el tránsito.\n- **Circulación**: facilita la movilidad bajo las normas de tránsito.\n- **Accesibilidad**: conecta la circulación rápida con las zonas de convivencia.\n- **Ecológica**: conserva los espacios verdes y protege el ambiente.",
+          "page": 27
+        },
+        {
+          "title": "Tipos de vía según su función",
+          "body": "Según el diseño, una vía puede ser **principal** (canaliza el tránsito de paso), **colectora** (lo distribuye), **residencial** (acceso a viviendas), **pesada** (carga) o **preferencial** (para peatones, ciclistas o transporte público).",
+          "page": 28
+        },
+        {
+          "title": "El auto contamina",
+          "body": "El automotor es responsable de buena parte de la contaminación del aire y el ruido en zonas urbanas: gases de combustión, partículas de freno y neumáticos, y vibraciones del motor.",
+          "page": 28
+        },
+        {
+          "title": "Lo que podés hacer vos",
+          "body": "No tires residuos en la vía pública, mantené el motor en buen estado, usá la bocina solo en emergencias y llevá el auto a cambiar filtros y aceites a comercios con depósito especial para esos residuos.",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "title": "Zona urbana",
+      "summary": "Vas a entender los riesgos propios de la zona urbana y quiénes son los más afectados.",
+      "cards": [
+        {
+          "title": "Calles y avenidas",
+          "body": "En zona urbana solo existen calles (doble mano por defecto) y avenidas. El municipio decide y señaliza si una calle pasa a tener sentido único o se convierte en avenida.",
+          "page": 30
+        },
+        {
+          "title": "El riesgo de las intersecciones",
+          "body": "En las intersecciones se concentra la mayor cantidad de siniestros fatales, aun con semáforo. En zona urbana ocurren entre el **50% y el 70%** de los siniestros y más de la mitad de las muertes.",
+          "page": 30,
+          "callout": "50% a 70% de los siniestros y más del 50% de las muertes ocurren en zona urbana."
+        },
+        {
+          "title": "Quiénes son las víctimas",
+          "body": "Las muertes por siniestros viales afectan sobre todo a los jóvenes y a los varones, y las motos son el vehículo más involucrado.",
+          "page": 31,
+          "table": {
+            "head": [
+              "Dato",
+              "Valor"
+            ],
+            "rows": [
+              [
+                "Edad 15 a 34 años",
+                "4 de cada 10 muertes"
+              ],
+              [
+                "Sexo masculino",
+                "8 de cada 10 muertes"
+              ],
+              [
+                "Vehículo: moto",
+                "31% de las muertes"
+              ],
+              [
+                "Vehículo: auto",
+                "28% de las muertes"
+              ],
+              [
+                "Eran conductores",
+                "48% de las víctimas"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Planificar la ciudad",
+          "body": "Para descongestionar el tránsito urbano se usan medidas como carriles reversibles, carriles exclusivos para transporte público, sincronizar semáforos y desalentar el uso del auto particular en zonas congestionadas.",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "title": "Zona rural",
+      "summary": "Vas a identificar los tipos de camino rural y los riesgos más frecuentes en la ruta.",
+      "cards": [
+        {
+          "title": "Los caminos rurales",
+          "body": "En zona rural hay autovías o semiautopistas, caminos o carreteras (pavimentadas o de tierra) y huellas. La autopista puede ser urbana o rural; en el campo, suele convenir más una autovía.",
+          "page": 33
+        },
+        {
+          "title": "El choque frontal",
+          "body": "Es el siniestro más típico y mortal en zona rural: ocurre en caminos de dos carriles sin separación física entre manos, por una maniobra de sobrepaso mal hecha. Al sumarse las velocidades de ambos vehículos, casi siempre es letal.",
+          "page": 33
+        },
+        {
+          "title": "Riesgos del camino (1)",
+          "body": "Cada elemento del camino tiene su propio riesgo y su recomendación.",
+          "page": 34,
+          "table": {
+            "head": [
+              "Elemento",
+              "Riesgo",
+              "Recomendación"
+            ],
+            "rows": [
+              [
+                "Animales sueltos",
+                "Reacciones inesperadas",
+                "Respetar la señal, bajar la velocidad"
+              ],
+              [
+                "Alta velocidad",
+                "Agrava el siniestro",
+                "No exceder los límites"
+              ],
+              [
+                "Falta de experiencia",
+                "Exceso de confianza",
+                "Tomar conciencia del riesgo"
+              ],
+              [
+                "Heterogeneidad vial",
+                "Curvas, peraltes, puentes angostos",
+                "Bajar la velocidad, prestar atención"
+              ],
+              [
+                "Condiciones climáticas",
+                "Pérdida de control",
+                "Adaptar la conducción"
+              ],
+              [
+                "Cruces de caminos",
+                "Alto riesgo",
+                "Bajar siempre la velocidad"
+              ],
+              [
+                "Rugosidad y adherencia",
+                "Pérdida de dominio",
+                "No frenar sobre zonas resbaladizas"
+              ],
+              [
+                "Banquina descalzada",
+                "Tirón del volante, vuelco",
+                "Usarla solo a baja velocidad"
+              ],
+              [
+                "Vuelco",
+                "Giro cerrado, frenada brusca",
+                "Soltar el acelerador, no girar"
+              ],
+              [
+                "Somnolencia",
+                "Fatiga, más tiempo de reacción",
+                "Parar a descansar"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Riesgos del camino (2)",
+          "body": "Otros tres elementos a tener en cuenta en la ruta.",
+          "page": 35,
+          "table": {
+            "head": [
+              "Elemento",
+              "Riesgo",
+              "Recomendación"
+            ],
+            "rows": [
+              [
+                "Distancia de visión",
+                "Túnel de visión por velocidad o cansancio",
+                "Disminuir la velocidad, refrescarse"
+              ],
+              [
+                "Formación de huella",
+                "Aquaplaning por agua o polvo",
+                "Reducir la velocidad"
+              ],
+              [
+                "Zona de obras",
+                "Señales transitorias",
+                "Prestar atención y obrar en consecuencia"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "2.5",
+      "title": "Obstrucciones y uso especial de la vía",
+      "summary": "Vas a saber qué hacer ante una obstrucción en la calzada y qué son las servidumbres de tránsito.",
+      "cards": [
+        {
+          "title": "Obstrucciones en la calzada",
+          "body": "Si algo cae o queda en la vía (de un vehículo o un edificio), genera una zona de peligro que hay que señalizar o balizar de inmediato, hasta que la retiren.",
+          "page": 36
+        },
+        {
+          "title": "Obstrucciones programadas",
+          "body": "Para hacer una competencia, exhibición o trabajo sobre la vía, se necesita permiso de la autoridad local, garantizar vías alternativas, contratar un seguro y restituir la normalidad al terminar.",
+          "page": 37
+        },
+        {
+          "title": "Cargas públicas y servidumbres",
+          "body": "Los frentistas deben permitir y mantener las señales en sus paredes, y no pueden poner luces que encandilen ni elementos que oculten el señalamiento. Tampoco se pueden tirar residuos ni aguas servidas en la vía pública.",
+          "page": 37
+        },
+        {
+          "title": "Publicidad en la vía pública",
+          "body": "Está **prohibida** en la zona del camino, y regulada en zona urbana aunque esté en propiedad privada. Nunca puede usarse el mobiliario urbano (árboles, postes, señales) para colocar publicidad.",
+          "page": 38
+        }
+      ]
+    }
+  ]
+}

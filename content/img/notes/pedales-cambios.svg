@@ -1,0 +1,74 @@
+<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <rect x="0" y="0" width="600" height="450" rx="24" fill="#ffffff"/>
+
+  <text x="300" y="42" text-anchor="middle" font-size="28" font-weight="bold" fill="#1d2420">Pedales y cambios</text>
+
+  <!-- Pedals section -->
+  <g>
+    <text x="150" y="80" text-anchor="middle" font-size="17" fill="#5d6a62">Pedales (vista desde el asiento)</text>
+
+    <!-- footwell floor -->
+    <rect x="40" y="95" width="220" height="250" rx="12" fill="#e2f1e6" opacity="0.4"/>
+
+    <!-- Embrague (left) -->
+    <rect x="65" y="150" width="34" height="150" rx="8" fill="#2f8a4f"/>
+    <text x="82" y="140" text-anchor="middle" font-size="15" fill="#1d2420" font-weight="bold">Embrague</text>
+
+    <!-- Freno (center) -->
+    <rect x="135" y="130" width="34" height="170" rx="8" fill="#c0392b"/>
+    <text x="152" y="120" text-anchor="middle" font-size="15" fill="#1d2420" font-weight="bold">Freno</text>
+
+    <!-- Acelerador (right) -->
+    <rect x="205" y="150" width="34" height="150" rx="8" fill="#c98a00"/>
+    <text x="222" y="140" text-anchor="middle" font-size="15" fill="#1d2420" font-weight="bold">Acelerador</text>
+
+    <!-- Feet -->
+    <ellipse cx="82" cy="320" rx="26" ry="15" fill="#1d2420"/>
+    <text x="82" y="325" text-anchor="middle" font-size="13" fill="#ffffff" font-weight="bold">I</text>
+    <ellipse cx="222" cy="320" rx="26" ry="15" fill="#1d2420"/>
+    <text x="222" y="325" text-anchor="middle" font-size="13" fill="#ffffff" font-weight="bold">D</text>
+
+    <text x="150" y="360" text-anchor="middle" font-size="15" fill="#5d6a62">Pie izq.: embrague</text>
+    <text x="150" y="380" text-anchor="middle" font-size="15" fill="#5d6a62">Pie der.: freno y acelerador</text>
+  </g>
+
+  <!-- Gear shift H pattern -->
+  <g>
+    <text x="430" y="80" text-anchor="middle" font-size="17" fill="#5d6a62">Palanca de cambios</text>
+
+    <!-- H pattern lines -->
+    <line x1="360" y1="125" x2="360" y2="265" stroke="#5d6a62" stroke-width="3"/>
+    <line x1="430" y1="125" x2="430" y2="265" stroke="#5d6a62" stroke-width="3"/>
+    <line x1="500" y1="125" x2="500" y2="195" stroke="#5d6a62" stroke-width="3"/>
+    <line x1="360" y1="195" x2="500" y2="195" stroke="#5d6a62" stroke-width="3"/>
+
+    <!-- gear nodes: 1 top-left,3 mid-left,5 bottom-left; 2 top-mid,4 bottom-mid; R top-right -->
+    <circle cx="360" cy="125" r="16" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+    <text x="360" y="131" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">1</text>
+
+    <circle cx="430" cy="125" r="16" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+    <text x="430" y="131" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">2</text>
+
+    <circle cx="360" cy="195" r="16" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+    <text x="360" y="201" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">3</text>
+
+    <circle cx="430" cy="195" r="16" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+    <text x="430" y="201" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">4</text>
+
+    <circle cx="360" cy="265" r="16" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+    <text x="360" y="271" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d2420">5</text>
+
+    <circle cx="500" cy="125" r="16" fill="#fbe7e4" stroke="#c0392b" stroke-width="2"/>
+    <text x="500" y="131" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d2420">R</text>
+
+    <!-- labels for each gear's use -->
+    <text x="330" y="111" text-anchor="end" font-size="13" fill="#5d6a62">arranque, subidas</text>
+    <text x="430" y="105" text-anchor="middle" font-size="13" fill="#5d6a62">despacio</text>
+    <text x="330" y="201" text-anchor="end" font-size="13" fill="#5d6a62">ciudad</text>
+    <text x="448" y="226" text-anchor="start" font-size="13" fill="#5d6a62">más veloc.</text>
+    <text x="330" y="271" text-anchor="end" font-size="13" fill="#5d6a62">ruta, autopista</text>
+    <text x="526" y="132" text-anchor="start" font-size="13" fill="#5d6a62">atrás</text>
+  </g>
+
+  <text x="300" y="420" text-anchor="middle" font-size="15" fill="#5d6a62">Cada marcha según la situación de manejo</text>
+</svg>

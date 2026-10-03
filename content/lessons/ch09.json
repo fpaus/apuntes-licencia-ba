@@ -1,0 +1,57 @@
+{
+  "chapter": 9,
+  "lessons": [
+    {
+      "id": "9.0",
+      "title": "Triciclos y cuatriciclos: qué vas a aprender",
+      "summary": "Una introducción a las reglas para circular con cuatriciclos y triciclos motorizados.",
+      "cards": [
+        {
+          "title": "Vehículos para terrenos especiales",
+          "body": "Los cuatriciclos (incluidos los triciclos motorizados y los UTV) son vehículos pensados para terrenos irregulares, como tierra, arena o ripio. Tienen reglas propias de circulación y de licencia, distintas a las de la moto o el auto.",
+          "page": 161
+        }
+      ]
+    },
+    {
+      "id": "9.1",
+      "title": "Funcionamiento de triciclos y cuatriciclos",
+      "summary": "Licencia, dónde circular y equipamiento obligatorio.",
+      "cards": [
+        {
+          "title": "Licencia y documentación",
+          "body": "Para manejar un cuatriciclo necesitás licencia de conducir habilitante, casco homologado, seguro del vehículo y el comprobante de titularidad. Desde 2019 existe la licencia específica, clases A2.1, A2.2 y A3.\n\nSi tenías clase A emitida hasta 2018, podés seguir usándola hasta que venza; para renovarla vas a rendir el examen de cuatriciclos.",
+          "page": 163,
+          "table": {
+            "head": ["Requisito", "Detalle"],
+            "rows": [
+              ["Licencia", "Clase A2.1, A2.2 o A3"],
+              ["Casco", "Homologado, con protección ocular"],
+              ["Seguro", "Obligatorio"],
+              ["Vigente desde", "2019"]
+            ]
+          }
+        },
+        {
+          "title": "Dónde se puede circular",
+          "body": "Los cuatriciclos solo pueden circular por los corredores y zonas que habilita cada Municipio. En la vía pública en general, está prohibido.\n\nLos **corredores seguros** llevan al conductor hasta la **zona segura**, el espacio recreativo. La velocidad máxima en los corredores es 20 km/h.",
+          "page": 162,
+          "table": {
+            "head": ["Dato", "Valor"],
+            "rows": [["Velocidad máxima en corredores seguros", "20 km/h"]]
+          }
+        },
+        {
+          "title": "Equipamiento y postura en pendientes",
+          "body": "Para manejar un cuatriciclo usá calzado cerrado y resistente, pantalón largo, remera de manga larga y casco con protección ocular (obligatorio).\n\nAl subir una pendiente, inclinate hacia adelante; al bajar, hacia atrás. Al girar, llevá el peso hacia el lado del giro. Si no lo hacés, podés volcar.",
+          "page": 164
+        },
+        {
+          "title": "Lo que no está permitido",
+          "body": "No podés llevar más de un acompañante, salvo en un UTV habilitado para eso. Tampoco pueden manejar menores de edad ni personas sin la licencia correspondiente.",
+          "page": 164
+        }
+      ]
+    }
+  ]
+}

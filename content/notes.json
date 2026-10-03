@@ -1,0 +1,230 @@
+[
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.27.jpeg",
+  "title": "Apuntes: líneas, velocidades y frenado",
+  "kind": "apunte",
+  "topics": [
+   "3.3",
+   "4.3",
+   "6.7"
+  ],
+  "facts": [
+   "Líneas de separación de carriles y de sentidos de circulación (mismas figuras que el manual, p. 48).",
+   "Velocidades (mínima – máxima): calle 20–40 km/h; avenida 30–60; ruta 40–110; autovía 40–120; autopista 65–130; zona escuela 10–20.",
+   "En vías semaforizadas: 30 km/h – 15.",
+   "Tiempo de frenado: 2 segundos."
+  ],
+  "status": "conflict",
+  "conflict_refs": [
+   "semaforizadas",
+   "dos-segundos"
+  ],
+  "warning": "Dos datos difieren del manual: 30/15 km/h es el límite de las intersecciones, no de las vías semaforizadas (p. 57); y los 2 segundos son la distancia de seguridad con el vehículo de adelante, no el tiempo de frenado (p. 104).",
+  "image": "img/notes/velocidades.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.27(1).jpeg",
+  "title": "Cambios manuales y uso de pedales",
+  "kind": "infografia",
+  "topics": [
+   "extra.practica"
+  ],
+  "facts": [
+   "Pedales: embrague a la izquierda, freno al centro, acelerador a la derecha.",
+   "Pie izquierdo para el embrague; pie derecho para freno y acelerador.",
+   "1ra: arranque y subidas. 2da: despacio. 3ra: ciudad, velocidad media. 4ta: mayor velocidad. 5ta: ruta y autopista.",
+   "TODO: verify — los rangos de velocidad por marcha de la imagen son incoherentes (la 5ta figura con 33–44 km/h, por debajo de la 4ta). Se omiten."
+  ],
+  "status": "outside_manual",
+  "image": "img/notes/pedales-cambios.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.27(2).jpeg",
+  "title": "Publicidad de gestoría",
+  "kind": "publicidad",
+  "topics": [],
+  "facts": [],
+  "status": "no_study_content"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.28.jpeg",
+  "title": "Significado de las líneas de la carretera",
+  "kind": "infografia",
+  "topics": [
+   "3.3",
+   "6.5"
+  ],
+  "facts": [
+   "Línea continua: separa sentidos de circulación; prohibido cruzarla para adelantar.",
+   "Doble línea continua: prohibido adelantar en ambos sentidos.",
+   "Línea discontinua: se puede adelantar si es seguro.",
+   "Doble combinada (continua + discontinua): adelanta solo el lado de la línea discontinua.",
+   "Líneas de carril: delimitan carriles; se cruzan solo para cambiar de carril o girar.",
+   "Línea de borde: delimita el borde de la calzada; no se sobrepasa.",
+   "Paso peatonal: los peatones tienen prioridad; el conductor se detiene.",
+   "Flechas de dirección obligatoria: indican la dirección que debe seguir cada carril.",
+   "La imagen cita artículos de la Ley Nacional 24.449 (arts. 39, 40 y 41); el manual no cita esos artículos en esta sección."
+  ],
+  "status": "consistent",
+  "image": "img/notes/lineas-calzada.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.28(1).jpeg",
+  "title": "Postura correcta y referencias al conducir",
+  "kind": "infografia",
+  "topics": [
+   "1.6",
+   "7.7",
+   "extra.practica"
+  ],
+  "facts": [
+   "Apoyacabezas alineado con la cabeza; vista al frente; codos levemente flexionados; respaldo con leve inclinación.",
+   "Ángulo de cadera 100°–115°; ángulo de rodilla 120°–135°; distancia al volante 25–30 cm aprox.",
+   "Manos en 9 y 3 o en 10 y 2. Pies apoyados con alcance cómodo a los pedales.",
+   "Referencias visuales: centro visual, límites izquierdo y derecho del auto, espejo lateral como apoyo.",
+   "Coincide con el manual: posición correcta y cómoda, ambas manos en el volante, espejos regulados (p. 21); apoyacabezas contra el efecto látigo (p. 125). Los ángulos y distancias no figuran en el manual."
+  ],
+  "status": "outside_manual",
+  "image": "img/notes/postura.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.28(2).jpeg",
+  "title": "Malas prácticas al manejar",
+  "kind": "infografia",
+  "topics": [
+   "extra.practica"
+  ],
+  "facts": [
+   "Descansar el pie en el embrague: desgasta el embrague.",
+   "Pisar el embrague en los semáforos: desgaste y fatiga del sistema.",
+   "Arrancar muy fuerte: más consumo y desgaste.",
+   "Sostener el auto en pendiente con el embrague: desgaste y fallas.",
+   "Cambiar sin pisar el embrague a fondo, o forzar la palanca: daña la caja de cambios.",
+   "Circular a bajas revoluciones: el motor trabaja forzado.",
+   "Entrar rápido en las curvas: riesgo de perder el control.",
+   "Ignorar el punto de fricción del embrague: tirones y pérdida de control."
+  ],
+  "status": "outside_manual",
+  "image": "img/notes/malas-practicas.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.28(3).jpeg",
+  "title": "¿Las avenidas rápidas gastan menos combustible?",
+  "kind": "infografia",
+  "topics": [
+   "4.5",
+   "extra.practica"
+  ],
+  "facts": [
+   "El consumo depende más de cómo se maneja que de la velocidad sola.",
+   "Velocidad constante y manejo suave reducen el consumo; frenar y acelerar seguido, semáforos y tránsito pesado lo aumentan.",
+   "Ir demasiado rápido aumenta el consumo por la resistencia del aire; subidas, peso extra y neumáticos desinflados también.",
+   "Aire acondicionado en ciudad: +5% a +20% de consumo (fuente citada: EPA de EE. UU.; no figura en el manual).",
+   "Coincide con el manual: acelerar fuerte exige más potencia y más combustible (p. 63)."
+  ],
+  "status": "outside_manual",
+  "image": "img/notes/consumo.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.29.jpeg",
+  "title": "Publicidad de academia de conductores",
+  "kind": "publicidad",
+  "topics": [],
+  "facts": [],
+  "status": "no_study_content"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.29(1).jpeg",
+  "title": "Posición de las manos en el volante",
+  "kind": "infografia",
+  "topics": [
+   "1.6",
+   "extra.practica"
+  ],
+  "facts": [
+   "Mejor: 9 y 3 — máximo control y acceso rápido al volante.",
+   "Normal: 10 y 2 — equilibrio entre control y comodidad.",
+   "Peligro: 12, 6, 7 y 5 — menos control y reacciones más lentas.",
+   "El manual solo pide ambas manos en el volante (p. 21)."
+  ],
+  "status": "outside_manual",
+  "image": "img/notes/manos-volante.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.29(2).jpeg",
+  "title": "Cómo reaccionar si un auto se te mete de golpe",
+  "kind": "infografia",
+  "topics": [
+   "4.6",
+   "extra.practica"
+  ],
+  "facts": [
+   "1. No des un volantazo: te puede sacar de control.",
+   "2. Soltá el acelerador para ganar tiempo.",
+   "3. Frená en forma progresiva.",
+   "4. Buscá una vía de escape real.",
+   "5. Mantené tu carril si podés controlar la situación.",
+   "Regla clave: primero controlá tu auto; después corregí la maniobra."
+  ],
+  "status": "outside_manual",
+  "image": "img/notes/reaccionar.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.30.jpeg",
+  "title": "Cómo arrancar en subida",
+  "kind": "infografia",
+  "topics": [
+   "4.7",
+   "extra.practica"
+  ],
+  "facts": [
+   "1. Pisá el freno y mantenelo.",
+   "2. Pisá el embrague y poné primera.",
+   "3. Soltá el freno despacio.",
+   "4. Soltá el embrague lentamente hasta el punto de fricción.",
+   "5. Soltá el freno mientras acelerás suave.",
+   "6. Cuando el auto avanza, soltá del todo el embrague.",
+   "TODO: verify — los pasos 3 y 5 repiten 'soltar el freno'; el orden de la imagen es ambiguo."
+  ],
+  "status": "outside_manual",
+  "image": "img/notes/arranque-subida.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.30(1).jpeg",
+  "title": "La rotonda según la ley argentina",
+  "kind": "infografia",
+  "topics": [
+   "6.8",
+   "6.3"
+  ],
+  "facts": [
+   "La rotonda es una intersección circular; se circula alrededor de la isla central en sentido antihorario.",
+   "Cedé el paso a los vehículos que ya circulan dentro de la rotonda.",
+   "Señalizá la salida con anticipación.",
+   "Usá el carril exterior para entrar y salir; hacé los cambios de carril dentro de la rotonda.",
+   "Nunca cruces la rotonda en línea recta ni salgas desde un carril interior.",
+   "El manual agrega: quien circula por la rotonda debe ceder el paso al que egresa, salvo señalización (p. 105)."
+  ],
+  "status": "consistent",
+  "image": "img/notes/rotonda.svg"
+ },
+ {
+  "file": "WhatsApp Image 2026-10-03 at 08.21.31.jpeg",
+  "title": "Tabla de límites de velocidad del manual (con tus anotaciones)",
+  "kind": "apunte",
+  "topics": [
+   "4.3"
+  ],
+  "facts": [
+   "Es la tabla de la página 57 del manual, con mínimas escritas a mano: 40 km/h en semiautopistas y autovías, 65 km/h en autopistas.",
+   "El 65 km/h a mano coincide con la celda combinada de autopistas del manual.",
+   "El 40 km/h a mano para semiautopistas es una lectura de la columna rural: el manual muestra '40 km/h' en carreteras y debajo una celda combinada 'salvo maquinaria especial'. TODO: verify con el instructor."
+  ],
+  "status": "consistent",
+  "conflict_refs": [
+   "minima-semiautopista"
+  ],
+  "warning": "La mínima de 40 km/h en semiautopistas es una interpretación de la tabla del manual (p. 57). Confirmala con tu instructor.",
+  "image": "img/manual/p057.jpg"
+ }
+]

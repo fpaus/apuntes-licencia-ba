@@ -1,0 +1,52 @@
+<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <rect x="0" y="0" width="600" height="450" rx="24" fill="#ffffff"/>
+
+  <text x="300" y="30" text-anchor="middle" font-size="23" font-weight="bold" fill="#1d2420">Velocidades mínimas y máximas</text>
+
+  <!-- scale: px = 170 + km*3, from 0 km/h (x=170) to 130 km/h (x=560) -->
+
+  <!-- row 1: zona escuela 10-20 -->
+  <text x="160" y="69" text-anchor="end" font-size="15" fill="#1d2420">Zona escuela</text>
+  <rect x="200" y="56" width="30" height="18" rx="9" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+  <text x="215" y="90" text-anchor="middle" font-size="13" fill="#5d6a62">10–20</text>
+
+  <!-- row 2: interseccion 15-30 -->
+  <text x="160" y="113" text-anchor="end" font-size="15" fill="#1d2420">Intersección</text>
+  <rect x="215" y="100" width="45" height="18" rx="9" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+  <text x="237" y="134" text-anchor="middle" font-size="13" fill="#5d6a62">15–30</text>
+
+  <!-- row 3: calle 20-40 -->
+  <text x="160" y="157" text-anchor="end" font-size="15" fill="#1d2420">Calle</text>
+  <rect x="230" y="144" width="60" height="18" rx="9" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+  <text x="260" y="178" text-anchor="middle" font-size="13" fill="#5d6a62">20–40</text>
+
+  <!-- row 4: avenida 30-60 -->
+  <text x="160" y="201" text-anchor="end" font-size="15" fill="#1d2420">Avenida</text>
+  <rect x="260" y="188" width="90" height="18" rx="9" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+  <text x="305" y="222" text-anchor="middle" font-size="13" fill="#5d6a62">30–60</text>
+
+  <!-- row 5: ruta 40-110 -->
+  <text x="160" y="245" text-anchor="end" font-size="15" fill="#1d2420">Ruta</text>
+  <rect x="290" y="232" width="210" height="18" rx="9" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+  <text x="395" y="266" text-anchor="middle" font-size="13" fill="#5d6a62">40–110</text>
+
+  <!-- row 6: autovia hasta 120 -->
+  <text x="160" y="289" text-anchor="end" font-size="15" fill="#1d2420">Autovía</text>
+  <rect x="170" y="276" width="360" height="18" rx="9" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+  <text x="350" y="310" text-anchor="middle" font-size="13" fill="#5d6a62">hasta 120</text>
+
+  <!-- row 7: autopista 65-130 -->
+  <text x="160" y="333" text-anchor="end" font-size="15" fill="#1d2420">Autopista</text>
+  <rect x="365" y="320" width="195" height="18" rx="9" fill="#e2f1e6" stroke="#2f8a4f" stroke-width="2"/>
+  <text x="462" y="354" text-anchor="middle" font-size="13" fill="#5d6a62">65–130</text>
+
+  <!-- axis -->
+  <line x1="170" y1="370" x2="560" y2="370" stroke="#d9e0d9" stroke-width="2"/>
+  <text x="170" y="390" text-anchor="middle" font-size="13" fill="#5d6a62">0</text>
+  <text x="300" y="390" text-anchor="middle" font-size="13" fill="#5d6a62">50</text>
+  <text x="430" y="390" text-anchor="middle" font-size="13" fill="#5d6a62">100</text>
+  <text x="552" y="390" text-anchor="middle" font-size="13" fill="#5d6a62">130 km/h</text>
+
+  <text x="300" y="414" text-anchor="middle" font-size="14" fill="#5d6a62">Rango de velocidad mínima a máxima por tipo de vía</text>
+  <text x="300" y="432" text-anchor="middle" font-size="13" fill="#5d6a62">(manual, p. 57)</text>
+</svg>

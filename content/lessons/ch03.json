@@ -1,0 +1,173 @@
+{
+  "chapter": 3,
+  "lessons": [
+    {
+      "id": "3.1",
+      "title": "Conceptos generales del señalamiento",
+      "summary": "Por qué el señalamiento es universal y quién puede crearlo.",
+      "cards": [
+        {
+          "title": "Un lenguaje universal",
+          "body": "El señalamiento transmite órdenes, advertencias e información a todos los que usan la vía pública, aunque no conozcan el idioma del lugar. Sus formas, colores y combinaciones tienen un significado genérico e internacional.\n\nLa Provincia de Buenos Aires usa el mismo código de señalamiento que el resto del país: el Anexo L del Decreto 779/95, reglamentario de la Ley 24.449.",
+          "page": 40
+        },
+        {
+          "title": "Reglas sobre las señales",
+          "body": "Toda orden que se deba cumplir en la vía pública tiene que estar señalizada en el lugar donde rige. Si una prohibición no está señalizada, no hay infracción.\n\nSolo la autoridad de tránsito puede crear excepciones a la ley general, y únicamente las que contempla el código de señalamiento. Nadie puede inventar señales propias.",
+          "page": 40,
+          "callout": "Destruir o dañar señales es delito."
+        }
+      ]
+    },
+    {
+      "id": "3.2",
+      "title": "Señales verticales",
+      "summary": "Las cuatro familias de carteles: forma, color y qué significa cada una.",
+      "cards": [
+        {
+          "title": "Cómo distinguir cada familia de señal",
+          "body": "Cada familia de señales verticales se reconoce por su forma y color, sin necesidad de leer el texto.",
+          "page": 42,
+          "table": {
+            "head": ["Familia", "Forma y color", "Mensaje"],
+            "rows": [
+              ["Reglamentarias", "Redondas, blancas, borde rojo (excepto PARE y CEDA EL PASO)", "Obligan o prohíben"],
+              ["Preventivas", "Cuadradas en diagonal (rombo), amarillas, borde rojo", "Advierten un peligro"],
+              ["Informativas", "Cuadradas o rectangulares, azules o verdes (algunas blancas)", "Orientan e informan"],
+              ["Transitorias", "Similares a las preventivas, color naranja; también conos, vallas, tambores, balizas", "Señalan obras o desvíos temporarios"]
+            ]
+          },
+          "image": "img/manual/p042-0.jpg"
+        },
+        {
+          "title": "Señales reglamentarias o prescriptivas",
+          "body": "Son redondas, blancas con borde rojo. Imponen una obligación o una prohibición: límites de velocidad, de peso o de ancho, sentidos de circulación obligatorios, prohibido circular con cierto vehículo, prohibido girar, prohibido estacionar.\n\nPARE y CEDA EL PASO son la excepción: no son redondas blancas, forman la familia de señales de prioridad.",
+          "page": 43,
+          "image": "img/manual/p043.jpg"
+        },
+        {
+          "title": "Fin de la prescripción y señales de prioridad",
+          "body": "Las señales de fin de la prescripción avisan que termina una obligación o prohibición (por ejemplo, fin del límite de velocidad).\n\nLas señales de prioridad regulan quién tiene el paso en una intersección: PARE obliga a detenerse totalmente, CEDA EL PASO obliga a ceder el paso sin necesidad de parar si no hay riesgo.",
+          "page": 43,
+          "image": "img/manual/p043.jpg"
+        },
+        {
+          "title": "Señales de prohibición",
+          "body": "Son redondas, blancas con borde rojo y un símbolo tachado o una barra diagonal. Prohíben una acción puntual: prohibido girar, prohibido adelantar, prohibido el paso a cierto tipo de vehículo, prohibido estacionar o detenerse.",
+          "page": 43,
+          "image": "img/manual/p043.jpg"
+        },
+        {
+          "title": "Señales preventivas o de advertencia",
+          "body": "Son rombos (cuadrados en diagonal) amarillos con borde rojo. Advierten sobre las características de la vía más adelante: curvas, cruces, calzada resbaladiza, puentes angostos, cruces de peatones, animales sueltos o escolares.\n\nLas señales de fin de la prevención avisan que termina ese peligro.",
+          "page": 44,
+          "image": "img/manual/p044-0.jpg"
+        },
+        {
+          "title": "Advertencia de máximo peligro",
+          "body": "Dentro de las preventivas hay un grupo que marca el riesgo más alto: cruce ferroviario sin barrera, cruce de peatones, zona escolar y otros peligros donde un error cuesta muy caro. Exigen la máxima atención.",
+          "page": 44,
+          "image": "img/manual/p044-0.jpg"
+        },
+        {
+          "title": "Señales informativas y de servicios",
+          "body": "Son cuadradas o rectangulares, de fondo azul o verde (algunas, blancas). Indican servicios turísticos (hotel, estación de servicio, puesto sanitario, restaurante) y orientación: rutas, nomenclatura de calles, destinos y distancias.",
+          "page": 45,
+          "image": "img/manual/p045-0.jpg"
+        },
+        {
+          "title": "Señales transitorias",
+          "body": "Avisan obras o situaciones inesperadas en la vía: desvíos, carretera de un solo carril, banderilleros, zonas de obra. Son de fondo naranja con símbolo negro, muy reflectivas.\n\nSe combinan con vallas, conos, tambores, postes delineadores y balizas para canalizar el tránsito.",
+          "page": 46,
+          "image": "img/manual/p046-0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "title": "Demarcación horizontal",
+      "summary": "Qué significan las líneas y marcas pintadas en el pavimento.",
+      "cards": [
+        {
+          "title": "Colores y líneas longitudinales",
+          "body": "Las marcas en el pavimento ordenan, advierten, informan y encauzan la circulación. No se debe circular sobre ellas.\n\nUsan tres colores: blanco, amarillo y rojo. Las líneas blancas separan carriles del mismo sentido. Las líneas amarillas separan sentidos opuestos.",
+          "page": 47
+        },
+        {
+          "title": "Continua o discontinua: qué permite cada una",
+          "body": "La línea discontinua (de trazos) blanca permite cambiar de carril. La línea continua, blanca o amarilla, es restrictiva: no se puede cruzar ni cambiar de carril.\n\nUna doble línea continua marca el riesgo máximo. Si hay una continua junto a una discontinua, solo puede cruzar quien tiene la discontinua de su lado.",
+          "page": 47,
+          "image": "img/manual/p047-0.jpg"
+        },
+        {
+          "title": "Líneas y marcas transversales",
+          "body": "Se usan en los cruces: la línea de detención (de pare) marca dónde frenar, y la senda peatonal marca por dónde cruzan los peatones.\n\nEstá prohibido detenerse o estacionar sobre la senda peatonal.",
+          "page": 48,
+          "image": "img/manual/p048-0.jpg"
+        },
+        {
+          "title": "Flechas y marcas de estacionamiento",
+          "body": "Las flechas pintadas sobre un carril indican la única dirección permitida desde ese carril (seguir derecho, doblar, o ambas opciones).\n\nLas marcas de estacionamiento son blancas e indican cómo dejar el vehículo (paralelo al cordón o en ángulo) y dónde está permitido.",
+          "page": 48
+        },
+        {
+          "title": "Otras marcas de refuerzo",
+          "body": "Se usan también para reforzar advertencias: cruce ferroviario, velocidad máxima del carril, y líneas vibrantes o sonoras que producen un sonido al pisarlas.\n\nSe complementan con tachas reflectivas metálicas, cerámicas o plásticas.",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "title": "Señales luminosas y semáforos",
+      "summary": "Qué obliga cada luz del semáforo, para vehículos, peatones y ciclos.",
+      "cards": [
+        {
+          "title": "Luces sueltas: significado básico",
+          "body": "Una luz roja sola significa peligro y prohibición de paso. Una luz amarilla (fija o intermitente) significa precaución, riesgo potencial.\n\nEl semáforo combina los tres colores siempre en el mismo orden y asigna el paso en los cruces, con el objetivo de ordenar el tránsito con el mínimo de demora y de riesgo.",
+          "page": 49
+        },
+        {
+          "title": "Qué obliga cada luz del semáforo vehicular",
+          "body": "Cada color del semáforo tiene una obligación precisa para el conductor.",
+          "page": 49,
+          "table": {
+            "head": ["Luz", "Qué debe hacer el conductor"],
+            "rows": [
+              ["Verde", "Avanzar o doblar (salvo a la izquierda en doble mano sin flecha de giro)"],
+              ["Amarilla fija", "Detenerse si puede hacerlo con seguridad; si está muy cerca del cruce, continuar con precaución"],
+              ["Amarilla intermitente", "Equivale a CEDA EL PASO"],
+              ["Roja fija", "Detenerse antes de la línea de pare o la senda peatonal; no avanzar hasta el verde"],
+              ["Roja intermitente", "Equivale a PARE"]
+            ]
+          },
+          "callout": "La infracción de luz roja se comete al traspasar la línea de pare o la senda peatonal, no antes."
+        },
+        {
+          "title": "Flechas del semáforo",
+          "body": "Las flechas pueden ser rojas o verdes y aplican a un carril, a varios o a toda la calzada.\n\nLa flecha verde obliga a avanzar en el sentido que indica. La flecha roja prohíbe avanzar en esa dirección: solo avisa que se podrá girar cuando encienda la verde.\n\nSi se encienden varias luces a la vez, siempre tiene preeminencia la roja.",
+          "page": 49
+        },
+        {
+          "title": "Semáforo peatonal",
+          "body": "La luz blanca o verde del semáforo peatonal permite cruzar por la senda. Al cambiar a roja o naranja intermitente, no se debe iniciar el cruce; quien ya cruzaba debe terminar de hacerlo.\n\nSi no hay semáforo peatonal, el peatón se guía por el semáforo vehicular de su misma dirección y no debe iniciar el cruce con amarillo o rojo.",
+          "page": 50
+        },
+        {
+          "title": "Ciclo del semáforo",
+          "body": "El ciclo es el tiempo total para completar todas las fases antes de repetirse. Se usan ciclos de entre 40 y 130 segundos: los ciclos cortos generan menos demora pero tienen menos capacidad.\n\nEn cruces sucesivos se coordinan las luces verdes para formar una \"onda verde\" a cierta velocidad.",
+          "page": 50,
+          "table": {
+            "head": ["Dato", "Valor"],
+            "rows": [["Duración típica de un ciclo", "40 a 130 segundos"]]
+          }
+        },
+        {
+          "title": "Señales y dispositivos temporarios",
+          "body": "Se usan para avisar situaciones inesperadas, sobre todo obras o actividades temporarias en la vía. Son de fondo naranja con símbolo negro y alta reflectividad.\n\nSe instalan junto con vallas, conos, tambores, postes delineadores, balizas, banderas y semáforos provisorios.",
+          "page": 51
+        }
+      ]
+    }
+  ]
+}
